@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "469",
+               "short_name" : "469",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Plattekill Road",
+               "short_name" : "Plattekill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roxbury",
+               "short_name" : "Roxbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roxbury",
+               "short_name" : "Roxbury",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Delaware County",
+               "short_name" : "Delaware County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12474",
+               "short_name" : "12474",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "469 Plattekill Rd, Roxbury, NY 12474, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2903409,
+               "lng" : -74.65319270000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2916898802915,
+                  "lng" : -74.65184371970851
+               },
+               "southwest" : {
+                  "lat" : 42.2889919197085,
+                  "lng" : -74.65454168029152
+               }
+            }
+         },
+         "place_id" : "ChIJedbJ1Tdn3IkRaEwPSgT63HM",
+         "plus_code" : {
+            "compound_code" : "78RW+4P Roxbury, NY, USA",
+            "global_code" : "87J778RW+4P"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

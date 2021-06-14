@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4960",
+               "short_name" : "4960",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wisconsin 101",
+               "short_name" : "WI-101",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Florence",
+               "short_name" : "Florence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Commonwealth",
+               "short_name" : "Commonwealth",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Florence County",
+               "short_name" : "Florence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54121",
+               "short_name" : "54121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4960 WI-101, Florence, WI 54121, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.8957901,
+               "lng" : -88.29936979999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8971390802915,
+                  "lng" : -88.2980208197085
+               },
+               "southwest" : {
+                  "lat" : 45.8944411197085,
+                  "lng" : -88.3007187802915
+               }
+            }
+         },
+         "place_id" : "ChIJoUQVrojHU00RbUMX0vvKCPI",
+         "plus_code" : {
+            "compound_code" : "VPW2+87 Florence, WI, USA",
+            "global_code" : "86QHVPW2+87"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

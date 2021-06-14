@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "82nd Avenue Northeast",
+               "short_name" : "82nd Ave NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Skykomish",
+               "short_name" : "Skykomish",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98288",
+               "short_name" : "98288",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "82nd Ave NE, Skykomish, WA 98288, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.7103871,
+               "lng" : -121.1623076
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.71173608029149,
+                  "lng" : -121.1609586197085
+               },
+               "southwest" : {
+                  "lat" : 47.7090381197085,
+                  "lng" : -121.1636565802915
+               }
+            }
+         },
+         "place_id" : "ChIJrWTQkwn0mlQRnwnV2OZKtFg",
+         "plus_code" : {
+            "compound_code" : "PR6Q+53 Skykomish, WA, USA",
+            "global_code" : "84VWPR6Q+53"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

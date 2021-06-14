@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "301",
+               "short_name" : "301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bear Meadows Road",
+               "short_name" : "Bear Meadows Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boalsburg",
+               "short_name" : "Boalsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris Township",
+               "short_name" : "Harris Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Centre County",
+               "short_name" : "Centre County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16827",
+               "short_name" : "16827",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "301 Bear Meadows Rd, Boalsburg, PA 16827, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769202,
+               "lng" : -77.75393179999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7705509802915,
+                  "lng" : -77.75258281970848
+               },
+               "southwest" : {
+                  "lat" : 40.7678530197085,
+                  "lng" : -77.7552807802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4RyT6t6vzokRwhycsjVIisA",
+         "plus_code" : {
+            "compound_code" : "Q69W+MC Boalsburg, PA, USA",
+            "global_code" : "87G4Q69W+MC"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

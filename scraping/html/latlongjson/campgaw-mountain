@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campgaw Road",
+               "short_name" : "Campgaw Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mahwah",
+               "short_name" : "Mahwah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen County",
+               "short_name" : "Bergen County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07430",
+               "short_name" : "07430",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2531",
+               "short_name" : "2531",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "200 Campgaw Rd, Mahwah, NJ 07430, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.05864469999999,
+               "lng" : -74.1949637
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.05999368029149,
+                  "lng" : -74.19361471970851
+               },
+               "southwest" : {
+                  "lat" : 41.0572957197085,
+                  "lng" : -74.19631268029151
+               }
+            }
+         },
+         "place_id" : "ChIJz8RBBYjhwokRHIQNs-QAfE8",
+         "plus_code" : {
+            "compound_code" : "3R54+F2 Mahwah, NJ, USA",
+            "global_code" : "87H73R54+F2"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

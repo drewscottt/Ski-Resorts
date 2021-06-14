@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6775",
+               "short_name" : "6775",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highland Road",
+               "short_name" : "Highland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Lake",
+               "short_name" : "White Lake",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "White Lake charter Township",
+               "short_name" : "White Lake Charter Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakland County",
+               "short_name" : "Oakland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48383",
+               "short_name" : "48383",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6775 Highland Rd, White Lake, MI 48383, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.6529705,
+               "lng" : -83.5230445
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6543194802915,
+                  "lng" : -83.52169551970849
+               },
+               "southwest" : {
+                  "lat" : 42.6516215197085,
+                  "lng" : -83.52439348029151
+               }
+            }
+         },
+         "place_id" : "ChIJzSwIL5ChJIgRaHIq0TuXk7s",
+         "plus_code" : {
+            "compound_code" : "MF3G+5Q White Lake, White Lake charter Township, MI, USA",
+            "global_code" : "86JRMF3G+5Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "78",
+               "short_name" : "78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Country Club Trail",
+               "short_name" : "Country Club Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfield",
+               "short_name" : "Fairfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adams County",
+               "short_name" : "Adams County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17320",
+               "short_name" : "17320",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "78 Country Club Trail, Fairfield, PA 17320, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.76366,
+               "lng" : -77.37545899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7650089802915,
+                  "lng" : -77.37411001970848
+               },
+               "southwest" : {
+                  "lat" : 39.76231101970851,
+                  "lng" : -77.3768079802915
+               }
+            }
+         },
+         "place_id" : "ChIJQQ0rSgqwyYkRfDKpYAfLHus",
+         "plus_code" : {
+            "compound_code" : "QJ7F+FR Fairfield, PA, USA",
+            "global_code" : "87F4QJ7F+FR"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "spa",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogus Basin",
+               "short_name" : "Bogus Basin",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Boise County",
+               "short_name" : "Boise County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83629",
+               "short_name" : "83629",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bogus Basin, Idaho 83629, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7640569,
+               "lng" : -116.1026168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77211459999999,
+                  "lng" : -116.0866094
+               },
+               "southwest" : {
+                  "lat" : 43.7559981,
+                  "lng" : -116.1186242
+               }
+            }
+         },
+         "place_id" : "ChIJh4sIUXMdr1QRrsFxEzygLwA",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3450",
+               "short_name" : "3450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Moose Mountain Road",
+               "short_name" : "Moose Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairbanks",
+               "short_name" : "Fairbanks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks North Star",
+               "short_name" : "Fairbanks North Star",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99709",
+               "short_name" : "99709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3450 Moose Mountain Rd, Fairbanks, AK 99709, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.94048300000001,
+               "lng" : -147.9916229
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.94183198029152,
+                  "lng" : -147.9902739197085
+               },
+               "southwest" : {
+                  "lat" : 64.93913401970852,
+                  "lng" : -147.9929718802915
+               }
+            }
+         },
+         "place_id" : "ChIJ6eakgk5FMlERA6mICXA9nrA",
+         "plus_code" : {
+            "compound_code" : "W2R5+59 Fairbanks, AK, USA",
+            "global_code" : "93PJW2R5+59"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

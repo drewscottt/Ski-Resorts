@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43101",
+               "short_name" : "43101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Goldmine Drive",
+               "short_name" : "Goldmine Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92315",
+               "short_name" : "92315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "43101 Goldmine Dr, Big Bear Lake, CA 92315, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2276766,
+               "lng" : -116.8608572
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2320563,
+                  "lng" : -116.8395845
+               },
+               "southwest" : {
+                  "lat" : 34.2047056,
+                  "lng" : -116.8771742
+               }
+            }
+         },
+         "place_id" : "ChIJ11JUbu60xIARTI9O4HIRJHw",
+         "plus_code" : {
+            "compound_code" : "64HQ+3M Big Bear Lake, CA, USA",
+            "global_code" : "856564HQ+3M"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suite A",
+               "short_name" : "Suite A",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "880",
+               "short_name" : "880",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Summit Boulevard",
+               "short_name" : "Summit Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92315",
+               "short_name" : "92315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "880 Summit Blvd Suite A, Big Bear Lake, CA 92315, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2363723,
+               "lng" : -116.8893206
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2377212802915,
+                  "lng" : -116.8879716197085
+               },
+               "southwest" : {
+                  "lat" : 34.2350233197085,
+                  "lng" : -116.8906695802915
+               }
+            }
+         },
+         "place_id" : "ChIJPUqm3E21xIARO2IaB6oJkMg",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

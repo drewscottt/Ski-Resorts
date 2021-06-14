@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old Mount Peter Road",
+               "short_name" : "Old Mt Peter Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warwick",
+               "short_name" : "Warwick",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10990",
+               "short_name" : "10990",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "51 Old Mt Peter Rd, Warwick, NY 10990, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2477999,
+               "lng" : -74.29518729999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.24914888029149,
+                  "lng" : -74.29383831970848
+               },
+               "southwest" : {
+                  "lat" : 41.2464509197085,
+                  "lng" : -74.29653628029149
+               }
+            }
+         },
+         "place_id" : "ChIJCeIb_Lomw4kRlmyQeeYlp4E",
+         "plus_code" : {
+            "compound_code" : "6PX3+4W Warwick, NY, USA",
+            "global_code" : "87H76PX3+4W"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

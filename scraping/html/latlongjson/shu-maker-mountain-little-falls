@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Creek Road",
+               "short_name" : "Creek Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Little Falls",
+               "short_name" : "Little Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Danube",
+               "short_name" : "Danube",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Herkimer County",
+               "short_name" : "Herkimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13365",
+               "short_name" : "13365",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "135 Creek Rd, Little Falls, NY 13365, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9772837,
+               "lng" : -74.8230111
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9786326802915,
+                  "lng" : -74.82166211970849
+               },
+               "southwest" : {
+                  "lat" : 42.9759347197085,
+                  "lng" : -74.8243600802915
+               }
+            }
+         },
+         "place_id" : "ChIJdeNeE-Ow3okR1kgvPekltOw",
+         "plus_code" : {
+            "compound_code" : "X5GG+WQ Little Falls, NY, USA",
+            "global_code" : "87J7X5GG+WQ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

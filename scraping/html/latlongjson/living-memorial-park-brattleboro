@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Living Memorial Park",
+               "short_name" : "Living Memorial Park",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guilford Street",
+               "short_name" : "Guilford St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Brattleboro",
+               "short_name" : "West Brattleboro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brattleboro",
+               "short_name" : "Brattleboro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Windham County",
+               "short_name" : "Windham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05301",
+               "short_name" : "05301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Living Memorial Park, 61 Guilford St, Brattleboro, VT 05301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8482807,
+               "lng" : -72.5847969
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.84962968029149,
+                  "lng" : -72.58344791970849
+               },
+               "southwest" : {
+                  "lat" : 42.8469317197085,
+                  "lng" : -72.58614588029151
+               }
+            }
+         },
+         "place_id" : "ChIJaeZC0sAb4YkRVTkNyZRX6Ws",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Memorial Park Drive",
+               "short_name" : "Memorial Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Brattleboro",
+               "short_name" : "West Brattleboro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brattleboro",
+               "short_name" : "Brattleboro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Windham County",
+               "short_name" : "Windham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05301",
+               "short_name" : "05301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Memorial Park Dr, West Brattleboro, VT 05301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8481342,
+               "lng" : -72.5858276
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.84948318029149,
+                  "lng" : -72.58447861970849
+               },
+               "southwest" : {
+                  "lat" : 42.8467852197085,
+                  "lng" : -72.58717658029151
+               }
+            }
+         },
+         "place_id" : "ChIJ6655ssAb4YkR27mUNK_VS2o",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

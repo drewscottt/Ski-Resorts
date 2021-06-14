@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aldis Hill Park",
+               "short_name" : "Aldis Hill Park",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "Saint Albans City",
+               "short_name" : "St Albans City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05478",
+               "short_name" : "05478",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aldis Hill Park, St Albans City, VT 05478, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8194721,
+               "lng" : -73.06974219999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8208210802915,
+                  "lng" : -73.06839321970848
+               },
+               "southwest" : {
+                  "lat" : 44.8181231197085,
+                  "lng" : -73.07109118029149
+               }
+            }
+         },
+         "place_id" : "ChIJ93y8RNoaykwRJ3AJvsctZ38",
+         "plus_code" : {
+            "compound_code" : "RW9J+Q4 Saint Albans City, VT, USA",
+            "global_code" : "87P8RW9J+Q4"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

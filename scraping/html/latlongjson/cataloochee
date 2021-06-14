@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1080",
+               "short_name" : "1080",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Lodge Road",
+               "short_name" : "Ski Lodge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maggie Valley",
+               "short_name" : "Maggie Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haywood County",
+               "short_name" : "Haywood County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28751",
+               "short_name" : "28751",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1080 Ski Lodge Rd, Maggie Valley, NC 28751, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.562438,
+               "lng" : -83.08996399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.564171,
+                  "lng" : -83.082977
+               },
+               "southwest" : {
+                  "lat" : 35.5542995,
+                  "lng" : -83.09667429999999
+               }
+            }
+         },
+         "place_id" : "ChIJmcmzdUhlWYgRAxhRGkjMMI0",
+         "plus_code" : {
+            "compound_code" : "HW66+X2 Maggie Valley, NC, USA",
+            "global_code" : "867RHW66+X2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

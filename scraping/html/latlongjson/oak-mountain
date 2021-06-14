@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "141",
+               "short_name" : "141",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Novosel Way",
+               "short_name" : "Novosel Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Speculator",
+               "short_name" : "Speculator",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lake Pleasant",
+               "short_name" : "Lake Pleasant",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hamilton County",
+               "short_name" : "Hamilton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12164",
+               "short_name" : "12164",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "141 Novosel Way, Speculator, NY 12164, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5139754,
+               "lng" : -74.36073859999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5153243802915,
+                  "lng" : -74.35938961970849
+               },
+               "southwest" : {
+                  "lat" : 43.5126264197085,
+                  "lng" : -74.3620875802915
+               }
+            }
+         },
+         "place_id" : "ChIJr1e6A1kO34kRRuRKek2gjx0",
+         "plus_code" : {
+            "compound_code" : "GJ7Q+HP Speculator, NY, USA",
+            "global_code" : "87M7GJ7Q+HP"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

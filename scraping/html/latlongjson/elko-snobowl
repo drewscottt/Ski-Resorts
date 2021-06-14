@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School District",
+               "short_name" : "School District",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Halleck",
+               "short_name" : "Halleck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Elko County",
+               "short_name" : "Elko County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89801",
+               "short_name" : "89801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School District, Halleck, NV 89801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8795284,
+               "lng" : -115.8806229
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.88087738029149,
+                  "lng" : -115.8792739197085
+               },
+               "southwest" : {
+                  "lat" : 40.87817941970849,
+                  "lng" : -115.8819718802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAzVSyRMPpoARiQyBX3igZvk",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

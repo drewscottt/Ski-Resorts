@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29500",
+               "short_name" : "29500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Mount Spokane Park Drive",
+               "short_name" : "N Mt Spokane Park Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mead",
+               "short_name" : "Mead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99021",
+               "short_name" : "99021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "29500 N Mt Spokane Park Dr, Mead, WA 99021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.921382,
+               "lng" : -117.096416
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9227309802915,
+                  "lng" : -117.0950670197085
+               },
+               "southwest" : {
+                  "lat" : 47.92003301970851,
+                  "lng" : -117.0977649802915
+               }
+            }
+         },
+         "place_id" : "ChIJUeCtLTTwYVMRIL3UuNGsVn8",
+         "plus_code" : {
+            "compound_code" : "WWC3+HC Mead, WA, USA",
+            "global_code" : "85V4WWC3+HC"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

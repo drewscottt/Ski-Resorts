@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "485",
+               "short_name" : "485",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Big Tupper Rd",
+               "short_name" : "Big Tupper Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tupper Lake",
+               "short_name" : "Tupper Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tupper Lake",
+               "short_name" : "Tupper Lake",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12986",
+               "short_name" : "12986",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "485 Big Tupper Rd, Tupper Lake, NY 12986, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.16939989999999,
+               "lng" : -74.4794083
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1707488802915,
+                  "lng" : -74.47805931970849
+               },
+               "southwest" : {
+                  "lat" : 44.1680509197085,
+                  "lng" : -74.48075728029151
+               }
+            }
+         },
+         "place_id" : "ChIJxY1uzZFAy0wRBf4UY27KYcY",
+         "plus_code" : {
+            "compound_code" : "5G9C+Q6 Tupper Lake, NY, USA",
+            "global_code" : "87P75G9C+Q6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

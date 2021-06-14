@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ski Apache",
+               "short_name" : "Ski Apache",
+               "types" : [ "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "1286",
+               "short_name" : "1286",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Run Road",
+               "short_name" : "Ski Run Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alto",
+               "short_name" : "Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln County",
+               "short_name" : "Lincoln County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "88312",
+               "short_name" : "88312",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ski Apache, 1286 Ski Run Rd, Alto, NM 88312, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.397328,
+               "lng" : -105.788716
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3986769802915,
+                  "lng" : -105.7873670197085
+               },
+               "southwest" : {
+                  "lat" : 33.39597901970851,
+                  "lng" : -105.7900649802915
+               }
+            }
+         },
+         "place_id" : "ChIJq6qqqlrX4YYRjvvF8sAJueo",
+         "plus_code" : {
+            "compound_code" : "96W6+WG Alto, NM, USA",
+            "global_code" : "855P96W6+WG"
+         },
+         "types" : [ "establishment", "lodging", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

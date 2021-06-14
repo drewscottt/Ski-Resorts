@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700",
+               "short_name" : "1700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cooper Gulch Road",
+               "short_name" : "Cooper Gulch Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manson",
+               "short_name" : "Manson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelan County",
+               "short_name" : "Chelan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98831",
+               "short_name" : "98831",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1700 Cooper Gulch Rd, Manson, WA 98831, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.93569979999999,
+               "lng" : -120.0553575
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.93704878029149,
+                  "lng" : -120.0540085197085
+               },
+               "southwest" : {
+                  "lat" : 47.93435081970849,
+                  "lng" : -120.0567064802915
+               }
+            }
+         },
+         "place_id" : "ChIJG31s6R2dm1QRIrj_uy8U1Sk",
+         "plus_code" : {
+            "compound_code" : "WWPV+7V Manson, WA, USA",
+            "global_code" : "84VXWWPV+7V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

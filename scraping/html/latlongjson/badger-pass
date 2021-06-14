@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7082",
+               "short_name" : "7082",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Glacier Point Road",
+               "short_name" : "Glacier Point Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yosemite National Park",
+               "short_name" : "Yosemite National Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mariposa County",
+               "short_name" : "Mariposa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95389",
+               "short_name" : "95389",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7082 Glacier Point Rd, Yosemite National Park, CA 95389, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.6622677,
+               "lng" : -119.6633655
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6636166802915,
+                  "lng" : -119.6620165197085
+               },
+               "southwest" : {
+                  "lat" : 37.6609187197085,
+                  "lng" : -119.6647144802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1YjKxEPyloARSsQ3cSf_t6U",
+         "plus_code" : {
+            "compound_code" : "M86P+WM Yosemite West, CA, USA",
+            "global_code" : "8592M86P+WM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

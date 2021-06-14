@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6557",
+               "short_name" : "6557",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Holiday Valley Road",
+               "short_name" : "Holiday Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ellicottville",
+               "short_name" : "Ellicottville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cattaraugus County",
+               "short_name" : "Cattaraugus County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14731",
+               "short_name" : "14731",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6557 Holiday Valley Rd, Ellicottville, NY 14731, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2625806,
+               "lng" : -78.6673967
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2639295802915,
+                  "lng" : -78.66604771970849
+               },
+               "southwest" : {
+                  "lat" : 42.2612316197085,
+                  "lng" : -78.66874568029151
+               }
+            }
+         },
+         "place_id" : "ChIJn0kPI2CK0okRkSAe4K7ZRL4",
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

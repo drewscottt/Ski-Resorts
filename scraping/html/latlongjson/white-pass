@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "48935",
+               "short_name" : "48935",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 12",
+               "short_name" : "US-12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naches",
+               "short_name" : "Naches",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lewis County",
+               "short_name" : "Lewis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98937",
+               "short_name" : "98937",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48935 US-12, Naches, WA 98937, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.6373531,
+               "lng" : -121.3913233
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6387020802915,
+                  "lng" : -121.3899743197085
+               },
+               "southwest" : {
+                  "lat" : 46.6360041197085,
+                  "lng" : -121.3926722802915
+               }
+            }
+         },
+         "place_id" : "ChIJ44b0qw87l1QRhIFJ8VjpS98",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34-B",
+               "short_name" : "34-B",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Catoctin Circle Southeast",
+               "short_name" : "Catoctin Cir SE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leesburg",
+               "short_name" : "Leesburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leesburg",
+               "short_name" : "Leesburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Loudoun County",
+               "short_name" : "Loudoun County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20175",
+               "short_name" : "20175",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "34-B Catoctin Cir SE, Leesburg, VA 20175, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1078574,
+               "lng" : -77.5643838
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1092063802915,
+                  "lng" : -77.56303481970851
+               },
+               "southwest" : {
+                  "lat" : 39.1065084197085,
+                  "lng" : -77.56573278029151
+               }
+            }
+         },
+         "place_id" : "ChIJzY5b0SoWtokRXmnoO75Uor8",
+         "plus_code" : {
+            "compound_code" : "4C5P+46 Leesburg, VA, USA",
+            "global_code" : "87F44C5P+46"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

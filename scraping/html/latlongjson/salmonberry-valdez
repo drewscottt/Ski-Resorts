@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suite #1",
+               "short_name" : "Suite #1",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "10420",
+               "short_name" : "10420",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Little Cottonwood Road",
+               "short_name" : "Little Cottonwood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84092",
+               "short_name" : "84092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10420 Little Cottonwood Rd Suite #1, Alta, UT 84092, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5912562,
+               "lng" : -111.6323915
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.59260518029149,
+                  "lng" : -111.6310425197085
+               },
+               "southwest" : {
+                  "lat" : 40.58990721970849,
+                  "lng" : -111.6337404802915
+               }
+            }
+         },
+         "place_id" : "ChIJiWuqGlhwUocRSAeLwDMsJsk",
+         "plus_code" : {
+            "compound_code" : "H9R9+G2 Alta, UT, USA",
+            "global_code" : "85GCH9R9+G2"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2600",
+               "short_name" : "2600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alpine Meadows Road",
+               "short_name" : "Alpine Meadows Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alpine Meadows",
+               "short_name" : "Alpine Meadows",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96146",
+               "short_name" : "96146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2600 Alpine Meadows Rd, Alpine Meadows, CA 96146, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1646167,
+               "lng" : -120.2386861
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1659656802915,
+                  "lng" : -120.2373371197085
+               },
+               "southwest" : {
+                  "lat" : 39.1632677197085,
+                  "lng" : -120.2400350802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1dX2qkfXm4ARJXJAHWapnYk",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1960",
+               "short_name" : "1960",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Squaw Valley Road",
+               "short_name" : "Squaw Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Olympic Valley",
+               "short_name" : "Olympic Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96146",
+               "short_name" : "96146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1960 Squaw Valley Rd, Olympic Valley, CA 96146, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.197607,
+               "lng" : -120.2354422
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1989559802915,
+                  "lng" : -120.2340932197085
+               },
+               "southwest" : {
+                  "lat" : 39.1962580197085,
+                  "lng" : -120.2367911802915
+               }
+            }
+         },
+         "place_id" : "ChIJPSaP8OzZm4ARDxeFl_CIvjA",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thompsonville",
+               "short_name" : "Thompsonville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weldon Township",
+               "short_name" : "Weldon Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Benzie County",
+               "short_name" : "Benzie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49683",
+               "short_name" : "49683",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thompsonville, MI 49683, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5199554,
+               "lng" : -85.9922593
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5213043802915,
+                  "lng" : -85.99091031970849
+               },
+               "southwest" : {
+                  "lat" : 44.5186064197085,
+                  "lng" : -85.99360828029151
+               }
+            }
+         },
+         "place_id" : "ChIJR7AaLSBpHogRToggTiHnFtw",
+         "plus_code" : {
+            "compound_code" : "G295+X3 Thompsonville, MI, USA",
+            "global_code" : "86PPG295+X3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

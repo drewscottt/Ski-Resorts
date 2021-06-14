@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "785",
+               "short_name" : "785",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Washington Road",
+               "short_name" : "Washington Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbury",
+               "short_name" : "Woodbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Litchfield County",
+               "short_name" : "Litchfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06798",
+               "short_name" : "06798",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1522",
+               "short_name" : "1522",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "785 Washington Rd, Woodbury, CT 06798, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5905993,
+               "lng" : -73.2553654
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5919482802915,
+                  "lng" : -73.25401641970851
+               },
+               "southwest" : {
+                  "lat" : 41.5892503197085,
+                  "lng" : -73.25671438029151
+               }
+            }
+         },
+         "place_id" : "ChIJZ-AGkKHt54kR8tpTMQ4_i8k",
+         "plus_code" : {
+            "compound_code" : "HPRV+6V Woodbury, CT, USA",
+            "global_code" : "87H8HPRV+6V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

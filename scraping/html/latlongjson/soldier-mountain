@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soldier Creek Road",
+               "short_name" : "Soldier Creek Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfield",
+               "short_name" : "Fairfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Camas County",
+               "short_name" : "Camas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83327",
+               "short_name" : "83327",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1043 North, Soldier Creek Rd, Fairfield, ID 83327, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.485512,
+               "lng" : -114.82938
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4868609802915,
+                  "lng" : -114.8280310197085
+               },
+               "southwest" : {
+                  "lat" : 43.4841630197085,
+                  "lng" : -114.8307289802915
+               }
+            }
+         },
+         "place_id" : "ChIJcSvytcPjq1QRtJRwhLVZK4I",
+         "plus_code" : {
+            "compound_code" : "F5PC+66 Fairfield, ID, USA",
+            "global_code" : "85M7F5PC+66"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

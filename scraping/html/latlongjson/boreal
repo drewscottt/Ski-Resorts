@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19749",
+               "short_name" : "19749",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boreal Ridge Road",
+               "short_name" : "Boreal Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Soda Springs",
+               "short_name" : "Soda Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada County",
+               "short_name" : "Nevada County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95728",
+               "short_name" : "95728",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19749 Boreal Ridge Rd, Soda Springs, CA 95728, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3360462,
+               "lng" : -120.3504985
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3373951802915,
+                  "lng" : -120.3491495197085
+               },
+               "southwest" : {
+                  "lat" : 39.3346972197085,
+                  "lng" : -120.3518474802915
+               }
+            }
+         },
+         "place_id" : "ChIJ04R9eIDom4ARO3QdRZT2fwE",
+         "plus_code" : {
+            "compound_code" : "8JPX+CR Soda Springs, CA, USA",
+            "global_code" : "84FX8JPX+CR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6886",
+               "short_name" : "6886",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vermont 125",
+               "short_name" : "VT-125",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hancock",
+               "short_name" : "Hancock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Addison County",
+               "short_name" : "Addison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05748",
+               "short_name" : "05748",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6886 VT-125, Hancock, VT 05748, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.9391922,
+               "lng" : -72.95758719999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9405411802915,
+                  "lng" : -72.95623821970848
+               },
+               "southwest" : {
+                  "lat" : 43.9378432197085,
+                  "lng" : -72.95893618029149
+               }
+            }
+         },
+         "place_id" : "ChIJn_bxwNY4tUwRD2nl9lDAoKU",
+         "plus_code" : {
+            "compound_code" : "W2QR+MX Hancock, VT, USA",
+            "global_code" : "87M9W2QR+MX"
+         },
+         "types" : [ "establishment", "point_of_interest", "school", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

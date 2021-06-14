@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5001",
+               "short_name" : "5001",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Northstar Drive",
+               "short_name" : "Northstar Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Truckee",
+               "short_name" : "Truckee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96161",
+               "short_name" : "96161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5001 Northstar Dr, Truckee, CA 96161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2745678,
+               "lng" : -120.1210934
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2759167802915,
+                  "lng" : -120.1197444197085
+               },
+               "southwest" : {
+                  "lat" : 39.2732188197085,
+                  "lng" : -120.1224423802915
+               }
+            }
+         },
+         "place_id" : "ChIJG_MAHWlimYARQhbFNZ29CPE",
+         "plus_code" : {
+            "compound_code" : "7VFH+RH Truckee, CA, USA",
+            "global_code" : "84FX7VFH+RH"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

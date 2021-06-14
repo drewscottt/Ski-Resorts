@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17800",
+               "short_name" : "17800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alpental Access Road",
+               "short_name" : "Alpental Access Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Snoqualmie Pass",
+               "short_name" : "Snoqualmie Pass",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98068",
+               "short_name" : "98068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "17800 Alpental Access Rd, Snoqualmie Pass, WA 98068, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.4442426,
+               "lng" : -121.4257484
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.44559158029151,
+                  "lng" : -121.4243994197085
+               },
+               "southwest" : {
+                  "lat" : 47.44289361970851,
+                  "lng" : -121.4270973802915
+               }
+            }
+         },
+         "place_id" : "ChIJbZSV2kR5mlQR0lkhn-W9sBg",
+         "plus_code" : {
+            "compound_code" : "CHVF+MP Snoqualmie Pass, WA, USA",
+            "global_code" : "84VWCHVF+MP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

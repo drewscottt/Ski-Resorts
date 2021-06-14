@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21120",
+               "short_name" : "21120",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stewart Slope Road",
+               "short_name" : "Stewart Slope Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lead",
+               "short_name" : "Lead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Lawrence",
+               "short_name" : "North Lawrence",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lawrence County",
+               "short_name" : "Lawrence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57754",
+               "short_name" : "57754",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "21120 Stewart Slope Rd, Lead, SD 57754, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.334573,
+               "lng" : -103.840383
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3359219802915,
+                  "lng" : -103.8390340197085
+               },
+               "southwest" : {
+                  "lat" : 44.3332240197085,
+                  "lng" : -103.8417319802915
+               }
+            }
+         },
+         "place_id" : "ChIJE26Q0lSkMlMRVFDCeeyZSBY",
+         "plus_code" : {
+            "compound_code" : "85M5+RR Lead, SD, USA",
+            "global_code" : "85PR85M5+RR"
+         },
+         "types" : [ "bar", "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

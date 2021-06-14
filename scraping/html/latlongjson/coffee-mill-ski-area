@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Coulee Way",
+               "short_name" : "Coulee Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wabasha",
+               "short_name" : "Wabasha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wabasha County",
+               "short_name" : "Wabasha County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55981",
+               "short_name" : "55981",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99 Coulee Way, Wabasha, MN 55981, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.3636111,
+               "lng" : -92.0433333
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3649600802915,
+                  "lng" : -92.0419843197085
+               },
+               "southwest" : {
+                  "lat" : 44.3622621197085,
+                  "lng" : -92.04468228029151
+               }
+            }
+         },
+         "place_id" : "ChIJj7na8D6z-YcRwTi_3QDWPzs",
+         "plus_code" : {
+            "compound_code" : "9X74+CM Wabasha, MN, USA",
+            "global_code" : "86P99X74+CM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

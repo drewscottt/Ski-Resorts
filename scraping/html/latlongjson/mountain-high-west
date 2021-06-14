@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24510",
+               "short_name" : "24510",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 2",
+               "short_name" : "CA-2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wrightwood",
+               "short_name" : "Wrightwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92397",
+               "short_name" : "92397",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24510 CA-2, Wrightwood, CA 92397, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.3769418,
+               "lng" : -117.6915242
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.37829078029149,
+                  "lng" : -117.6901752197085
+               },
+               "southwest" : {
+                  "lat" : 34.3755928197085,
+                  "lng" : -117.6928731802915
+               }
+            }
+         },
+         "place_id" : "ChIJuYkflAIXw4ARtZZKjvDriq8",
+         "plus_code" : {
+            "compound_code" : "98G5+Q9 Wrightwood, CA, USA",
+            "global_code" : "856498G5+Q9"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

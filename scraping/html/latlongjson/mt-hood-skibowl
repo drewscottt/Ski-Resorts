@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "87000",
+               "short_name" : "87000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 26",
+               "short_name" : "US-26",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Government Camp",
+               "short_name" : "Government Camp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clackamas County",
+               "short_name" : "Clackamas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97028",
+               "short_name" : "97028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "87000 US-26, Government Camp, OR 97028, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.30190839999999,
+               "lng" : -121.773296
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3079847,
+                  "lng" : -121.750066
+               },
+               "southwest" : {
+                  "lat" : 45.2806863,
+                  "lng" : -121.7941669
+               }
+            }
+         },
+         "place_id" : "ChIJpRYu5AIKlVQRaY0iIKP8Mck",
+         "plus_code" : {
+            "compound_code" : "862G+QM Government Camp, OR, USA",
+            "global_code" : "84QW862G+QM"
+         },
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

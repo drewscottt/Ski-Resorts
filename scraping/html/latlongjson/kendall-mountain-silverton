@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kendall Place",
+               "short_name" : "Kendall Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Silverton",
+               "short_name" : "Silverton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan County",
+               "short_name" : "San Juan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81433",
+               "short_name" : "81433",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Kendall Pl, Silverton, CO 81433, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.81118540000001,
+               "lng" : -107.6568195
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.81253438029151,
+                  "lng" : -107.6554705197085
+               },
+               "southwest" : {
+                  "lat" : 37.80983641970851,
+                  "lng" : -107.6581684802915
+               }
+            }
+         },
+         "place_id" : "ChIJcct2M-PnPocRVAALVPbZd1Q",
+         "plus_code" : {
+            "compound_code" : "R86V+F7 Silverton, CO, USA",
+            "global_code" : "859JR86V+F7"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

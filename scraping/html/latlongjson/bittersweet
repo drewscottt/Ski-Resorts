@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "River Road",
+               "short_name" : "River Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Otsego",
+               "short_name" : "Otsego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otsego Township",
+               "short_name" : "Otsego Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Allegan County",
+               "short_name" : "Allegan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49078",
+               "short_name" : "49078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "600 River Rd, Otsego, MI 49078, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.467159,
+               "lng" : -85.758719
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4685079802915,
+                  "lng" : -85.75737001970849
+               },
+               "southwest" : {
+                  "lat" : 42.4658100197085,
+                  "lng" : -85.7600679802915
+               }
+            }
+         },
+         "place_id" : "ChIJjVSr0FB9F4gRXP9yZZ645k8",
+         "plus_code" : {
+            "compound_code" : "F68R+VG Otsego, MI, USA",
+            "global_code" : "86JPF68R+VG"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

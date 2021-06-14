@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2232",
+               "short_name" : "2232",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "100th Avenue",
+               "short_name" : "100th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dresser",
+               "short_name" : "Dresser",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polk County",
+               "short_name" : "Polk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54009",
+               "short_name" : "54009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2232 100th Ave, Dresser, WI 54009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3513159,
+               "lng" : -92.61809350000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3526648802915,
+                  "lng" : -92.61674451970852
+               },
+               "southwest" : {
+                  "lat" : 45.3499669197085,
+                  "lng" : -92.61944248029153
+               }
+            }
+         },
+         "place_id" : "ChIJr715ptKbslIRwKp33qDOmDk",
+         "plus_code" : {
+            "compound_code" : "992J+GQ Dresser, WI, USA",
+            "global_code" : "86Q9992J+GQ"
+         },
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

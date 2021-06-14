@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cloud Cap Road",
+               "short_name" : "Cloud Cap Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Hood",
+               "short_name" : "Mt Hood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hood River County",
+               "short_name" : "Hood River County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97041",
+               "short_name" : "97041",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9766",
+               "short_name" : "9766",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "11000 Cloud Cap Rd, Mt Hood, OR 97041, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4116278,
+               "lng" : -121.605828
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.41297678029149,
+                  "lng" : -121.6044790197085
+               },
+               "southwest" : {
+                  "lat" : 45.41027881970849,
+                  "lng" : -121.6071769802915
+               }
+            }
+         },
+         "place_id" : "ChIJ2UM2h_kCvlQRHc6FigSvkt0",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10755",
+               "short_name" : "10755",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cooper Spur Road",
+               "short_name" : "Cooper Spur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Hood",
+               "short_name" : "Mt Hood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hood River County",
+               "short_name" : "Hood River County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97041",
+               "short_name" : "97041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10755 Cooper Spur Rd, Mt Hood, OR 97041, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4252778,
+               "lng" : -121.5902778
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.42662678029149,
+                  "lng" : -121.5889288197085
+               },
+               "southwest" : {
+                  "lat" : 45.42392881970849,
+                  "lng" : -121.5916267802915
+               }
+            }
+         },
+         "place_id" : "ChIJH_7rpUMCvlQRpai4VheUt9U",
+         "types" : [ "establishment", "food", "lodging", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

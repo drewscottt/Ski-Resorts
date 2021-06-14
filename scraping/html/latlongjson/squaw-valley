@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1960",
+               "short_name" : "1960",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Squaw Valley Road",
+               "short_name" : "Squaw Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Olympic Valley",
+               "short_name" : "Olympic Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96146",
+               "short_name" : "96146",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1960 Squaw Valley Rd, Olympic Valley, CA 96146, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.197607,
+               "lng" : -120.2354422
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.199548,
+                  "lng" : -120.2273822
+               },
+               "southwest" : {
+                  "lat" : 39.1944171,
+                  "lng" : -120.2413858
+               }
+            }
+         },
+         "place_id" : "ChIJPSaP8OzZm4ARDxeFl_CIvjA",
+         "plus_code" : {
+            "compound_code" : "5QX7+2R Olympic Valley, CA, USA",
+            "global_code" : "84FX5QX7+2R"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

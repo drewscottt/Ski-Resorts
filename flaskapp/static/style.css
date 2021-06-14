@@ -1,0 +1,101 @@
+#body {
+	position: relative;
+
+	overflow: hidden;
+
+	min-height: 100% !important;
+}
+
+#username_form {
+	position: absolute;
+	top: 0;
+	right: 10px;
+}
+
+#username_form > * {
+	display: inline-block;
+}
+
+#results {
+	width: 50%;
+}
+
+table, tr, td {
+	border: 1px solid black;
+}
+
+#results_table {
+	margin-bottom: 10px;
+
+	width: 90%;
+
+	table-layout: fixed;
+}
+
+.title {
+	width: 30%;
+
+	word-wrap: break-word;
+}
+
+.info {
+	width: 70%;
+
+	word-wrap: break-word; 
+}
+
+
+#right {
+	position: absolute;
+	top: 0;
+       	right: 0;
+
+	width: 50%;
+}
+
+#trips {
+	width: 100%;
+	min-width: 100%;
+}
+
+#trip_table {
+	width: 100%;
+	min-width: 100%;	
+	margin: 0px !important;
+	table-layout: fixed;
+}
+
+#trips_div {
+	max-height: 175px;
+	overflow-y: scroll;
+	
+	margin-bottom: 5px;
+
+	width: 100%;
+	min-width:100%;
+}
+
+.days > * {
+	display: inline-block;
+}
+
+.people_header > * {
+	display: inline-block;
+}
+
+.person > * {
+	display: inline-block;
+}
+
+.trip_buttons > * {
+	display: inline-block;
+}
+
+#locsOptionDiv > * {
+	display: inline-block;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+}

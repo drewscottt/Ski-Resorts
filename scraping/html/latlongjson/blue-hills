@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4001",
+               "short_name" : "4001",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Washington Street",
+               "short_name" : "Washington St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canton",
+               "short_name" : "Canton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk County",
+               "short_name" : "Norfolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02021",
+               "short_name" : "02021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4001 Washington St, Canton, MA 02021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2159609,
+               "lng" : -71.1190551
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2173098802915,
+                  "lng" : -71.11770611970849
+               },
+               "southwest" : {
+                  "lat" : 42.2146119197085,
+                  "lng" : -71.12040408029149
+               }
+            }
+         },
+         "place_id" : "ChIJYdG07Bh-44kRMc7cHXYvVw0",
+         "plus_code" : {
+            "compound_code" : "6V8J+99 Canton, MA, USA",
+            "global_code" : "87JC6V8J+99"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

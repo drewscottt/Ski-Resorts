@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bluewood Road",
+               "short_name" : "Bluewood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dayton",
+               "short_name" : "Dayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Columbia County",
+               "short_name" : "Columbia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99328",
+               "short_name" : "99328",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bluewood Rd, Dayton, WA 99328, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0824866,
+               "lng" : -117.8511673
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0838355802915,
+                  "lng" : -117.8498183197085
+               },
+               "southwest" : {
+                  "lat" : 46.0811376197085,
+                  "lng" : -117.8525162802915
+               }
+            }
+         },
+         "place_id" : "ChIJB4B2PQP4oVQRnQC3XaIDJ24",
+         "plus_code" : {
+            "compound_code" : "34JX+XG Dayton, WA, USA",
+            "global_code" : "85R434JX+XG"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,87 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gunstock Mountain Resort",
+               "short_name" : "Gunstock Mountain Resort",
+               "types" : [
+                  "campground",
+                  "establishment",
+                  "lodging",
+                  "park",
+                  "point_of_interest",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "719",
+               "short_name" : "719",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cherry Valley Road",
+               "short_name" : "Cherry Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gilford",
+               "short_name" : "Gilford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belknap County",
+               "short_name" : "Belknap County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03249",
+               "short_name" : "03249",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gunstock Mountain Resort, 719 Cherry Valley Rd, Gilford, NH 03249, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5410554,
+               "lng" : -71.3628798
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5454174,
+                  "lng" : -71.3539095
+               },
+               "southwest" : {
+                  "lat" : 43.524231,
+                  "lng" : -71.38651969999999
+               }
+            }
+         },
+         "place_id" : "ChIJueRrN70xs0wR4R0BUzWT65U",
+         "plus_code" : {
+            "compound_code" : "GJRP+CR Gilford, NH, USA",
+            "global_code" : "87MCGJRP+CR"
+         },
+         "types" : [
+            "campground",
+            "establishment",
+            "lodging",
+            "park",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

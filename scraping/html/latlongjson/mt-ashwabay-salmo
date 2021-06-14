@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "32525",
+               "short_name" : "32525",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Hill Road",
+               "short_name" : "Ski Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bayfield",
+               "short_name" : "Bayfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bayfield",
+               "short_name" : "Bayfield",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bayfield County",
+               "short_name" : "Bayfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54814",
+               "short_name" : "54814",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "32525 Ski Hill Rd, Bayfield, WI 54814, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7772179,
+               "lng" : -90.89455409999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7785668802915,
+                  "lng" : -90.8932051197085
+               },
+               "southwest" : {
+                  "lat" : 46.7758689197085,
+                  "lng" : -90.8959030802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-QlBBIYeqVIRU2GSxT73EbA",
+         "plus_code" : {
+            "compound_code" : "Q4G4+V5 Bayfield, WI, USA",
+            "global_code" : "86RFQ4G4+V5"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red River Ski & Summer Area",
+               "short_name" : "Red River Ski & Summer Area",
+               "types" : [
+                  "bar",
+                  "establishment",
+                  "food",
+                  "park",
+                  "point_of_interest",
+                  "restaurant",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pioneer Road",
+               "short_name" : "Pioneer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Red River",
+               "short_name" : "Red River",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taos County",
+               "short_name" : "Taos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87558",
+               "short_name" : "87558",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red River Ski & Summer Area, 400 Pioneer Rd, Red River, NM 87558, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.7062461,
+               "lng" : -105.4128874
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7075950802915,
+                  "lng" : -105.4115384197085
+               },
+               "southwest" : {
+                  "lat" : 36.70489711970851,
+                  "lng" : -105.4142363802915
+               }
+            }
+         },
+         "place_id" : "ChIJicINNfkVF4cR-lSuBk4CILA",
+         "plus_code" : {
+            "compound_code" : "PH4P+FR Red River, NM, USA",
+            "global_code" : "858PPH4P+FR"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "park",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

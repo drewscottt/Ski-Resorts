@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1125",
+               "short_name" : "1125",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bert White Road",
+               "short_name" : "Bert White Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huntington",
+               "short_name" : "Huntington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittenden County",
+               "short_name" : "Chittenden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05462",
+               "short_name" : "05462",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6200",
+               "short_name" : "6200",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1125 Bert White Rd, Huntington, VT 05462, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.318796,
+               "lng" : -72.94235399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3201449802915,
+                  "lng" : -72.9410050197085
+               },
+               "southwest" : {
+                  "lat" : 44.3174470197085,
+                  "lng" : -72.9437029802915
+               }
+            }
+         },
+         "place_id" : "ChIJE9yRUayCtUwRwVDUgI7wPm0",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

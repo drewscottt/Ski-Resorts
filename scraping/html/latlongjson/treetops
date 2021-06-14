@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3962",
+               "short_name" : "3962",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wilkinson Road",
+               "short_name" : "Wilkinson Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gaylord",
+               "short_name" : "Gaylord",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dover Township",
+               "short_name" : "Dover Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Otsego County",
+               "short_name" : "Otsego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49735",
+               "short_name" : "49735",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3962 Wilkinson Rd, Gaylord, MI 49735, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0330748,
+               "lng" : -84.5892776
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0344237802915,
+                  "lng" : -84.58792861970851
+               },
+               "southwest" : {
+                  "lat" : 45.03172581970851,
+                  "lng" : -84.59062658029151
+               }
+            }
+         },
+         "place_id" : "ChIJHU0zyuRHNU0RX_7bsT3OLUI",
+         "plus_code" : {
+            "compound_code" : "2CM6+67 Gaylord, MI, USA",
+            "global_code" : "86QQ2CM6+67"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "spa" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13421",
+               "short_name" : "13421",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mann Street",
+               "short_name" : "Mann St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jones",
+               "short_name" : "Jones",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newberg Township",
+               "short_name" : "Newberg Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cass County",
+               "short_name" : "Cass County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49061",
+               "short_name" : "49061",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "13421 Mann St, Jones, MI 49061, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9538655,
+               "lng" : -85.82692639999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9552144802915,
+                  "lng" : -85.82557741970848
+               },
+               "southwest" : {
+                  "lat" : 41.9525165197085,
+                  "lng" : -85.8282753802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_____-8cF4gRdQDCeXFJRMg",
+         "plus_code" : {
+            "compound_code" : "X53F+G6 Jones, MI, USA",
+            "global_code" : "86HPX53F+G6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

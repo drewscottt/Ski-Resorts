@@ -1,0 +1,149 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giants Ridge Recreation Area",
+               "short_name" : "Giants Ridge Recreation Area",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "6329",
+               "short_name" : "6329",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wynne Creek Drive",
+               "short_name" : "Wynne Creek Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Biwabik",
+               "short_name" : "Biwabik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55708",
+               "short_name" : "55708",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Giants Ridge Recreation Area, 6329 Wynne Creek Dr, Biwabik, MN 55708, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.5765197,
+               "lng" : -92.3031692
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.57786868029149,
+                  "lng" : -92.3018202197085
+               },
+               "southwest" : {
+                  "lat" : 47.5751707197085,
+                  "lng" : -92.30451818029151
+               }
+            }
+         },
+         "place_id" : "ChIJt-ICcCtmpVIRmm-9hcfOkck",
+         "plus_code" : {
+            "compound_code" : "HMGW+JP Biwabik, MN, USA",
+            "global_code" : "86V9HMGW+JP"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6373",
+               "short_name" : "6373",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wynne Creek Drive",
+               "short_name" : "Wynne Creek Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Biwabik",
+               "short_name" : "Biwabik",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55708",
+               "short_name" : "55708",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6373 Wynne Creek Dr, Biwabik, MN 55708, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.57908330000001,
+               "lng" : -92.3047196
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.58043228029151,
+                  "lng" : -92.3033706197085
+               },
+               "southwest" : {
+                  "lat" : 47.57773431970851,
+                  "lng" : -92.30606858029151
+               }
+            }
+         },
+         "place_id" : "ChIJt-ICcCtmpVIRV3MAlS01GeQ",
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "spa"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

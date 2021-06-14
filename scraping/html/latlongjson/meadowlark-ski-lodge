@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "426",
+               "short_name" : "426",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 16",
+               "short_name" : "US-16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ten Sleep",
+               "short_name" : "Ten Sleep",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Big Horn County",
+               "short_name" : "Big Horn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82442",
+               "short_name" : "82442",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "426 US-16, Ten Sleep, WY 82442, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1739654,
+               "lng" : -107.213684
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1753143802915,
+                  "lng" : -107.2123350197085
+               },
+               "southwest" : {
+                  "lat" : 44.1726164197085,
+                  "lng" : -107.2150329802915
+               }
+            }
+         },
+         "place_id" : "ChIJjbZIINDjSlMRNvemUDHs0gk",
+         "plus_code" : {
+            "compound_code" : "5QFP+HG Ten Sleep, WY, USA",
+            "global_code" : "85PJ5QFP+HG"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mc Cauley Road",
+               "short_name" : "Mc Cauley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Forge",
+               "short_name" : "Old Forge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Webb",
+               "short_name" : "Webb",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Herkimer County",
+               "short_name" : "Herkimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13420",
+               "short_name" : "13420",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "300 Mc Cauley Rd, Old Forge, NY 13420, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69822689999999,
+               "lng" : -74.9635086
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69957588029149,
+                  "lng" : -74.96215961970849
+               },
+               "southwest" : {
+                  "lat" : 43.69687791970849,
+                  "lng" : -74.96485758029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKR_9Dk4134kR6u7lC2oa4fM",
+         "plus_code" : {
+            "compound_code" : "M2XP+7H Old Forge, NY, USA",
+            "global_code" : "87M7M2XP+7H"
+         },
+         "types" : [ "establishment", "parking", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

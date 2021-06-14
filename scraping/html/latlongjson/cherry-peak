@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3200",
+               "short_name" : "3200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 11000 North",
+               "short_name" : "E 11000 N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cache County",
+               "short_name" : "Cache County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84333",
+               "short_name" : "84333",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3200 E 11000 N, Richmond, UT 84333, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9263482,
+               "lng" : -111.7564058
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9276971802915,
+                  "lng" : -111.7550568197085
+               },
+               "southwest" : {
+                  "lat" : 41.9249992197085,
+                  "lng" : -111.7577547802915
+               }
+            }
+         },
+         "place_id" : "ChIJs78Fw7VmVIcRzANEdcnJq1g",
+         "plus_code" : {
+            "compound_code" : "W6GV+GC Richmond, UT, USA",
+            "global_code" : "85HCW6GV+GC"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

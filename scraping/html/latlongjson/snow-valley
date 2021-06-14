@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35100",
+               "short_name" : "35100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 18",
+               "short_name" : "CA-18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Running Springs",
+               "short_name" : "Running Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92382",
+               "short_name" : "92382",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35100 CA-18, Running Springs, CA 92382, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.22488209999999,
+               "lng" : -117.036177
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2262310802915,
+                  "lng" : -117.0348280197085
+               },
+               "southwest" : {
+                  "lat" : 34.2235331197085,
+                  "lng" : -117.0375259802915
+               }
+            }
+         },
+         "place_id" : "ChIJvaI3pDOsxIARVsTms9n1Tcc",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2632",
+               "short_name" : "2632",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vespra Valley Road",
+               "short_name" : "Vespra Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Minesing",
+               "short_name" : "Minesing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Springwater",
+               "short_name" : "Springwater",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Simcoe County",
+               "short_name" : "Simcoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L0L 1Y3",
+               "short_name" : "L0L 1Y3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2632 Vespra Valley Rd, Minesing, ON L0L 1Y3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.411344,
+               "lng" : -79.79224200000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4126929802915,
+                  "lng" : -79.79089301970852
+               },
+               "southwest" : {
+                  "lat" : 44.4099950197085,
+                  "lng" : -79.79359098029153
+               }
+            }
+         },
+         "place_id" : "ChIJ4yTzycaZKogRBvHtKSnC8pg",
+         "types" : [ "establishment", "food", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

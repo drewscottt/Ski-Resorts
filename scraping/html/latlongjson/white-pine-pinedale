@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pine Street",
+               "short_name" : "Pine St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pinedale",
+               "short_name" : "Pinedale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sublette County",
+               "short_name" : "Sublette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82941",
+               "short_name" : "82941",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "74 White, Pine St, Pinedale, WY 82941, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9778494,
+               "lng" : -109.7586597
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.97919838029149,
+                  "lng" : -109.7573107197085
+               },
+               "southwest" : {
+                  "lat" : 42.97650041970849,
+                  "lng" : -109.7600086802915
+               }
+            }
+         },
+         "place_id" : "ChIJ8U6lU6fyV4cRovjSInNPnus",
+         "plus_code" : {
+            "compound_code" : "X6HR+4G Pinedale, WY, USA",
+            "global_code" : "85JGX6HR+4G"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powder Ridge Mountain Park & Resort",
+               "short_name" : "Powder Ridge Mountain Park & Resort",
+               "types" : [ "establishment", "food", "park", "point_of_interest", "restaurant" ]
+            },
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Powder Hill Road",
+               "short_name" : "Powder Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlefield",
+               "short_name" : "Middlefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06455",
+               "short_name" : "06455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Powder Ridge Mountain Park & Resort, 99 Powder Hill Rd, Middlefield, CT 06455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.501645,
+               "lng" : -72.73645429999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5029939802915,
+                  "lng" : -72.7351053197085
+               },
+               "southwest" : {
+                  "lat" : 41.5002960197085,
+                  "lng" : -72.7378032802915
+               }
+            }
+         },
+         "place_id" : "ChIJnZdYMBjL54kRrPIhPrTYqA0",
+         "types" : [ "establishment", "food", "park", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "15015",
+               "short_name" : "15015",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "93rd Avenue",
+               "short_name" : "93rd Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kimball",
+               "short_name" : "Kimball",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine Prairie Township",
+               "short_name" : "Maine Prairie Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Stearns County",
+               "short_name" : "Stearns County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55353",
+               "short_name" : "55353",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15015 93rd Ave, Kimball, MN 55353, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.34369299999999,
+               "lng" : -94.30531499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.34504198029149,
+                  "lng" : -94.3039660197085
+               },
+               "southwest" : {
+                  "lat" : 45.3423440197085,
+                  "lng" : -94.3066639802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-TxzwGTltFIRuCtrqEqCDg4",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crystal Mountain",
+               "short_name" : "Crystal Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Pierce County",
+               "short_name" : "Pierce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98022",
+               "short_name" : "98022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Crystal Mountain, Washington 98022, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.9281666,
+               "lng" : -121.5045349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.93578600000001,
+                  "lng" : -121.4885275
+               },
+               "southwest" : {
+                  "lat" : 46.9205461,
+                  "lng" : -121.5205423
+               }
+            }
+         },
+         "place_id" : "ChIJ18pZlBy2kFQRRVtA87dJE7Q",
+         "plus_code" : {
+            "compound_code" : "WFHW+75 Sunrise, WA, USA",
+            "global_code" : "84RWWFHW+75"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

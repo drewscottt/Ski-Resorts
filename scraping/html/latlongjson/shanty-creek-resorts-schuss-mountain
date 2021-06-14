@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1826",
+               "short_name" : "1826",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schuss Mountain Lane",
+               "short_name" : "Schuss Mountain Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mancelona",
+               "short_name" : "Mancelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Custer Township",
+               "short_name" : "Custer Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Antrim County",
+               "short_name" : "Antrim County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49659",
+               "short_name" : "49659",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1826 Schuss Mountain Ln, Mancelona, MI 49659, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9371673,
+               "lng" : -85.13331029999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.93851628029149,
+                  "lng" : -85.13196131970848
+               },
+               "southwest" : {
+                  "lat" : 44.9358183197085,
+                  "lng" : -85.13465928029149
+               }
+            }
+         },
+         "place_id" : "ChIJFfP641CySk0RgloDHpmxyRg",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

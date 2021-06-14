@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5781",
+               "short_name" : "5781",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mountain Road",
+               "short_name" : "Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stowe",
+               "short_name" : "Stowe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lamoille County",
+               "short_name" : "Lamoille County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05672",
+               "short_name" : "05672",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5781 Mountain Rd, Stowe, VT 05672, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5303066,
+               "lng" : -72.78141239999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5316555802915,
+                  "lng" : -72.78006341970848
+               },
+               "southwest" : {
+                  "lat" : 44.5289576197085,
+                  "lng" : -72.7827613802915
+               }
+            }
+         },
+         "place_id" : "ChIJFeqqj3uRtUwRPXs9Bh-_-6I",
+         "plus_code" : {
+            "compound_code" : "G6J9+4C Stowe, VT, USA",
+            "global_code" : "87P9G6J9+4C"
+         },
+         "types" : [ "clothing_store", "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

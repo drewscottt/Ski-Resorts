@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hickory Hill Road",
+               "short_name" : "Hickory Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warrensburg",
+               "short_name" : "Warrensburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrensburg",
+               "short_name" : "Warrensburg",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warren County",
+               "short_name" : "Warren County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12885",
+               "short_name" : "12885",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3909",
+               "short_name" : "3909",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "43 Hickory Hill Rd, Warrensburg, NY 12885, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.470071,
+               "lng" : -73.81121589999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4714199802915,
+                  "lng" : -73.80986691970848
+               },
+               "southwest" : {
+                  "lat" : 43.4687220197085,
+                  "lng" : -73.81256488029149
+               }
+            }
+         },
+         "place_id" : "ChIJQdmjMsjA34kRtI004PbqUcI",
+         "plus_code" : {
+            "compound_code" : "F5CQ+2G Warrensburg, NY, USA",
+            "global_code" : "87M8F5CQ+2G"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

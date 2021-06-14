@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "341",
+               "short_name" : "341",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New Hampshire 9",
+               "short_name" : "NH-9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roxbury",
+               "short_name" : "Roxbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheshire County",
+               "short_name" : "Cheshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03431",
+               "short_name" : "03431",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "341 NH-9, Roxbury, NH 03431, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.970978,
+               "lng" : -72.21204399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9723269802915,
+                  "lng" : -72.21069501970848
+               },
+               "southwest" : {
+                  "lat" : 42.9696290197085,
+                  "lng" : -72.2133929802915
+               }
+            }
+         },
+         "place_id" : "ChIJJ058vEN24YkRrwyDJLqKO1k",
+         "plus_code" : {
+            "compound_code" : "XQCQ+95 Roxbury, NH, USA",
+            "global_code" : "87J9XQCQ+95"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

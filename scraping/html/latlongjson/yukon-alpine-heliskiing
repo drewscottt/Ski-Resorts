@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Johnny Counts Road",
+               "short_name" : "W Johnny Counts Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83001",
+               "short_name" : "83001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 W Johnny Counts Rd, Jackson, WY 83001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.29978759999999,
+               "lng" : -110.7769834
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.30113658029149,
+                  "lng" : -110.7756344197085
+               },
+               "southwest" : {
+                  "lat" : 43.2984386197085,
+                  "lng" : -110.7783323802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ32ZQp3caU1MRZu6hUuMHFuA",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

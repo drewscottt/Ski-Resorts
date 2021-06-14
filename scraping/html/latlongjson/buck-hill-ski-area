@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15400",
+               "short_name" : "15400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Buck Hill Road",
+               "short_name" : "Buck Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burnsville",
+               "short_name" : "Burnsville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dakota County",
+               "short_name" : "Dakota County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55306",
+               "short_name" : "55306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15400 Buck Hill Rd, Burnsville, MN 55306, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.7248314,
+               "lng" : -93.2835401
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7261803802915,
+                  "lng" : -93.2821911197085
+               },
+               "southwest" : {
+                  "lat" : 44.7234824197085,
+                  "lng" : -93.28488908029151
+               }
+            }
+         },
+         "place_id" : "ChIJ3Ro7GYk59ocRKWgYP_xfmC0",
+         "plus_code" : {
+            "compound_code" : "PPF8+WH Burnsville, MN, USA",
+            "global_code" : "86P8PPF8+WH"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

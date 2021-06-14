@@ -1,0 +1,93 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beech Mountain Ski Resort",
+               "short_name" : "Beech Mountain Ski Resort",
+               "types" : [
+                  "establishment",
+                  "food",
+                  "gym",
+                  "health",
+                  "park",
+                  "point_of_interest",
+                  "real_estate_agency",
+                  "store",
+                  "travel_agency"
+               ]
+            },
+            {
+               "long_name" : "1007",
+               "short_name" : "1007",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Beech Mountain Parkway",
+               "short_name" : "S Beech Mountain Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beech Mountain",
+               "short_name" : "Beech Mountain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watauga County",
+               "short_name" : "Watauga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28604",
+               "short_name" : "28604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beech Mountain Ski Resort, 1007 S Beech Mountain Pkwy, Beech Mountain, NC 28604, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.194648,
+               "lng" : -81.8780057
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1959969802915,
+                  "lng" : -81.87665671970851
+               },
+               "southwest" : {
+                  "lat" : 36.1932990197085,
+                  "lng" : -81.87935468029151
+               }
+            }
+         },
+         "place_id" : "ChIJQ4TGUyWNUIgR2hLCPRNmIs0",
+         "plus_code" : {
+            "compound_code" : "54VC+VQ Beech Mountain, NC, USA",
+            "global_code" : "868W54VC+VQ"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "gym",
+            "health",
+            "park",
+            "point_of_interest",
+            "real_estate_agency",
+            "store",
+            "travel_agency"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

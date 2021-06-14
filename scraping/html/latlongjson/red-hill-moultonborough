@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "85",
+               "short_name" : "85",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sheridan Road",
+               "short_name" : "Sheridan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Moultonborough",
+               "short_name" : "Moultonborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03254",
+               "short_name" : "03254",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "85 Sheridan Rd, Moultonborough, NH 03254, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7493359,
+               "lng" : -71.4160943
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75068488029149,
+                  "lng" : -71.4147453197085
+               },
+               "southwest" : {
+                  "lat" : 43.7479869197085,
+                  "lng" : -71.41744328029151
+               }
+            }
+         },
+         "place_id" : "ChIJrbQ9WBJAs0wRT3TCW-f03HA",
+         "plus_code" : {
+            "compound_code" : "PHXM+PH Moultonborough, NH, USA",
+            "global_code" : "87MCPHXM+PH"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

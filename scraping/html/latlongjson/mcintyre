@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chalet Court",
+               "short_name" : "Chalet Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03104",
+               "short_name" : "03104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Chalet Ct, Manchester, NH 03104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0065806,
+               "lng" : -71.44156939999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0079295802915,
+                  "lng" : -71.4402204197085
+               },
+               "southwest" : {
+                  "lat" : 43.0052316197085,
+                  "lng" : -71.4429183802915
+               }
+            }
+         },
+         "place_id" : "ChIJo8JGxG1P4okREGWTtVtFSFE",
+         "plus_code" : {
+            "compound_code" : "2H45+J9 Manchester, NH, USA",
+            "global_code" : "87MC2H45+J9"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

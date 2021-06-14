@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "199",
+               "short_name" : "199",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Prospector Road",
+               "short_name" : "Prospector Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aspen",
+               "short_name" : "Aspen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pitkin County",
+               "short_name" : "Pitkin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81611",
+               "short_name" : "81611",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4306",
+               "short_name" : "4306",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "199 Prospector Rd, Aspen, CO 81611, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1824124,
+               "lng" : -106.8553613
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1837613802915,
+                  "lng" : -106.8540123197085
+               },
+               "southwest" : {
+                  "lat" : 39.1810634197085,
+                  "lng" : -106.8567102802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-xVY6Bo5QIcR4M1uLheeNFE",
+         "plus_code" : {
+            "compound_code" : "54JV+XV Aspen, CO, USA",
+            "global_code" : "85FM54JV+XV"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

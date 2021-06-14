@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1982",
+               "short_name" : "1982",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fairway Drive",
+               "short_name" : "Fairway Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Basye",
+               "short_name" : "Basye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District 1",
+               "short_name" : "District 1",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Shenandoah County",
+               "short_name" : "Shenandoah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22810",
+               "short_name" : "22810",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1982 Fairway Dr, Basye, VA 22810, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8174554,
+               "lng" : -78.7656923
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8188043802915,
+                  "lng" : -78.76434331970849
+               },
+               "southwest" : {
+                  "lat" : 38.8161064197085,
+                  "lng" : -78.76704128029149
+               }
+            }
+         },
+         "place_id" : "ChIJnx_m5TQCtYkRS1i4G0CHM60",
+         "plus_code" : {
+            "compound_code" : "R68M+XP Basye, VA, USA",
+            "global_code" : "87C3R68M+XP"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

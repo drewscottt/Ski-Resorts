@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake City",
+               "short_name" : "Lake City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hinsdale County",
+               "short_name" : "Hinsdale County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81235",
+               "short_name" : "81235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lake City, CO 81235, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.0106935,
+               "lng" : -107.3117244
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0120424802915,
+                  "lng" : -107.3103754197085
+               },
+               "southwest" : {
+                  "lat" : 38.0093445197085,
+                  "lng" : -107.3130733802915
+               }
+            }
+         },
+         "place_id" : "ChIJSXvfoun_PocR__TYG2jn95g",
+         "plus_code" : {
+            "compound_code" : "2M6Q+78 Lake City, CO, USA",
+            "global_code" : "85CJ2M6Q+78"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

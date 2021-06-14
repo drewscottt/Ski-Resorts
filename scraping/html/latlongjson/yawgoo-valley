@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yawgoo Valley Road",
+               "short_name" : "Yawgoo Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02822",
+               "short_name" : "02822",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "160 Yawgoo Valley Rd, Exeter, RI 02822, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.51759699999999,
+               "lng" : -71.52726
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5189459802915,
+                  "lng" : -71.52591101970849
+               },
+               "southwest" : {
+                  "lat" : 41.5162480197085,
+                  "lng" : -71.52860898029151
+               }
+            }
+         },
+         "place_id" : "ChIJR3FhCY-35YkREfairf5zJiU",
+         "plus_code" : {
+            "compound_code" : "GF9F+23 Exeter, RI, USA",
+            "global_code" : "87HCGF9F+23"
+         },
+         "types" : [ "amusement_park", "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

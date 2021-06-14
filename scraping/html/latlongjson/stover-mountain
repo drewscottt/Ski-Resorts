@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stover Mountain",
+               "short_name" : "Stover Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Plumas County",
+               "short_name" : "Plumas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stover Mountain, California, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2818279,
+               "lng" : -121.3058011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.29033949999999,
+                  "lng" : -121.2897937
+               },
+               "southwest" : {
+                  "lat" : 40.2733152,
+                  "lng" : -121.3218085
+               }
+            }
+         },
+         "place_id" : "ChIJJenI_IJBnYARHAnw3B_ZGh8",
+         "plus_code" : {
+            "compound_code" : "7MJV+PM Chester, CA, USA",
+            "global_code" : "84GW7MJV+PM"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

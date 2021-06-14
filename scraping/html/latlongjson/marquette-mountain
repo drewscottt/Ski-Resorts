@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4501",
+               "short_name" : "4501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Michigan 553",
+               "short_name" : "M-553",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marquette",
+               "short_name" : "Marquette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marquette County",
+               "short_name" : "Marquette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49855",
+               "short_name" : "49855",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4501 M-553, Marquette, MI 49855, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5082074,
+               "lng" : -87.42080969999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.50955638029149,
+                  "lng" : -87.4194607197085
+               },
+               "southwest" : {
+                  "lat" : 46.5068584197085,
+                  "lng" : -87.4221586802915
+               }
+            }
+         },
+         "place_id" : "ChIJs0I18r_fUU0R9jeVnRklWwo",
+         "plus_code" : {
+            "compound_code" : "GH5H+7M Marquette, MI, USA",
+            "global_code" : "86RJGH5H+7M"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hurricane Ridge Road",
+               "short_name" : "Hurricane Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Port Angeles",
+               "short_name" : "Port Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clallam County",
+               "short_name" : "Clallam County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98363",
+               "short_name" : "98363",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hurricane Ridge Rd, Port Angeles, WA 98363, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.9699846,
+               "lng" : -123.4951352
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9713335802915,
+                  "lng" : -123.4937862197085
+               },
+               "southwest" : {
+                  "lat" : 47.9686356197085,
+                  "lng" : -123.4964841802915
+               }
+            }
+         },
+         "place_id" : "ChIJfXjAFutKjlQRn9zPne8H-7s",
+         "plus_code" : {
+            "compound_code" : "XG93+XW Port Angeles, WA, USA",
+            "global_code" : "84VRXG93+XW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

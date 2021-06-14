@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Resort Drive",
+               "short_name" : "Resort Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Windham",
+               "short_name" : "Windham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windham",
+               "short_name" : "Windham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12496",
+               "short_name" : "12496",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Resort Dr, Windham, NY 12496, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2937298,
+               "lng" : -74.2567116
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3045346,
+                  "lng" : -74.2308295
+               },
+               "southwest" : {
+                  "lat" : 42.2768745,
+                  "lng" : -74.27381629999999
+               }
+            }
+         },
+         "place_id" : "ChIJb2QyoItM3IkRytonaGO9LnM",
+         "plus_code" : {
+            "compound_code" : "7PVV+F8 Windham, NY, USA",
+            "global_code" : "87J77PVV+F8"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

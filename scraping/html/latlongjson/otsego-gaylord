@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "696",
+               "short_name" : "696",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Michigan 32",
+               "short_name" : "M-32",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gaylord",
+               "short_name" : "Gaylord",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otsego County",
+               "short_name" : "Otsego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49735",
+               "short_name" : "49735",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "696 M-32, Gaylord, MI 49735, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0277331,
+               "lng" : -84.65533409999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0290820802915,
+                  "lng" : -84.65398511970849
+               },
+               "southwest" : {
+                  "lat" : 45.0263841197085,
+                  "lng" : -84.6566830802915
+               }
+            }
+         },
+         "place_id" : "ChIJqdXOEfVFNU0R-UGdHDjp7ao",
+         "plus_code" : {
+            "compound_code" : "28HV+3V Gaylord, MI, USA",
+            "global_code" : "86QQ28HV+3V"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

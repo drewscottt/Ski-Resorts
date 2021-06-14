@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3890",
+               "short_name" : "3890",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Goose Lake Road",
+               "short_name" : "Goose Lake Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "McCall",
+               "short_name" : "McCall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adams County",
+               "short_name" : "Adams County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83638",
+               "short_name" : "83638",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3890 Goose Lake Rd, McCall, ID 83638, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.00539999999999,
+               "lng" : -116.1544121
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0067489802915,
+                  "lng" : -116.1530631197085
+               },
+               "southwest" : {
+                  "lat" : 45.0040510197085,
+                  "lng" : -116.1557610802915
+               }
+            }
+         },
+         "place_id" : "ChIJ82GwIydnplQR1rmagmEftdE",
+         "plus_code" : {
+            "compound_code" : "2R4W+56 McCall, ID, USA",
+            "global_code" : "85Q52R4W+56"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

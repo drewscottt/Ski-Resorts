@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Song Mountain Road",
+               "short_name" : "Song Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tully",
+               "short_name" : "Tully",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preble",
+               "short_name" : "Preble",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cortland County",
+               "short_name" : "Cortland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13159",
+               "short_name" : "13159",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Song Mountain Rd, Tully, NY 13159, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7742691,
+               "lng" : -76.15843959999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7756180802915,
+                  "lng" : -76.15709061970848
+               },
+               "southwest" : {
+                  "lat" : 42.7729201197085,
+                  "lng" : -76.1597885802915
+               }
+            }
+         },
+         "place_id" : "ChIJQYD26DgX2okRIX6HArrC0vw",
+         "plus_code" : {
+            "compound_code" : "QRFR+PJ Tully, NY, USA",
+            "global_code" : "87J5QRFR+PJ"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

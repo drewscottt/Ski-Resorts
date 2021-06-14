@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dynamite Hill Recreation Area",
+               "short_name" : "Dynamite Hill Recreation Area",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "Dynamite Hill Road",
+               "short_name" : "Dynamite Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chestertown",
+               "short_name" : "Chestertown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warren County",
+               "short_name" : "Warren County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12817",
+               "short_name" : "12817",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dynamite Hill Recreation Area, Dynamite Hill Rd, Chestertown, NY 12817, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6588964,
+               "lng" : -73.7966023
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66024538029149,
+                  "lng" : -73.79525331970851
+               },
+               "southwest" : {
+                  "lat" : 43.6575474197085,
+                  "lng" : -73.79795128029151
+               }
+            }
+         },
+         "place_id" : "ChIJzaDsDQft34kRA8sL6N7xwqc",
+         "plus_code" : {
+            "compound_code" : "M653+H9 Chestertown, NY, USA",
+            "global_code" : "87M8M653+H9"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

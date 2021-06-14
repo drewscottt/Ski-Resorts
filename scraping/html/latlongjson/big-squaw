@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "447",
+               "short_name" : "447",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Resort Road",
+               "short_name" : "Ski Resort Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greenville Junction",
+               "short_name" : "Greenville Junction",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Northwest Piscataquis",
+               "short_name" : "Northwest Piscataquis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Piscataquis County",
+               "short_name" : "Piscataquis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04442",
+               "short_name" : "04442",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "447 Ski Resort Rd, Greenville Junction, ME 04442, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5066618,
+               "lng" : -69.7020055
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5080107802915,
+                  "lng" : -69.70065651970849
+               },
+               "southwest" : {
+                  "lat" : 45.5053128197085,
+                  "lng" : -69.70335448029149
+               }
+            }
+         },
+         "place_id" : "ChIJSWv4cZB9sEwR_bZlnF2lQV4",
+         "plus_code" : {
+            "compound_code" : "G74X+M5 Greenville Junction, Greenville, ME, USA",
+            "global_code" : "87QGG74X+M5"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

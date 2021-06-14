@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13805",
+               "short_name" : "13805",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Blairs Valley Road",
+               "short_name" : "Blairs Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercersburg",
+               "short_name" : "Mercersburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery Township",
+               "short_name" : "Montgomery Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17236",
+               "short_name" : "17236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "13805 Blairs Valley Rd, Mercersburg, PA 17236, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7417652,
+               "lng" : -77.93331259999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7514802,
+                  "lng" : -77.92347839999999
+               },
+               "southwest" : {
+                  "lat" : 39.7341132,
+                  "lng" : -77.9491465
+               }
+            }
+         },
+         "place_id" : "ChIJq97bPZ8gyokRe_rUoQ0ctTw",
+         "plus_code" : {
+            "compound_code" : "P3R8+PM Mercersburg, PA, USA",
+            "global_code" : "87F4P3R8+PM"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

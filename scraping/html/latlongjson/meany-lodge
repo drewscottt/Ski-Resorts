@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stampede Pass Road",
+               "short_name" : "Stampede Pass Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Easton",
+               "short_name" : "Easton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kittitas County",
+               "short_name" : "Kittitas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98925",
+               "short_name" : "98925",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stampede Pass Rd, Easton, WA 98925, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.2803426,
+               "lng" : -121.3201943
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.28169158029149,
+                  "lng" : -121.3188453197085
+               },
+               "southwest" : {
+                  "lat" : 47.27899361970849,
+                  "lng" : -121.3215432802915
+               }
+            }
+         },
+         "place_id" : "ChIJF31e3Zh1mlQRvS0ra1Lf9fc",
+         "plus_code" : {
+            "compound_code" : "7MJH+4W Easton, WA, USA",
+            "global_code" : "84VW7MJH+4W"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

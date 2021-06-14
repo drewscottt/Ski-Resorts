@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90255",
+               "short_name" : "90255",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Government Camp Loop",
+               "short_name" : "Government Camp Loop",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Government Camp",
+               "short_name" : "Government Camp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clackamas County",
+               "short_name" : "Clackamas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97028",
+               "short_name" : "97028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "90255 Government Camp Loop, Government Camp, OR 97028, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3029059,
+               "lng" : -121.7458283
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3042548802915,
+                  "lng" : -121.7444793197085
+               },
+               "southwest" : {
+                  "lat" : 45.3015569197085,
+                  "lng" : -121.7471772802915
+               }
+            }
+         },
+         "place_id" : "ChIJC8vwHtoYvlQRw9bS9BNZO9M",
+         "plus_code" : {
+            "compound_code" : "8733+5M Government Camp, OR, USA",
+            "global_code" : "84QW8733+5M"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

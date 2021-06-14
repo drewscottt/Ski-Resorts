@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vista Loop Road",
+               "short_name" : "Vista Loop Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Wenatchee",
+               "short_name" : "East Wenatchee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98802",
+               "short_name" : "98802",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vista Loop Rd, East Wenatchee, WA 98802, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.6125783,
+               "lng" : -120.1304198
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.61392728029151,
+                  "lng" : -120.1290708197085
+               },
+               "southwest" : {
+                  "lat" : 47.61122931970851,
+                  "lng" : -120.1317687802915
+               }
+            }
+         },
+         "place_id" : "ChIJ3zZUtTO_m1QRq4i0Fo_4Umo",
+         "plus_code" : {
+            "compound_code" : "JV79+2R East Wenatchee, WA, USA",
+            "global_code" : "84VXJV79+2R"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

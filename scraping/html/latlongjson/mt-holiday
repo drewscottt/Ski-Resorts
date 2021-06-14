@@ -1,0 +1,95 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mt. Holiday",
+               "short_name" : "Mt. Holiday",
+               "types" : [
+                  "bar",
+                  "establishment",
+                  "park",
+                  "point_of_interest",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "3100",
+               "short_name" : "3100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Holiday Road",
+               "short_name" : "Holiday Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Traverse City",
+               "short_name" : "Traverse City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Bay Township",
+               "short_name" : "East Bay Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Grand Traverse County",
+               "short_name" : "Grand Traverse County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49686",
+               "short_name" : "49686",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3719",
+               "short_name" : "3719",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Mt. Holiday, 3100 Holiday Rd, Traverse City, MI 49686, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.7416463,
+               "lng" : -85.5146178
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7429952802915,
+                  "lng" : -85.51326881970849
+               },
+               "southwest" : {
+                  "lat" : 44.7402973197085,
+                  "lng" : -85.51596678029149
+               }
+            }
+         },
+         "place_id" : "ChIJ5zvmswzOH4gRCeAYAEtQSGI",
+         "plus_code" : {
+            "compound_code" : "PFRP+M5 Traverse City, MI, USA",
+            "global_code" : "86PPPFRP+M5"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "park",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

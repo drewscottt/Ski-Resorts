@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spring Street",
+               "short_name" : "Spring St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "Lebanon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03766",
+               "short_name" : "03766",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "60 Spring St, Lebanon, NH 03766, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.635231,
+               "lng" : -72.2521667
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6365799802915,
+                  "lng" : -72.25081771970851
+               },
+               "southwest" : {
+                  "lat" : 43.6338820197085,
+                  "lng" : -72.25351568029151
+               }
+            }
+         },
+         "place_id" : "ChIJVTFfx8G0tEwRpVnp56Oq580",
+         "plus_code" : {
+            "compound_code" : "JPPX+34 Lebanon, NH, USA",
+            "global_code" : "87M9JPPX+34"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

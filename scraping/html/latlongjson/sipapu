@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5224",
+               "short_name" : "5224",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New Mexico 518",
+               "short_name" : "NM-518",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vadito",
+               "short_name" : "Vadito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taos County",
+               "short_name" : "Taos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87579",
+               "short_name" : "87579",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5224 NM-518, Vadito, NM 87579, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1541978,
+               "lng" : -105.5482818
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.15554678029149,
+                  "lng" : -105.5469328197085
+               },
+               "southwest" : {
+                  "lat" : 36.1528488197085,
+                  "lng" : -105.5496307802915
+               }
+            }
+         },
+         "place_id" : "ChIJcb2i2lLaGYcRZWd_of2gYws",
+         "plus_code" : {
+            "compound_code" : "5F32+MM Vadito, NM, USA",
+            "global_code" : "858P5F32+MM"
+         },
+         "types" : [
+            "convenience_store",
+            "establishment",
+            "food",
+            "gas_station",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

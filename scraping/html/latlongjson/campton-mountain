@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parker Road",
+               "short_name" : "Parker Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Campton",
+               "short_name" : "Campton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03223",
+               "short_name" : "03223",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24 Parker Rd, Campton, NH 03223, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8682244,
+               "lng" : -71.6093963
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8695733802915,
+                  "lng" : -71.60804731970849
+               },
+               "southwest" : {
+                  "lat" : 43.8668754197085,
+                  "lng" : -71.6107452802915
+               }
+            }
+         },
+         "place_id" : "ChIJXeFuMplms0wRL_iNPz5a29w",
+         "plus_code" : {
+            "compound_code" : "V99R+76 Campton, NH, USA",
+            "global_code" : "87MCV99R+76"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "night_club",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

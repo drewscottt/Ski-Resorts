@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5021",
+               "short_name" : "5021",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New York 86",
+               "short_name" : "NY-86",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12997",
+               "short_name" : "12997",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5021 NY-86, Wilmington, NY 12997, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.353873,
+               "lng" : -73.86173839999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3552219802915,
+                  "lng" : -73.86038941970848
+               },
+               "southwest" : {
+                  "lat" : 44.3525240197085,
+                  "lng" : -73.8630873802915
+               }
+            }
+         },
+         "place_id" : "ChIJq0TPNvX7ykwRkcNkIg-xUvM",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

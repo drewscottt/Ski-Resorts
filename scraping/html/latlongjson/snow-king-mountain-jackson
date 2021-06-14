@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "402",
+               "short_name" : "402",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Snow King Avenue",
+               "short_name" : "E Snow King Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83001",
+               "short_name" : "83001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "402 E Snow King Ave, Jackson, WY 83001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.47280869999999,
+               "lng" : -110.7560353
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.47415768029149,
+                  "lng" : -110.7546863197085
+               },
+               "southwest" : {
+                  "lat" : 43.47145971970849,
+                  "lng" : -110.7573842802915
+               }
+            }
+         },
+         "place_id" : "ChIJ6eWS-moaU1MRHFXL-6rFYMQ",
+         "plus_code" : {
+            "compound_code" : "F6FV+4H Jackson, WY, USA",
+            "global_code" : "85MFF6FV+4H"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

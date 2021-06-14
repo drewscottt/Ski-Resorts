@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Y Drive",
+               "short_name" : "Y Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grand Haven",
+               "short_name" : "Grand Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa County",
+               "short_name" : "Ottawa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49417",
+               "short_name" : "49417",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "600 Y Dr, Grand Haven, MI 49417, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0577903,
+               "lng" : -86.23971879999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0591392802915,
+                  "lng" : -86.23836981970848
+               },
+               "southwest" : {
+                  "lat" : 43.0564413197085,
+                  "lng" : -86.2410677802915
+               }
+            }
+         },
+         "place_id" : "ChIJpXJJFZSAGYgRUoS7M_8PIbQ",
+         "plus_code" : {
+            "compound_code" : "3Q56+44 Grand Haven, MI, USA",
+            "global_code" : "86MM3Q56+44"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

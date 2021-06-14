@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6700",
+               "short_name" : "6700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Interstate 35",
+               "short_name" : "I-35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Braunfels",
+               "short_name" : "New Braunfels",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comal County",
+               "short_name" : "Comal County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78130",
+               "short_name" : "78130",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7206",
+               "short_name" : "7206",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6700 I-35, New Braunfels, TX 78130, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7687296,
+               "lng" : -98.04083249999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7700785802915,
+                  "lng" : -98.03948351970848
+               },
+               "southwest" : {
+                  "lat" : 29.7673806197085,
+                  "lng" : -98.0421814802915
+               }
+            }
+         },
+         "place_id" : "ChIJCch_IIekXIYRAo-pTPQJIlM",
+         "plus_code" : {
+            "compound_code" : "QX95+FM New Braunfels, TX, USA",
+            "global_code" : "76X3QX95+FM"
+         },
+         "types" : [ "bar", "establishment", "point_of_interest", "school", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

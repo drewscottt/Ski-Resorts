@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10244",
+               "short_name" : "10244",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soda Springs Road",
+               "short_name" : "Soda Springs Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Soda Springs",
+               "short_name" : "Soda Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada County",
+               "short_name" : "Nevada County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95728",
+               "short_name" : "95728",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10244 Soda Springs Rd, Soda Springs, CA 95728, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3212936,
+               "lng" : -120.3801931
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.32264258029149,
+                  "lng" : -120.3788441197085
+               },
+               "southwest" : {
+                  "lat" : 39.31994461970849,
+                  "lng" : -120.3815420802915
+               }
+            }
+         },
+         "place_id" : "ChIJn-5h6FDom4ARA6cDqdK8EEY",
+         "plus_code" : {
+            "compound_code" : "8JC9+GW Soda Springs, CA, USA",
+            "global_code" : "84FX8JC9+GW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

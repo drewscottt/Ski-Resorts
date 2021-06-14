@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4061",
+               "short_name" : "4061",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road 204",
+               "short_name" : "County Rd 204",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cokeville",
+               "short_name" : "Cokeville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln County",
+               "short_name" : "Lincoln County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83114",
+               "short_name" : "83114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4061 County Rd 204, Cokeville, WY 83114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1030239,
+               "lng" : -110.8287596
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.10437288029149,
+                  "lng" : -110.8274106197085
+               },
+               "southwest" : {
+                  "lat" : 42.10167491970849,
+                  "lng" : -110.8301085802915
+               }
+            }
+         },
+         "place_id" : "ChIJqelggRS8VocRl9hU6RCCaow",
+         "plus_code" : {
+            "compound_code" : "453C+6F Cokeville, WY, USA",
+            "global_code" : "85JF453C+6F"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7414",
+               "short_name" : "7414",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State Road",
+               "short_name" : "State Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colden",
+               "short_name" : "Colden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colden",
+               "short_name" : "Colden",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14033",
+               "short_name" : "14033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7414 State Rd, Colden, NY 14033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.680979,
+               "lng" : -78.69203999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6823279802915,
+                  "lng" : -78.69069101970848
+               },
+               "southwest" : {
+                  "lat" : 42.6796300197085,
+                  "lng" : -78.6933889802915
+               }
+            }
+         },
+         "place_id" : "ChIJBaWS7M4A04kR_ZZs1JXojSY",
+         "plus_code" : {
+            "compound_code" : "M8J5+95 Colden, NY, USA",
+            "global_code" : "87J3M8J5+95"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

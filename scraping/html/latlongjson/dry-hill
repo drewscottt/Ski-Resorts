@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18160",
+               "short_name" : "18160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alpine Ridge Road",
+               "short_name" : "Alpine Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Watertown",
+               "short_name" : "Watertown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watertown",
+               "short_name" : "Watertown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13601",
+               "short_name" : "13601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18160 Alpine Ridge Rd, Watertown, NY 13601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.931234,
+               "lng" : -75.90181
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.93258298029149,
+                  "lng" : -75.90046101970849
+               },
+               "southwest" : {
+                  "lat" : 43.9298850197085,
+                  "lng" : -75.90315898029149
+               }
+            }
+         },
+         "place_id" : "ChIJs-0dtYFl2IkR1hxb5Vuh95c",
+         "plus_code" : {
+            "compound_code" : "W3JX+F7 Watertown, NY, USA",
+            "global_code" : "87M6W3JX+F7"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

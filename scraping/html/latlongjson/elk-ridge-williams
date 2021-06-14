@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2467",
+               "short_name" : "2467",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Perkinsville Road",
+               "short_name" : "S Perkinsville Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Williams",
+               "short_name" : "Williams",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coconino County",
+               "short_name" : "Coconino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86046",
+               "short_name" : "86046",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9163",
+               "short_name" : "9163",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2467 S Perkinsville Rd, Williams, AZ 86046, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2153235,
+               "lng" : -112.1925243
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2166724802915,
+                  "lng" : -112.1911753197085
+               },
+               "southwest" : {
+                  "lat" : 35.2139745197085,
+                  "lng" : -112.1938732802915
+               }
+            }
+         },
+         "place_id" : "ChIJTwko8D2eMocR6DlNAa8hFyY",
+         "plus_code" : {
+            "compound_code" : "6R84+4X Williams, AZ, USA",
+            "global_code" : "85796R84+4X"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

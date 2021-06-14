@@ -1,0 +1,163 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lee Canyon",
+               "short_name" : "Lee Canyon",
+               "types" : [
+                  "bar",
+                  "establishment",
+                  "food",
+                  "park",
+                  "point_of_interest",
+                  "restaurant",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "6725",
+               "short_name" : "6725",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lee Canyon Road",
+               "short_name" : "Lee Canyon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Las Vegas",
+               "short_name" : "Las Vegas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89124",
+               "short_name" : "89124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lee Canyon, 6725 Lee Canyon Rd, Las Vegas, NV 89124, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.3037018,
+               "lng" : -115.6796327
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3050507802915,
+                  "lng" : -115.6782837197085
+               },
+               "southwest" : {
+                  "lat" : 36.3023528197085,
+                  "lng" : -115.6809816802915
+               }
+            }
+         },
+         "place_id" : "ChIJq3iP5W3qyIARZ2kG9UMDr0M",
+         "plus_code" : {
+            "compound_code" : "883C+F4 Mount Charleston, NV, USA",
+            "global_code" : "8586883C+F4"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "park",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7055",
+               "short_name" : "7055",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Fort Apache Road",
+               "short_name" : "S Fort Apache Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rhodes Ranch",
+               "short_name" : "Rhodes Ranch",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Las Vegas",
+               "short_name" : "Las Vegas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89148",
+               "short_name" : "89148",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6757",
+               "short_name" : "6757",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "7055 S Fort Apache Rd, Las Vegas, NV 89148, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0598987,
+               "lng" : -115.3005015
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.06124768029149,
+                  "lng" : -115.2991525197085
+               },
+               "southwest" : {
+                  "lat" : 36.0585497197085,
+                  "lng" : -115.3018504802915
+               }
+            }
+         },
+         "place_id" : "ChIJP27WdW64yIARH30O2GfxZIU",
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

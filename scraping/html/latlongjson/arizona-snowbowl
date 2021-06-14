@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9300",
+               "short_name" : "9300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Snow Bowl Road",
+               "short_name" : "N Snow Bowl Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Flagstaff",
+               "short_name" : "Flagstaff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coconino County",
+               "short_name" : "Coconino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86001",
+               "short_name" : "86001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9300 N Snow Bowl Rd, Flagstaff, AZ 86001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.330886,
+               "lng" : -111.7103
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3322349802915,
+                  "lng" : -111.7089510197085
+               },
+               "southwest" : {
+                  "lat" : 35.3295370197085,
+                  "lng" : -111.7116489802915
+               }
+            }
+         },
+         "place_id" : "ChIJzdIEEHSHLYcRZ8G1XmEnbk0",
+         "plus_code" : {
+            "compound_code" : "87JQ+9V Flagstaff, AZ, USA",
+            "global_code" : "857C87JQ+9V"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

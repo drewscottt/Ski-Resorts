@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "N3332",
+               "short_name" : "N3332",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pine Mountain Road",
+               "short_name" : "Pine Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Iron Mountain",
+               "short_name" : "Iron Mountain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breitung Township",
+               "short_name" : "Breitung Twp",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dickinson County",
+               "short_name" : "Dickinson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49801",
+               "short_name" : "49801",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9403",
+               "short_name" : "9403",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "N3332 Pine Mountain Rd, Iron Mountain, MI 49801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.8384989,
+               "lng" : -88.0895149
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8398478802915,
+                  "lng" : -88.08816591970849
+               },
+               "southwest" : {
+                  "lat" : 45.8371499197085,
+                  "lng" : -88.09086388029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-Z6D5BdLUk0RG2D1daePxEo",
+         "plus_code" : {
+            "compound_code" : "RWQ6+95 Iron Mountain, MI, USA",
+            "global_code" : "86QHRWQ6+95"
+         },
+         "types" : [
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "real_estate_agency",
+            "travel_agency"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

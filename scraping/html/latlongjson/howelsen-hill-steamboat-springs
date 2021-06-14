@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Howelsen Parkway",
+               "short_name" : "Howelsen Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Steamboat Springs",
+               "short_name" : "Steamboat Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Routt County",
+               "short_name" : "Routt County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80487",
+               "short_name" : "80487",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Howelsen Pkwy, Steamboat Springs, CO 80487, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4833683,
+               "lng" : -106.8379721
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4847172802915,
+                  "lng" : -106.8366231197085
+               },
+               "southwest" : {
+                  "lat" : 40.4820193197085,
+                  "lng" : -106.8393210802915
+               }
+            }
+         },
+         "place_id" : "ChIJGwfzb9poQocRRNTYJ6SomdE",
+         "plus_code" : {
+            "compound_code" : "F5M6+8R Steamboat Springs, CO, USA",
+            "global_code" : "85GMF5M6+8R"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

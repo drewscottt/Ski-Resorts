@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23400",
+               "short_name" : "23400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "41st Street",
+               "short_name" : "41st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Joint Base Elmendorf-Richardson",
+               "short_name" : "Joint Base Elmendorf-Richardson",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Anchorage",
+               "short_name" : "Anchorage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anchorage",
+               "short_name" : "Anchorage",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99506",
+               "short_name" : "99506",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "23400 41st St, Joint Base Elmendorf-Richardson, AK 99506, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.2763624,
+               "lng" : -149.8246181
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.27771138029151,
+                  "lng" : -149.8232691197085
+               },
+               "southwest" : {
+                  "lat" : 61.27501341970849,
+                  "lng" : -149.8259670802915
+               }
+            }
+         },
+         "place_id" : "ChIJAQAAADyWyFYROjLclSpYaeE",
+         "plus_code" : {
+            "compound_code" : "75GG+G5 Joint Base Elmendorf-Richardson, Anchorage, AK, USA",
+            "global_code" : "93HG75GG+G5"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

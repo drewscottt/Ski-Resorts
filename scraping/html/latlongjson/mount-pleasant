@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14510",
+               "short_name" : "14510",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Pleasant Road",
+               "short_name" : "Mt Pleasant Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge Springs",
+               "short_name" : "Cambridge Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington Township",
+               "short_name" : "Washington Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16403",
+               "short_name" : "16403",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14510 Mt Pleasant Rd, Cambridge Springs, PA 16403, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.850989,
+               "lng" : -80.07028699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.85233798029149,
+                  "lng" : -80.0689380197085
+               },
+               "southwest" : {
+                  "lat" : 41.8496400197085,
+                  "lng" : -80.0716359802915
+               }
+            }
+         },
+         "place_id" : "ChIJ3yxRCFyKMogRyRqV_p1HKZY",
+         "plus_code" : {
+            "compound_code" : "VW2H+9V Cambridge Springs, PA, USA",
+            "global_code" : "86HXVW2H+9V"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

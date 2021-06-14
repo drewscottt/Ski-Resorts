@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "976",
+               "short_name" : "976",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saddleback Mountain Road",
+               "short_name" : "Saddleback Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rangeley",
+               "short_name" : "Rangeley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04970",
+               "short_name" : "04970",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "976 Saddleback Mountain Rd, Rangeley, ME 04970, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9462173,
+               "lng" : -70.5270814
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9475662802915,
+                  "lng" : -70.5257324197085
+               },
+               "southwest" : {
+                  "lat" : 44.9448683197085,
+                  "lng" : -70.52843038029151
+               }
+            }
+         },
+         "place_id" : "ChIJc64vWlQWsUwRfk_4fKpYuW8",
+         "plus_code" : {
+            "compound_code" : "WFWF+F5 Rangeley, ME, USA",
+            "global_code" : "87PFWFWF+F5"
+         },
+         "types" : [ "bar", "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

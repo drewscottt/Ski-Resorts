@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mountain Inn Loop",
+               "short_name" : "Mountain Inn Loop",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nellysford",
+               "short_name" : "Nellysford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rockfish",
+               "short_name" : "Rockfish",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nelson County",
+               "short_name" : "Nelson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22958",
+               "short_name" : "22958",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "39 Mountain Inn Loop, Nellysford, VA 22958, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.91485,
+               "lng" : -78.9438802
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9161989802915,
+                  "lng" : -78.94253121970848
+               },
+               "southwest" : {
+                  "lat" : 37.9135010197085,
+                  "lng" : -78.94522918029151
+               }
+            }
+         },
+         "place_id" : "ChIJYSNgOCRps4kRcde6mhbDY2c",
+         "plus_code" : {
+            "compound_code" : "W374+WC Nellysford, VA, USA",
+            "global_code" : "8793W374+WC"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "925",
+               "short_name" : "925",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Roundtop Road",
+               "short_name" : "Roundtop Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lewisberry",
+               "short_name" : "Lewisberry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warrington Township",
+               "short_name" : "Warrington Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17339",
+               "short_name" : "17339",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "925 Roundtop Rd, Lewisberry, PA 17339, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1094506,
+               "lng" : -76.9275492
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.11079958029149,
+                  "lng" : -76.92620021970849
+               },
+               "southwest" : {
+                  "lat" : 40.10810161970849,
+                  "lng" : -76.9288981802915
+               }
+            }
+         },
+         "place_id" : "ChIJebcZSJnuyIkRZ3ZQOeG7E_c",
+         "plus_code" : {
+            "compound_code" : "435C+QX Lewisberry, PA, USA",
+            "global_code" : "87G5435C+QX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

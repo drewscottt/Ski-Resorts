@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Okemo Ridge Road",
+               "short_name" : "Okemo Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ludlow",
+               "short_name" : "Ludlow",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05149",
+               "short_name" : "05149",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "77 Okemo Ridge Rd, Ludlow, VT 05149, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4018257,
+               "lng" : -72.7170416
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4287558,
+                  "lng" : -72.70175159999999
+               },
+               "southwest" : {
+                  "lat" : 43.3929141,
+                  "lng" : -72.758473
+               }
+            }
+         },
+         "place_id" : "ChIJzxImTjE14IkRRUrlNrmxsBY",
+         "plus_code" : {
+            "compound_code" : "C72M+P5 Ludlow, VT, USA",
+            "global_code" : "87M9C72M+P5"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

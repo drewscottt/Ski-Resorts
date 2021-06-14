@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "396",
+               "short_name" : "396",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Vernon Road",
+               "short_name" : "Mt Vernon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plantsville",
+               "short_name" : "Plantsville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Southington",
+               "short_name" : "Southington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford County",
+               "short_name" : "Hartford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06479",
+               "short_name" : "06479",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "396 Mt Vernon Rd, Plantsville, CT 06479, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5821139,
+               "lng" : -72.9248905
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5834628802915,
+                  "lng" : -72.92354151970849
+               },
+               "southwest" : {
+                  "lat" : 41.5807649197085,
+                  "lng" : -72.92623948029151
+               }
+            }
+         },
+         "place_id" : "ChIJOZT_cHO454kRFYbpaN0vRoU",
+         "plus_code" : {
+            "compound_code" : "H3JG+R2 Plantsville, Southington, CT, USA",
+            "global_code" : "87H9H3JG+R2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

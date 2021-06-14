@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1822",
+               "short_name" : "1822",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Resort Drive",
+               "short_name" : "Resort Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Massanutten",
+               "short_name" : "Massanutten",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stonewall",
+               "short_name" : "Stonewall",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rockingham County",
+               "short_name" : "Rockingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22840",
+               "short_name" : "22840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1822 Resort Dr, Massanutten, VA 22840, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.4065721,
+               "lng" : -78.71612229999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4079210802915,
+                  "lng" : -78.71477331970848
+               },
+               "southwest" : {
+                  "lat" : 38.4052231197085,
+                  "lng" : -78.71747128029149
+               }
+            }
+         },
+         "place_id" : "ChIJk0sNQhyLtIkRiVYdJN9J6HI",
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "spa"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

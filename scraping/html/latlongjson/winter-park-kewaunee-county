@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kewaunee Winter Park",
+               "short_name" : "Kewaunee Winter Park",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "N3787",
+               "short_name" : "N3787",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ransom Moore Lane",
+               "short_name" : "Ransom Moore Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kewaunee",
+               "short_name" : "Kewaunee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Kewaunee",
+               "short_name" : "West Kewaunee",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kewaunee County",
+               "short_name" : "Kewaunee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54216",
+               "short_name" : "54216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kewaunee Winter Park, N3787 Ransom Moore Ln, Kewaunee, WI 54216, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.459461,
+               "lng" : -87.559558
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.46080998029151,
+                  "lng" : -87.55820901970849
+               },
+               "southwest" : {
+                  "lat" : 44.45811201970851,
+                  "lng" : -87.56090698029151
+               }
+            }
+         },
+         "place_id" : "ChIJ_0PFIWjTAogRWCFHpp-WJTc",
+         "plus_code" : {
+            "compound_code" : "FC5R+Q5 Kewaunee, WI, USA",
+            "global_code" : "86PJFC5R+Q5"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

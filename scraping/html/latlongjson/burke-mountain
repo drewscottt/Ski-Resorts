@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "223",
+               "short_name" : "223",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sherburne Lodge Road",
+               "short_name" : "Sherburne Lodge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Burke",
+               "short_name" : "East Burke",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Burke",
+               "short_name" : "Burke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caledonia County",
+               "short_name" : "Caledonia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05832",
+               "short_name" : "05832",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "223 Sherburne Lodge Rd, East Burke, VT 05832, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5878354,
+               "lng" : -71.9163751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5891843802915,
+                  "lng" : -71.91502611970849
+               },
+               "southwest" : {
+                  "lat" : 44.5864864197085,
+                  "lng" : -71.91772408029151
+               }
+            }
+         },
+         "place_id" : "ChIJY-SvngowtEwR_UJprskeGq8",
+         "plus_code" : {
+            "compound_code" : "H3QM+4C East Burke, Burke, VT, USA",
+            "global_code" : "87PCH3QM+4C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,122 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1251",
+               "short_name" : "1251",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eaton Road",
+               "short_name" : "Eaton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03849",
+               "short_name" : "03849",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1251 Eaton Rd, Madison, NH 03849, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8680791,
+               "lng" : -71.0889018
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8694280802915,
+                  "lng" : -71.08755281970851
+               },
+               "southwest" : {
+                  "lat" : 43.8667301197085,
+                  "lng" : -71.09025078029151
+               }
+            }
+         },
+         "place_id" : "ChIJfTZ4Gm8Fs0wRrtiWTNOZuZ0",
+         "plus_code" : {
+            "compound_code" : "VW96+6C Madison, NH, USA",
+            "global_code" : "87MCVW96+6C"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "153",
+               "short_name" : "153",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03849",
+               "short_name" : "03849",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1251 Eaton Road, Route, 153, Madison, NH 03849, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8611657,
+               "lng" : -71.0887834
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8625146802915,
+                  "lng" : -71.08743441970849
+               },
+               "southwest" : {
+                  "lat" : 43.8598167197085,
+                  "lng" : -71.09013238029149
+               }
+            }
+         },
+         "place_id" : "ChIJfTZ4Gm8Fs0wR-BtxuQtT8f8",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

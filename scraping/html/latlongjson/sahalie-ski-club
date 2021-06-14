@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19100",
+               "short_name" : "19100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alpental Access Rd SE",
+               "short_name" : "Alpental Access Rd SE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Bend",
+               "short_name" : "North Bend",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98045",
+               "short_name" : "98045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19100 Alpental Access Rd SE, North Bend, WA 98045, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.4308387,
+               "lng" : -121.4166097
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4321876802915,
+                  "lng" : -121.4152607197085
+               },
+               "southwest" : {
+                  "lat" : 47.4294897197085,
+                  "lng" : -121.4179586802915
+               }
+            }
+         },
+         "place_id" : "ChIJ50Hsmc95mlQRzqE0TWXayKM",
+         "plus_code" : {
+            "compound_code" : "CHJM+89 Snoqualmie Pass, WA, USA",
+            "global_code" : "84VWCHJM+89"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

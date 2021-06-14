@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "723",
+               "short_name" : "723",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 36",
+               "short_name" : "CA-36",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Susanville",
+               "short_name" : "Susanville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lassen County",
+               "short_name" : "Lassen County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96130",
+               "short_name" : "96130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "723 CA-36, Susanville, CA 96130, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.3454048,
+               "lng" : -120.9040536
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3467537802915,
+                  "lng" : -120.9027046197085
+               },
+               "southwest" : {
+                  "lat" : 40.3440558197085,
+                  "lng" : -120.9054025802915
+               }
+            }
+         },
+         "place_id" : "ChIJqT5_Xlp1nYAR3NHRURvQ93Y",
+         "plus_code" : {
+            "compound_code" : "83WW+59 Susanville, CA, USA",
+            "global_code" : "84GX83WW+59"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

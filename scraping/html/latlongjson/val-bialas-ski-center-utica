@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "210",
+               "short_name" : "210",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Memorial Parkway",
+               "short_name" : "Memorial Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Utica",
+               "short_name" : "Utica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oneida County",
+               "short_name" : "Oneida County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13501",
+               "short_name" : "13501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "210 Memorial Pkwy, Utica, NY 13501, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.084454,
+               "lng" : -75.25043620000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0858029802915,
+                  "lng" : -75.24908721970851
+               },
+               "southwest" : {
+                  "lat" : 43.0831050197085,
+                  "lng" : -75.25178518029152
+               }
+            }
+         },
+         "place_id" : "ChIJ_0GNCjNB2YkRhfCx3qTWmLg",
+         "plus_code" : {
+            "compound_code" : "3PMX+QR Utica, NY, USA",
+            "global_code" : "87M63PMX+QR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

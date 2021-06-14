@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1398",
+               "short_name" : "1398",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New Hampshire Route 103",
+               "short_name" : "New Hampshire Rte 103",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newbury",
+               "short_name" : "Newbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merrimack County",
+               "short_name" : "Merrimack County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03255",
+               "short_name" : "03255",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1398 New Hampshire Rte 103, Newbury, NH 03255, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.331889,
+               "lng" : -72.08014
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.33323798029149,
+                  "lng" : -72.07879101970849
+               },
+               "southwest" : {
+                  "lat" : 43.3305400197085,
+                  "lng" : -72.08148898029151
+               }
+            }
+         },
+         "place_id" : "ChIJk6-DXMPz4YkReWIDJZUN5XQ",
+         "plus_code" : {
+            "compound_code" : "8WJ9+QW Newbury, NH, USA",
+            "global_code" : "87M98WJ9+QW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

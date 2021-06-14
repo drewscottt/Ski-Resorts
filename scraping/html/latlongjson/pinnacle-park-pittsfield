@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "271",
+               "short_name" : "271",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Waverly Avenue",
+               "short_name" : "Waverly Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pittsfield",
+               "short_name" : "Pittsfield",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsfield",
+               "short_name" : "Pittsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pittsfield",
+               "short_name" : "Pittsfield",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Somerset County",
+               "short_name" : "Somerset County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04967",
+               "short_name" : "04967",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "271 Waverly Ave, Pittsfield, ME 04967, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.7954371,
+               "lng" : -69.3876877
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7967860802915,
+                  "lng" : -69.38633871970849
+               },
+               "southwest" : {
+                  "lat" : 44.7940881197085,
+                  "lng" : -69.3890366802915
+               }
+            }
+         },
+         "place_id" : "ChIJMZV-H6DXsUwRsWwQduwldEc",
+         "plus_code" : {
+            "compound_code" : "QJW6+5W Pittsfield, ME, USA",
+            "global_code" : "87PGQJW6+5W"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

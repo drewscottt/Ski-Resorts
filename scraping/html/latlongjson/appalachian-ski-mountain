@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "940",
+               "short_name" : "940",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Mountain Road",
+               "short_name" : "Ski Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Blowing Rock",
+               "short_name" : "Blowing Rock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Watauga County",
+               "short_name" : "Watauga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28605",
+               "short_name" : "28605",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "940 Ski Mountain Rd, Blowing Rock, NC 28605, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1727761,
+               "lng" : -81.6638847
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1741250802915,
+                  "lng" : -81.66253571970849
+               },
+               "southwest" : {
+                  "lat" : 36.1714271197085,
+                  "lng" : -81.66523368029151
+               }
+            }
+         },
+         "place_id" : "ChIJK-1GHO_6UIgRDd1TE4S7M4Q",
+         "plus_code" : {
+            "compound_code" : "58FP+4C Blowing Rock, NC, USA",
+            "global_code" : "868W58FP+4C"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

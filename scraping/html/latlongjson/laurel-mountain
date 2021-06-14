@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "347",
+               "short_name" : "347",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Summit Ski Road",
+               "short_name" : "Summit Ski Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boswell",
+               "short_name" : "Boswell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ligonier Township",
+               "short_name" : "Ligonier Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westmoreland County",
+               "short_name" : "Westmoreland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15531",
+               "short_name" : "15531",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2646",
+               "short_name" : "2646",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "347 Summit Ski Rd, Boswell, PA 15531, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1638728,
+               "lng" : -79.1657908
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1652217802915,
+                  "lng" : -79.1644418197085
+               },
+               "southwest" : {
+                  "lat" : 40.1625238197085,
+                  "lng" : -79.16713978029151
+               }
+            }
+         },
+         "place_id" : "ChIJ48rOmq0ny4kRCY9bV1qaEtU",
+         "plus_code" : {
+            "compound_code" : "5R7M+GM Boswell, PA, USA",
+            "global_code" : "87G25R7M+GM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

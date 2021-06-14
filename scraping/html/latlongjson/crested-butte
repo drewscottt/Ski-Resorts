@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snowmass Road",
+               "short_name" : "Snowmass Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crested Butte",
+               "short_name" : "Crested Butte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gunnison County",
+               "short_name" : "Gunnison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81225",
+               "short_name" : "81225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12 Snowmass Rd, Crested Butte, CO 81225, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8991036,
+               "lng" : -106.9657648
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90045258029151,
+                  "lng" : -106.9644158197085
+               },
+               "southwest" : {
+                  "lat" : 38.89775461970851,
+                  "lng" : -106.9671137802915
+               }
+            }
+         },
+         "place_id" : "ChIJO4oGmYZtQIcR-qDfkW5kg6Y",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

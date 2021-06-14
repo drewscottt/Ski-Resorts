@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "485",
+               "short_name" : "485",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hotel Road",
+               "short_name" : "Hotel Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brownsville",
+               "short_name" : "Brownsville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "West Windsor",
+               "short_name" : "West Windsor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windsor County",
+               "short_name" : "Windsor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05037",
+               "short_name" : "05037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "485 Hotel Rd, Brownsville, VT 05037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4659389,
+               "lng" : -72.4708528
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4672878802915,
+                  "lng" : -72.46950381970849
+               },
+               "southwest" : {
+                  "lat" : 43.4645899197085,
+                  "lng" : -72.47220178029151
+               }
+            }
+         },
+         "place_id" : "ChIJTQlxnOHE4YkR7ddRZKmmyEg",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

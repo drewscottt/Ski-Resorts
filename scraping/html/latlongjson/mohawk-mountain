@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Great Hollow Road",
+               "short_name" : "Great Hollow Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cornwall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Litchfield County",
+               "short_name" : "Litchfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06753",
+               "short_name" : "06753",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "46 Great Hollow Rd, Cornwall, CT 06753, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.838231,
+               "lng" : -73.3150586
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8395799802915,
+                  "lng" : -73.3137096197085
+               },
+               "southwest" : {
+                  "lat" : 41.8368820197085,
+                  "lng" : -73.31640758029151
+               }
+            }
+         },
+         "place_id" : "ChIJBWf5iPGE54kROUJqRalNCxQ",
+         "plus_code" : {
+            "compound_code" : "RMQM+7X Cornwall, CT, USA",
+            "global_code" : "87H8RMQM+7X"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

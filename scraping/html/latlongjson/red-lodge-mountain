@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "305",
+               "short_name" : "305",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Run Road",
+               "short_name" : "Ski Run Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Red Lodge",
+               "short_name" : "Red Lodge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carbon County",
+               "short_name" : "Carbon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59068",
+               "short_name" : "59068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "305 Ski Run Rd, Red Lodge, MT 59068, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.1908081,
+               "lng" : -109.3364169
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1921570802915,
+                  "lng" : -109.3350679197085
+               },
+               "southwest" : {
+                  "lat" : 45.1894591197085,
+                  "lng" : -109.3377658802915
+               }
+            }
+         },
+         "place_id" : "ChIJx3MXA9bXTlMRG5bdtFbrL5E",
+         "plus_code" : {
+            "compound_code" : "5MR7+8C Red Lodge, MT, USA",
+            "global_code" : "85QG5MR7+8C"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

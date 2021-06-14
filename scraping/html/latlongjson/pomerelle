@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "961",
+               "short_name" : "961",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Howell Canyon Road",
+               "short_name" : "E Howell Canyon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malta",
+               "short_name" : "Malta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cassia County",
+               "short_name" : "Cassia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83342",
+               "short_name" : "83342",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "961 E Howell Canyon Rd, Malta, ID 83342, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3179871,
+               "lng" : -113.6077523
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3193360802915,
+                  "lng" : -113.6064033197085
+               },
+               "southwest" : {
+                  "lat" : 42.3166381197085,
+                  "lng" : -113.6091012802915
+               }
+            }
+         },
+         "place_id" : "ChIJD1j7nm2KqoARHY1maR83S6c",
+         "plus_code" : {
+            "compound_code" : "899R+5V Albion, ID, USA",
+            "global_code" : "85J8899R+5V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

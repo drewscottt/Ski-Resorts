@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hunter Mountain Resort",
+               "short_name" : "Hunter Mountain Resort",
+               "types" : [ "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Klein Avenue",
+               "short_name" : "Klein Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hunter",
+               "short_name" : "Hunter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunter",
+               "short_name" : "Hunter",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12442",
+               "short_name" : "12442",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hunter Mountain Resort, 64 Klein Ave, Hunter, NY 12442, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2028811,
+               "lng" : -74.2246402
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2042300802915,
+                  "lng" : -74.2232912197085
+               },
+               "southwest" : {
+                  "lat" : 42.2015321197085,
+                  "lng" : -74.22598918029151
+               }
+            }
+         },
+         "place_id" : "ChIJPcKxHTGt3YkRGq995L0v6xY",
+         "plus_code" : {
+            "compound_code" : "6Q3G+54 Hunter, NY, USA",
+            "global_code" : "87J76Q3G+54"
+         },
+         "types" : [ "establishment", "lodging", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1401",
+               "short_name" : "1401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Lake Street",
+               "short_name" : "W Lake St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bartlett",
+               "short_name" : "Bartlett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hanover Township",
+               "short_name" : "Hanover Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60103",
+               "short_name" : "60103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1401 W Lake St, Bartlett, IL 60103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.012825,
+               "lng" : -88.22015999999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0141739802915,
+                  "lng" : -88.21881101970848
+               },
+               "southwest" : {
+                  "lat" : 42.0114760197085,
+                  "lng" : -88.2215089802915
+               }
+            }
+         },
+         "place_id" : "ChIJr_J4k-sGD4gRg4rsAr8XKOc",
+         "plus_code" : {
+            "compound_code" : "2Q7H+4W Bartlett, IL, USA",
+            "global_code" : "86JH2Q7H+4W"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

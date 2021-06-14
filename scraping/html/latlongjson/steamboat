@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2305",
+               "short_name" : "2305",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Werner Circle",
+               "short_name" : "Mt Werner Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Steamboat Springs",
+               "short_name" : "Steamboat Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Routt County",
+               "short_name" : "Routt County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80487",
+               "short_name" : "80487",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2305 Mt Werner Cir, Steamboat Springs, CO 80487, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4571991,
+               "lng" : -106.8045169
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4585480802915,
+                  "lng" : -106.8031679197085
+               },
+               "southwest" : {
+                  "lat" : 40.4558501197085,
+                  "lng" : -106.8058658802915
+               }
+            }
+         },
+         "place_id" : "ChIJXXSu2LhuQocRI58fmBc30yI",
+         "plus_code" : {
+            "compound_code" : "F54W+V5 Steamboat Springs, CO, USA",
+            "global_code" : "85GMF54W+V5"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

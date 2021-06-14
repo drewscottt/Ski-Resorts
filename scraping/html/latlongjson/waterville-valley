@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Area Road",
+               "short_name" : "Ski Area Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waterville Valley",
+               "short_name" : "Waterville Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03215",
+               "short_name" : "03215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Ski Area Rd, Waterville Valley, NH 03215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.9651774,
+               "lng" : -71.5279085
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9734823,
+                  "lng" : -71.5197175
+               },
+               "southwest" : {
+                  "lat" : 43.9494993,
+                  "lng" : -71.55689629999999
+               }
+            }
+         },
+         "place_id" : "ChIJVUO1NON6s0wRHiXxhgjWuCg",
+         "plus_code" : {
+            "compound_code" : "XF8C+3R Waterville Valley, NH, USA",
+            "global_code" : "87MCXF8C+3R"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

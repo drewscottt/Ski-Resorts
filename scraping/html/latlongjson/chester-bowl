@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1801",
+               "short_name" : "1801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Skyline Parkway",
+               "short_name" : "E Skyline Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chester Park",
+               "short_name" : "Chester Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Duluth",
+               "short_name" : "Duluth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55812",
+               "short_name" : "55812",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1801 E Skyline Pkwy, Duluth, MN 55812, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.81352649999999,
+               "lng" : -92.0959804
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8148754802915,
+                  "lng" : -92.09463141970851
+               },
+               "southwest" : {
+                  "lat" : 46.8121775197085,
+                  "lng" : -92.09732938029151
+               }
+            }
+         },
+         "place_id" : "ChIJda5zFDGtr1IRx-IG4xnTMUg",
+         "plus_code" : {
+            "compound_code" : "RW73+CJ Duluth, MN, USA",
+            "global_code" : "86R9RW73+CJ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

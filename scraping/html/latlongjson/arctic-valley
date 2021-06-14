@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arctic Valley Road",
+               "short_name" : "Arctic Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eagle River",
+               "short_name" : "Eagle River",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Anchorage",
+               "short_name" : "Anchorage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anchorage",
+               "short_name" : "Anchorage",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99577",
+               "short_name" : "99577",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arctic Valley Rd, Eagle River, AK 99577, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.2464714,
+               "lng" : -149.5328369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.24782038029151,
+                  "lng" : -149.5314879197085
+               },
+               "southwest" : {
+                  "lat" : 61.24512241970849,
+                  "lng" : -149.5341858802915
+               }
+            }
+         },
+         "place_id" : "ChIJBfJ2ykaUyFYRro0hE32BIvs",
+         "plus_code" : {
+            "compound_code" : "6FW8+HV Eagle River, Anchorage, AK, USA",
+            "global_code" : "93HG6FW8+HV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

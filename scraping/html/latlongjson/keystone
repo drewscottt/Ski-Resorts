@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dercum Square",
+               "short_name" : "Dercum Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Keystone",
+               "short_name" : "Keystone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit County",
+               "short_name" : "Summit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80435",
+               "short_name" : "80435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100 Dercum Square, Keystone, CO 80435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6075962,
+               "lng" : -105.9437656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6089451802915,
+                  "lng" : -105.9424166197085
+               },
+               "southwest" : {
+                  "lat" : 39.6062472197085,
+                  "lng" : -105.9451145802915
+               }
+            }
+         },
+         "place_id" : "ChIJW_aKIwJaaocRr6sP37eZJ_M",
+         "plus_code" : {
+            "compound_code" : "J354+2F Keystone, CO, USA",
+            "global_code" : "85FPJ354+2F"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

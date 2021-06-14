@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hidden Valley",
+               "short_name" : "Hidden Valley",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "King of Prussia",
+               "short_name" : "King of Prussia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Merion Township",
+               "short_name" : "Upper Merion Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19406",
+               "short_name" : "19406",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hidden Valley, King of Prussia, PA 19406, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1067745,
+               "lng" : -75.3779632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1153081,
+                  "lng" : -75.3619558
+               },
+               "southwest" : {
+                  "lat" : 40.09823979999999,
+                  "lng" : -75.3939706
+               }
+            }
+         },
+         "place_id" : "ChIJryVow9eVxokR-5p2gInTw0I",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

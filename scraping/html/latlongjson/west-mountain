@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Mountain Road",
+               "short_name" : "West Mountain Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Queensbury",
+               "short_name" : "Queensbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensbury",
+               "short_name" : "Queensbury",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warren County",
+               "short_name" : "Warren County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12804",
+               "short_name" : "12804",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59 West Mountain Road, Queensbury, NY 12804, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.285651,
+               "lng" : -73.725285
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2869999802915,
+                  "lng" : -73.72393601970849
+               },
+               "southwest" : {
+                  "lat" : 43.28430201970851,
+                  "lng" : -73.72663398029151
+               }
+            }
+         },
+         "place_id" : "ChIJi-aL3T_M34kR6b3FbwzE6ng",
+         "plus_code" : {
+            "compound_code" : "77PF+7V Queensbury, NY, USA",
+            "global_code" : "87M877PF+7V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

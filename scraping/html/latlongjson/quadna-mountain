@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Quadna Road",
+               "short_name" : "Quadna Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hill City",
+               "short_name" : "Hill City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hill Lake Township",
+               "short_name" : "Hill Lake Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Aitkin County",
+               "short_name" : "Aitkin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55748",
+               "short_name" : "55748",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9751",
+               "short_name" : "9751",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "200 Quadna Rd, Hill City, MN 55748, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.9794711,
+               "lng" : -93.5921321
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.98082008029149,
+                  "lng" : -93.59078311970849
+               },
+               "southwest" : {
+                  "lat" : 46.97812211970849,
+                  "lng" : -93.5934810802915
+               }
+            }
+         },
+         "place_id" : "ChIJK9FH_TDpsFIRo6fxh010U3s",
+         "plus_code" : {
+            "compound_code" : "XCH5+Q4 Hill City, MN, USA",
+            "global_code" : "86R8XCH5+Q4"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

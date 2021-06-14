@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9898",
+               "short_name" : "9898",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County 77 Southwest",
+               "short_name" : "County 77 Southwest",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nisswa",
+               "short_name" : "Nisswa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairview Township",
+               "short_name" : "Fairview Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cass County",
+               "short_name" : "Cass County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56468",
+               "short_name" : "56468",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9898 County 77 Southwest, Nisswa, MN 56468, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.4475939,
+               "lng" : -94.3779586
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4489428802915,
+                  "lng" : -94.37660961970849
+               },
+               "southwest" : {
+                  "lat" : 46.4462449197085,
+                  "lng" : -94.37930758029151
+               }
+            }
+         },
+         "place_id" : "ChIJrbhRvljrtlIRLiEvF7iT9rU",
+         "plus_code" : {
+            "compound_code" : "CJXC+2R Nisswa, MN, USA",
+            "global_code" : "86R7CJXC+2R"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

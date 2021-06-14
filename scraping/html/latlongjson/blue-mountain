@@ -1,0 +1,151 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blue Mountain Resort",
+               "short_name" : "Blue Mountain Resort",
+               "types" : [
+                  "campground",
+                  "establishment",
+                  "lodging",
+                  "park",
+                  "point_of_interest",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "1660",
+               "short_name" : "1660",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Blue Mountain Drive",
+               "short_name" : "Blue Mountain Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palmerton",
+               "short_name" : "Palmerton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lower Towamensing Township",
+               "short_name" : "Lower Towamensing Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Carbon County",
+               "short_name" : "Carbon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18071",
+               "short_name" : "18071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blue Mountain Resort, 1660 Blue Mountain Dr, Palmerton, PA 18071, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81073,
+               "lng" : -75.520864
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8120789802915,
+                  "lng" : -75.51951501970849
+               },
+               "southwest" : {
+                  "lat" : 40.8093810197085,
+                  "lng" : -75.52221298029151
+               }
+            }
+         },
+         "place_id" : "ChIJgQ_bumVFxIkRQgl7Vng8W4Y",
+         "plus_code" : {
+            "compound_code" : "RF6H+7M Palmerton, PA, USA",
+            "global_code" : "87G6RF6H+7M"
+         },
+         "types" : [
+            "campground",
+            "establishment",
+            "lodging",
+            "park",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "190",
+               "short_name" : "190",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gord Canning Drive",
+               "short_name" : "Gord Canning Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Blue Mountains",
+               "short_name" : "The Blue Mountains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grey County",
+               "short_name" : "Grey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L9Y 1C2",
+               "short_name" : "L9Y 1C2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "190 Gord Canning Dr, The Blue Mountains, ON L9Y 1C2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.50378180000001,
+               "lng" : -80.3122216
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.50513078029151,
+                  "lng" : -80.3108726197085
+               },
+               "southwest" : {
+                  "lat" : 44.50243281970851,
+                  "lng" : -80.31357058029151
+               }
+            }
+         },
+         "place_id" : "ChIJRTL7KtdwKogRq1HChw3A1Gk",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

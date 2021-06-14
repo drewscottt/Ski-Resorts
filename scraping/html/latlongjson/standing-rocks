@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Standing Rocks County Park & Winter Recreation Area",
+               "short_name" : "Standing Rocks County Park & Winter Recreation Area",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "7695",
+               "short_name" : "7695",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Standing Rocks Road",
+               "short_name" : "Standing Rocks Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stevens Point",
+               "short_name" : "Stevens Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stockton",
+               "short_name" : "Stockton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Portage County",
+               "short_name" : "Portage County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54481",
+               "short_name" : "54481",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Standing Rocks County Park & Winter Recreation Area, 7695 Standing Rocks Rd, Stevens Point, WI 54481, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4310915,
+               "lng" : -89.40147379999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4324404802915,
+                  "lng" : -89.40012481970848
+               },
+               "southwest" : {
+                  "lat" : 44.4297425197085,
+                  "lng" : -89.4028227802915
+               }
+            }
+         },
+         "place_id" : "ChIJUyZpuSlVAIgRGbEhKfPPOsw",
+         "plus_code" : {
+            "compound_code" : "CHJX+CC Stevens Point, WI, USA",
+            "global_code" : "86PGCHJX+CC"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

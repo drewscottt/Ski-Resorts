@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "232",
+               "short_name" : "232",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road 29",
+               "short_name" : "Co Rd 29",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leadville",
+               "short_name" : "Leadville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lake County",
+               "short_name" : "Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80461",
+               "short_name" : "80461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "232 Co Rd 29, Leadville, CO 80461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3601951,
+               "lng" : -106.301445
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3615440802915,
+                  "lng" : -106.3000960197085
+               },
+               "southwest" : {
+                  "lat" : 39.3588461197085,
+                  "lng" : -106.3027939802915
+               }
+            }
+         },
+         "place_id" : "ChIJYbUu1wOPaocRTDe7TMTsUhE",
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

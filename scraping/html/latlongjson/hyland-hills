@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8800",
+               "short_name" : "8800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chalet Road",
+               "short_name" : "Chalet Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bloomington",
+               "short_name" : "West Bloomington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bloomington",
+               "short_name" : "Bloomington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55438",
+               "short_name" : "55438",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1209",
+               "short_name" : "1209",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "8800 Chalet Rd, Bloomington, MN 55438, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.84363,
+               "lng" : -93.36361099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8449789802915,
+                  "lng" : -93.3622620197085
+               },
+               "southwest" : {
+                  "lat" : 44.8422810197085,
+                  "lng" : -93.3649599802915
+               }
+            }
+         },
+         "place_id" : "ChIJffbj-6Mj9ocRRvZcYyizOWg",
+         "plus_code" : {
+            "compound_code" : "RJVP+FH Bloomington, MN, USA",
+            "global_code" : "86P8RJVP+FH"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

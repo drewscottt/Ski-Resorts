@@ -1,0 +1,119 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Birch Hill Road",
+               "short_name" : "Old Birch Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairbanks",
+               "short_name" : "Fairbanks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks North Star",
+               "short_name" : "Fairbanks North Star",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99712",
+               "short_name" : "99712",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Birch Hill Rd, Fairbanks, AK 99712, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.857631,
+               "lng" : -147.6153234
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.85897998029149,
+                  "lng" : -147.6139744197085
+               },
+               "southwest" : {
+                  "lat" : 64.85628201970849,
+                  "lng" : -147.6166723802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJdE6Q-5PMlERyWeXhqMoxtM",
+         "plus_code" : {
+            "compound_code" : "V95M+3V Fairbanks, AK, USA",
+            "global_code" : "93PJV95M+3V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Wainwright",
+               "short_name" : "Fort Wainwright",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks",
+               "short_name" : "Fairbanks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks North Star",
+               "short_name" : "Fairbanks North Star",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99703",
+               "short_name" : "99703",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fort Wainwright, AK 99703, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.8733591,
+               "lng" : -147.6442449
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.87470808029151,
+                  "lng" : -147.6428959197085
+               },
+               "southwest" : {
+                  "lat" : 64.87201011970851,
+                  "lng" : -147.6455938802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVVVVVcVPMlER6BCkFtN3M_w",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3860",
+               "short_name" : "3860",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saddle Road",
+               "short_name" : "Saddle Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Lake Tahoe",
+               "short_name" : "South Lake Tahoe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Dorado County",
+               "short_name" : "El Dorado County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96150",
+               "short_name" : "96150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3860 Saddle Rd, South Lake Tahoe, CA 96150, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9349226,
+               "lng" : -119.9402777
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9362715802915,
+                  "lng" : -119.9389287197085
+               },
+               "southwest" : {
+                  "lat" : 38.9335736197085,
+                  "lng" : -119.9416266802915
+               }
+            }
+         },
+         "place_id" : "ChIJa63Vr0SQmYARmO743eBe-IE",
+         "plus_code" : {
+            "compound_code" : "W3M5+XV South Lake Tahoe, CA, USA",
+            "global_code" : "85C2W3M5+XV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1360",
+               "short_name" : "1360",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "June Way",
+               "short_name" : "June Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Lake Tahoe",
+               "short_name" : "South Lake Tahoe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Dorado County",
+               "short_name" : "El Dorado County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96150",
+               "short_name" : "96150",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8652",
+               "short_name" : "8652",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "south, 1360 June Way, South Lake Tahoe, CA 96150, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.93797319999999,
+               "lng" : -119.9398804
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9393221802915,
+                  "lng" : -119.9385314197085
+               },
+               "southwest" : {
+                  "lat" : 38.9366242197085,
+                  "lng" : -119.9412293802915
+               }
+            }
+         },
+         "place_id" : "ChIJq--QlkKQmYARtR6WPoK-sRw",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

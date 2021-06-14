@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6532",
+               "short_name" : "6532",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gay Lac La Belle Road",
+               "short_name" : "Gay Lac La Belle Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mohawk",
+               "short_name" : "Mohawk",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Grant Township",
+               "short_name" : "Grant Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Keweenaw County",
+               "short_name" : "Keweenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49950",
+               "short_name" : "49950",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6532 Gay Lac La Belle Rd, Mohawk, MI 49950, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.387989,
+               "lng" : -88.0211181
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.38933798029149,
+                  "lng" : -88.0197691197085
+               },
+               "southwest" : {
+                  "lat" : 47.3866400197085,
+                  "lng" : -88.02246708029151
+               }
+            }
+         },
+         "place_id" : "ChIJHxtYlI-AUE0R_R_4LdJvCXA",
+         "plus_code" : {
+            "compound_code" : "9XQH+5H Mohawk, Allouez Township, MI, USA",
+            "global_code" : "86VH9XQH+5H"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

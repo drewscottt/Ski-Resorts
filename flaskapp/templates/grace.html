@@ -1,0 +1,68 @@
+<html>
+<title>Grace's Page</title>
+<head>
+	<style>
+	img {
+  	width: 400px;
+	height: auto;
+	}
+
+	table, th, td {
+  	border: 1px solid black;
+	}
+	table {
+	margin-bottom: 10px;
+	}
+	</style>
+</head>
+
+<h1>Grace's Page</h1>
+<p>Hi Grace! This is Drew. I made this page to commemorate some of the coolest things we did together. I also included an image of a dumb b*tch.</p>
+<table>
+        <tr>
+                <td>Us at the Grand Canyon. That was really awesome. A very cool thing we did.</td>
+                <td>Us at the top of Angel's Landing. That was really awesome. A very cool thing we did.</td>
+        </tr>
+        <tr>
+		<td><img src="/static/grandcanyon.JPG"></img></td>
+                <td><img src="/static/zion.jpg"></td>
+        </tr>
+</table>
+
+<table>
+        <tr>
+                <td>Nisha when she stole my phone, and thought it was funny to spam my images with pictures of her, like a 4th grader. She really is a dumb b*tch.</td>
+        </tr>
+        <tr>
+                <td><img src="/static/nisha.jpg"></td>
+        </tr>
+</table>
+
+<h3>Comment Section</h3>
+<p>Post some comments you have here! Please don't be mean (I'm talking to you, Nisha).</p>
+<p>Message:</p>
+<textarea form="comment" name="message" rows="5" cols="100"></textarea>
+<form method="POST" id="comment">
+	<p>Name:</p>
+	<input type="text" name="user"></input>
+	<input type="submit"></input>
+</form>
+{% for comment in comments %}
+<table>
+	<tr>
+		<th>{{ comment[2] }} said at {{ comment[3].strftime("%m/%d/%Y, %I:%M%p") }}:</th>
+	</tr>
+	<tr>
+		<td>{{ comment[1] }}</td>
+	</tr>
+	<tr>
+	<td>
+	<form method="POST">
+		<input type="hidden" name="id" value="{{ comment[0] }}">
+		<input type="submit" value="DELETE COMMENT"></input>
+	</form>
+	</td>
+	</tr>
+</table>
+{% endfor %}
+</html>

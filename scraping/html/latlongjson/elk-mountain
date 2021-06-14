@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "344",
+               "short_name" : "344",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elk Mountain Road",
+               "short_name" : "Elk Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Union Dale",
+               "short_name" : "Union Dale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Herrick Township",
+               "short_name" : "Herrick Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Susquehanna County",
+               "short_name" : "Susquehanna County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18470",
+               "short_name" : "18470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "344 Elk Mountain Rd, Union Dale, PA 18470, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.72340459999999,
+               "lng" : -75.5534275
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.72475358029149,
+                  "lng" : -75.55207851970849
+               },
+               "southwest" : {
+                  "lat" : 41.72205561970849,
+                  "lng" : -75.55477648029151
+               }
+            }
+         },
+         "place_id" : "ChIJFzGB0G0u24kR9xy2OCE26NM",
+         "plus_code" : {
+            "compound_code" : "PCFW+9J Union Dale, PA, USA",
+            "global_code" : "87H6PCFW+9J"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

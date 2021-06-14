@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "239",
+               "short_name" : "239",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skimobile Road",
+               "short_name" : "Skimobile Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Conway",
+               "short_name" : "North Conway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Conway",
+               "short_name" : "Conway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conway",
+               "short_name" : "Conway",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03860",
+               "short_name" : "03860",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "239 Skimobile Rd, North Conway, NH 03860, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0564656,
+               "lng" : -71.110162
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0632664,
+                  "lng" : -71.080906
+               },
+               "southwest" : {
+                  "lat" : 44.0505413,
+                  "lng" : -71.1135817
+               }
+            }
+         },
+         "place_id" : "ChIJfdx4rx-hs0wRkLpYmf0H7VI",
+         "plus_code" : {
+            "compound_code" : "3V4Q+HW North Conway, Conway, NH, USA",
+            "global_code" : "87PC3V4Q+HW"
+         },
+         "types" : [
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

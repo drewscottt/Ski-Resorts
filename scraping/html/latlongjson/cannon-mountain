@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2650",
+               "short_name" : "2650",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Profile Road",
+               "short_name" : "Profile Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Franconia",
+               "short_name" : "Franconia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03580",
+               "short_name" : "03580",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2650 Profile Rd, Franconia, NH 03580, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1773749,
+               "lng" : -71.7018243
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1787238802915,
+                  "lng" : -71.70047531970849
+               },
+               "southwest" : {
+                  "lat" : 44.1760259197085,
+                  "lng" : -71.70317328029151
+               }
+            }
+         },
+         "place_id" : "ChIJf4GrJmZ8tEwRQKsl413nOhI",
+         "plus_code" : {
+            "compound_code" : "57GX+W7 Franconia, NH, USA",
+            "global_code" : "87PC57GX+W7"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

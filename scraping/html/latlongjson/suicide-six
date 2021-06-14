@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "247",
+               "short_name" : "247",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Stage Road",
+               "short_name" : "Stage Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Pomfret",
+               "short_name" : "South Pomfret",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pomfret",
+               "short_name" : "Pomfret",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windsor County",
+               "short_name" : "Windsor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05067",
+               "short_name" : "05067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "247 Stage Rd, South Pomfret, VT 05067, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6650614,
+               "lng" : -72.54326589999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6664103802915,
+                  "lng" : -72.54191691970848
+               },
+               "southwest" : {
+                  "lat" : 43.6637124197085,
+                  "lng" : -72.5446148802915
+               }
+            }
+         },
+         "place_id" : "ChIJJWI57iDY4YkRX54eQvj9qpU",
+         "plus_code" : {
+            "compound_code" : "MF84+2M South Pomfret, Pomfret, VT, USA",
+            "global_code" : "87M9MF84+2M"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

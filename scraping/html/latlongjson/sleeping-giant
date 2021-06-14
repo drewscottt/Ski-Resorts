@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "348",
+               "short_name" : "348",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Fork Highway",
+               "short_name" : "N Fork Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cody",
+               "short_name" : "Cody",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Park County",
+               "short_name" : "Park County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82414",
+               "short_name" : "82414",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "348 N Fork Hwy, Cody, WY 82414, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4929236,
+               "lng" : -109.9394434
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4942725802915,
+                  "lng" : -109.9380944197085
+               },
+               "southwest" : {
+                  "lat" : 44.4915746197085,
+                  "lng" : -109.9407923802915
+               }
+            }
+         },
+         "place_id" : "ChIJQwiZyvR0TlMRbYu6eWcRDsE",
+         "plus_code" : {
+            "compound_code" : "F3V6+56 Pahaska Tepee, WY, USA",
+            "global_code" : "85PGF3V6+56"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "meal_takeaway",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

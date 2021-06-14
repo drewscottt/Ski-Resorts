@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaver Mountain Ski Area",
+               "short_name" : "Beaver Mountain Ski Area",
+               "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "U.S. 89",
+               "short_name" : "US-89",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Garden City",
+               "short_name" : "Garden City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cache County",
+               "short_name" : "Cache County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84028",
+               "short_name" : "84028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beaver Mountain Ski Area, 40000 East, US-89, Garden City, UT 84028, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.968075,
+               "lng" : -111.544144
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9694239802915,
+                  "lng" : -111.5427950197085
+               },
+               "southwest" : {
+                  "lat" : 41.9667260197085,
+                  "lng" : -111.5454929802915
+               }
+            }
+         },
+         "place_id" : "ChIJTT5jj-hrVIcRZx0snw1lcQE",
+         "plus_code" : {
+            "compound_code" : "XF94+68 Garden City, UT, USA",
+            "global_code" : "85HCXF94+68"
+         },
+         "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1351",
+               "short_name" : "1351",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 700 North",
+               "short_name" : "E 700 N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan",
+               "short_name" : "Logan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cache County",
+               "short_name" : "Cache County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84321",
+               "short_name" : "84321",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4382",
+               "short_name" : "4382",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1351 E 700 N, Logan, UT 84321, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7445175,
+               "lng" : -111.8002492
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7458664802915,
+                  "lng" : -111.7989002197085
+               },
+               "southwest" : {
+                  "lat" : 41.7431685197085,
+                  "lng" : -111.8015981802915
+               }
+            }
+         },
+         "place_id" : "ChIJZfUe0JVrVIcRMjhFLKLyRIk",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

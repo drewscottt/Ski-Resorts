@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "329",
+               "short_name" : "329",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Utah 143",
+               "short_name" : "UT-143",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brian Head",
+               "short_name" : "Brian Head",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iron County",
+               "short_name" : "Iron County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84719",
+               "short_name" : "84719",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "329 UT-143, Brian Head, UT 84719, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7021135,
+               "lng" : -112.849978
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.70346248029149,
+                  "lng" : -112.8486290197085
+               },
+               "southwest" : {
+                  "lat" : 37.70076451970849,
+                  "lng" : -112.8513269802915
+               }
+            }
+         },
+         "place_id" : "ChIJczdyMIOnyoAR1pyfG4riGj8",
+         "plus_code" : {
+            "compound_code" : "P522+R2 Brian Head, UT, USA",
+            "global_code" : "8599P522+R2"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

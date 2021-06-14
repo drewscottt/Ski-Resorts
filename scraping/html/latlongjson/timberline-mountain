@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "254",
+               "short_name" : "254",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Four Seasons Drive",
+               "short_name" : "Four Seasons Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Davis",
+               "short_name" : "Davis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dry Fork",
+               "short_name" : "Dry Fork",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tucker County",
+               "short_name" : "Tucker County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26260",
+               "short_name" : "26260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "254 Four Seasons Dr, Davis, WV 26260, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.04245299999999,
+               "lng" : -79.39903
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.04380198029149,
+                  "lng" : -79.39768101970849
+               },
+               "southwest" : {
+                  "lat" : 39.04110401970849,
+                  "lng" : -79.40037898029149
+               }
+            }
+         },
+         "place_id" : "ChIJs1QqTIDLSogR40KwQUFwyZE",
+         "plus_code" : {
+            "compound_code" : "2JR2+X9 Davis, WV, USA",
+            "global_code" : "87F22JR2+X9"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

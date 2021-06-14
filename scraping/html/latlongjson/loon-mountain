@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loon Mountain",
+               "short_name" : "Loon Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Livermore",
+               "short_name" : "Livermore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03251",
+               "short_name" : "03251",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Loon Mountain, Livermore, NH 03251, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.03597,
+               "lng" : -71.6214399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.043991,
+                  "lng" : -71.60543249999999
+               },
+               "southwest" : {
+                  "lat" : 44.0279479,
+                  "lng" : -71.63744729999999
+               }
+            }
+         },
+         "place_id" : "ChIJxx3ODRB-s0wR-Ska3QGVyJ8",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Loon Mountain Road",
+               "short_name" : "Loon Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03251",
+               "short_name" : "03251",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4303",
+               "short_name" : "4303",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "60 Loon Mountain Rd, Lincoln, NH 03251, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0563456,
+               "lng" : -71.6336041
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0576945802915,
+                  "lng" : -71.63225511970849
+               },
+               "southwest" : {
+                  "lat" : 44.0549966197085,
+                  "lng" : -71.6349530802915
+               }
+            }
+         },
+         "place_id" : "ChIJFdzlBNeBtEwRJRWzyWWVfO8",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

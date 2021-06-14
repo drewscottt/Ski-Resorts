@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8333",
+               "short_name" : "8333",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bypass Road",
+               "short_name" : "Bypass Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84092",
+               "short_name" : "84092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8333 Bypass Rd, Alta, UT 84092, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.584135,
+               "lng" : -111.65079
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.58548398029149,
+                  "lng" : -111.6494410197085
+               },
+               "southwest" : {
+                  "lat" : 40.5827860197085,
+                  "lng" : -111.6521389802915
+               }
+            }
+         },
+         "place_id" : "ChIJa83kBIlwUocRjL9LanA1BgQ",
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction",
+            "travel_agency"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3000",
+               "short_name" : "3000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Canyons Resort Drive",
+               "short_name" : "Canyons Resort Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Park City",
+               "short_name" : "Park City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit County",
+               "short_name" : "Summit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84098",
+               "short_name" : "84098",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3000 Canyons Resort Dr, Park City, UT 84098, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6845898,
+               "lng" : -111.5548354
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6859387802915,
+                  "lng" : -111.5534864197085
+               },
+               "southwest" : {
+                  "lat" : 40.6832408197085,
+                  "lng" : -111.5561843802915
+               }
+            }
+         },
+         "place_id" : "ChIJAZkmETNsUocRFi_ZRjJIGCs",
+         "types" : [ "establishment", "point_of_interest", "travel_agency" ]
+      }
+   ],
+   "status" : "OK"
+}

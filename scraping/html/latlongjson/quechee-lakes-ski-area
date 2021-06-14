@@ -1,0 +1,137 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3269",
+               "short_name" : "3269",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Quechee Main Street",
+               "short_name" : "Quechee Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Quechee",
+               "short_name" : "Quechee",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windsor County",
+               "short_name" : "Windsor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05059",
+               "short_name" : "05059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3269 Quechee Main St, Quechee, VT 05059, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6558512,
+               "lng" : -72.44221709999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6572001802915,
+                  "lng" : -72.4408681197085
+               },
+               "southwest" : {
+                  "lat" : 43.6545022197085,
+                  "lng" : -72.4435660802915
+               }
+            }
+         },
+         "place_id" : "ChIJPYle5_rMtEwR-W2eF12_bUc",
+         "plus_code" : {
+            "compound_code" : "MH45+84 Quechee, Hartford, VT, USA",
+            "global_code" : "87M9MH45+84"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3277",
+               "short_name" : "3277",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Quechee Main Street",
+               "short_name" : "Quechee Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White River Junction",
+               "short_name" : "White River Junction",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windsor County",
+               "short_name" : "Windsor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05001",
+               "short_name" : "05001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3277 Quechee Main St, White River Junction, VT 05001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.657167,
+               "lng" : -72.4426469
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6585159802915,
+                  "lng" : -72.44129791970849
+               },
+               "southwest" : {
+                  "lat" : 43.65581801970851,
+                  "lng" : -72.4439958802915
+               }
+            }
+         },
+         "place_id" : "ChIJHb3aau_MtEwRYtOeyLRjay4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

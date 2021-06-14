@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3861",
+               "short_name" : "3861",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Killington Road",
+               "short_name" : "Killington Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Killington",
+               "short_name" : "Killington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rutland County",
+               "short_name" : "Rutland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05751",
+               "short_name" : "05751",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9746",
+               "short_name" : "9746",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3861 Killington Rd, Killington, VT 05751, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.62629219999999,
+               "lng" : -72.7967531
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6372316,
+                  "lng" : -72.7501348
+               },
+               "southwest" : {
+                  "lat" : 43.5828,
+                  "lng" : -72.83402099999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2WrwuiQq4IkRvei8x3WhGxU",
+         "plus_code" : {
+            "compound_code" : "J6G3+G7 Killington, VT, USA",
+            "global_code" : "87M9J6G3+G7"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vail",
+               "short_name" : "Vail",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eagle County",
+               "short_name" : "Eagle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81657",
+               "short_name" : "81657",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vail, CO 81657, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6061444,
+               "lng" : -106.3549717
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.60749338029149,
+                  "lng" : -106.3536227197085
+               },
+               "southwest" : {
+                  "lat" : 39.60479541970849,
+                  "lng" : -106.3563206802915
+               }
+            }
+         },
+         "place_id" : "ChIJ29swxmBwaocRoq1FSy3Pwqc",
+         "plus_code" : {
+            "compound_code" : "JJ4W+F2 Vail, CO, USA",
+            "global_code" : "85FMJJ4W+F2"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

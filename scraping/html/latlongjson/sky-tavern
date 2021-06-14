@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21130",
+               "short_name" : "21130",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sky Tavern Road",
+               "short_name" : "Sky Tavern Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89511",
+               "short_name" : "89511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "21130 Sky Tavern Rd, Reno, NV 89511, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.336911,
+               "lng" : -119.872522
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3382599802915,
+                  "lng" : -119.8711730197085
+               },
+               "southwest" : {
+                  "lat" : 39.3355620197085,
+                  "lng" : -119.8738709802915
+               }
+            }
+         },
+         "place_id" : "ChIJFZVNNyJsmYARqosfF4RISB4",
+         "plus_code" : {
+            "compound_code" : "84PG+QX Reno, NV, USA",
+            "global_code" : "85F284PG+QX"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

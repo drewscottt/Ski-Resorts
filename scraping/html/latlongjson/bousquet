@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dan Fox Drive",
+               "short_name" : "Dan Fox Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pittsfield",
+               "short_name" : "Pittsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berkshire County",
+               "short_name" : "Berkshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01201",
+               "short_name" : "01201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "101 Dan Fox Dr, Pittsfield, MA 01201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4190908,
+               "lng" : -73.2765984
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4204397802915,
+                  "lng" : -73.27524941970849
+               },
+               "southwest" : {
+                  "lat" : 42.4177418197085,
+                  "lng" : -73.27794738029151
+               }
+            }
+         },
+         "place_id" : "ChIJy9uvw-RP54kRR078zPCEiOA",
+         "plus_code" : {
+            "compound_code" : "CP9F+J9 Pittsfield, MA, USA",
+            "global_code" : "87J8CP9F+J9"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

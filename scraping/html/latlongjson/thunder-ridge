@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "137",
+               "short_name" : "137",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Birch Hill Road",
+               "short_name" : "Birch Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Patterson",
+               "short_name" : "Patterson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patterson",
+               "short_name" : "Patterson",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Putnam County",
+               "short_name" : "Putnam County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12563",
+               "short_name" : "12563",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2319",
+               "short_name" : "2319",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "137 Birch Hill Rd, Patterson, NY 12563, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5084834,
+               "lng" : -73.58506419999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5098323802915,
+                  "lng" : -73.58371521970849
+               },
+               "southwest" : {
+                  "lat" : 41.5071344197085,
+                  "lng" : -73.5864131802915
+               }
+            }
+         },
+         "place_id" : "ChIJCz_7hZZQ3YkRq5BywRCG3ls",
+         "plus_code" : {
+            "compound_code" : "GC57+9X Patterson, NY, USA",
+            "global_code" : "87H8GC57+9X"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

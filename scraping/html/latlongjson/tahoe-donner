@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11603",
+               "short_name" : "11603",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snowpeak Way",
+               "short_name" : "Snowpeak Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Truckee",
+               "short_name" : "Truckee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada County",
+               "short_name" : "Nevada County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96161",
+               "short_name" : "96161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11603 Snowpeak Way, Truckee, CA 96161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3540617,
+               "lng" : -120.2594163
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.35541068029149,
+                  "lng" : -120.2580673197085
+               },
+               "southwest" : {
+                  "lat" : 39.35271271970849,
+                  "lng" : -120.2607652802915
+               }
+            }
+         },
+         "place_id" : "ChIJl3Y6cC7nm4ARfuqsou88sT4",
+         "plus_code" : {
+            "compound_code" : "9P3R+J6 Truckee, CA, USA",
+            "global_code" : "84FX9P3R+J6"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

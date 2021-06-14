@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7500",
+               "short_name" : "7500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mission Ridge Road",
+               "short_name" : "Mission Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wenatchee",
+               "short_name" : "Wenatchee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98801",
+               "short_name" : "98801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7500 Mission Ridge Rd, Wenatchee, WA 98801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.2924657,
+               "lng" : -120.399871
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2938146802915,
+                  "lng" : -120.3985220197085
+               },
+               "southwest" : {
+                  "lat" : 47.2911167197085,
+                  "lng" : -120.4012199802915
+               }
+            }
+         },
+         "place_id" : "ChIJ3fffbQsvmlQRZZVbwmyCbNA",
+         "plus_code" : {
+            "compound_code" : "7JR2+X3 Wenatchee, WA, USA",
+            "global_code" : "84VX7JR2+X3"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

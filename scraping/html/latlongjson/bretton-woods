@@ -1,0 +1,77 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Area Road",
+               "short_name" : "Ski Area Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bretton Woods",
+               "short_name" : "Bretton Woods",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Carroll",
+               "short_name" : "Carroll",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coos County",
+               "short_name" : "Coos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03575",
+               "short_name" : "03575",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99 Ski Area Rd, Bretton Woods, NH 03575, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.259262,
+               "lng" : -71.46023799999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2606109802915,
+                  "lng" : -71.45888901970849
+               },
+               "southwest" : {
+                  "lat" : 44.2579130197085,
+                  "lng" : -71.4615869802915
+               }
+            }
+         },
+         "place_id" : "ChIJL0jakzWIs0wRRZw8v-FPqxE",
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

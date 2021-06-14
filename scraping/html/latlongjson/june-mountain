@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3819",
+               "short_name" : "3819",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 158",
+               "short_name" : "CA-158",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "June Lake",
+               "short_name" : "June Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mono County",
+               "short_name" : "Mono County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93529",
+               "short_name" : "93529",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3819 CA-158, June Lake, CA 93529, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7679169,
+               "lng" : -119.0906293
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.76926588029149,
+                  "lng" : -119.0892803197085
+               },
+               "southwest" : {
+                  "lat" : 37.76656791970849,
+                  "lng" : -119.0919782802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4wNzK01qloARLb8tNWAzFq0",
+         "plus_code" : {
+            "compound_code" : "QW95+5P June Lake, CA, USA",
+            "global_code" : "8592QW95+5P"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

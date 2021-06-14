@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "89",
+               "short_name" : "89",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lambert Road",
+               "short_name" : "Lambert Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Skowhegan",
+               "short_name" : "Skowhegan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skowhegan",
+               "short_name" : "Skowhegan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Somerset County",
+               "short_name" : "Somerset County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04976",
+               "short_name" : "04976",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4448",
+               "short_name" : "4448",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "89 Lambert Rd, Skowhegan, ME 04976, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.767699,
+               "lng" : -69.6174431
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7690479802915,
+                  "lng" : -69.61609411970851
+               },
+               "southwest" : {
+                  "lat" : 44.7663500197085,
+                  "lng" : -69.61879208029151
+               }
+            }
+         },
+         "place_id" : "ChIJLdWQO-rEsUwR4J5n8ohgv64",
+         "plus_code" : {
+            "compound_code" : "Q99M+32 Skowhegan, ME, USA",
+            "global_code" : "87PGQ99M+32"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59265",
+               "short_name" : "59265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 168",
+               "short_name" : "CA-168",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lakeshore",
+               "short_name" : "Lakeshore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fresno County",
+               "short_name" : "Fresno County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93634",
+               "short_name" : "93634",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59265 CA-168, Lakeshore, CA 93634, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.2364356,
+               "lng" : -119.1573708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2377845802915,
+                  "lng" : -119.1560218197085
+               },
+               "southwest" : {
+                  "lat" : 37.2350866197085,
+                  "lng" : -119.1587197802915
+               }
+            }
+         },
+         "place_id" : "ChIJVVVVVSRelIARyYeaEONT-Fc",
+         "plus_code" : {
+            "compound_code" : "6RPV+H3 Lakeshore, CA, USA",
+            "global_code" : "85926RPV+H3"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

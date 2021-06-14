@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valdez",
+               "short_name" : "Valdez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdez-Cordova",
+               "short_name" : "Valdez-Cordova",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99686",
+               "short_name" : "99686",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mile 35 Richardson Highway, Thompson Pass, Valdez, AK 99686, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.198032,
+               "lng" : -145.5527109
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.19938098029151,
+                  "lng" : -145.5513619197085
+               },
+               "southwest" : {
+                  "lat" : 61.19668301970849,
+                  "lng" : -145.5540598802915
+               }
+            }
+         },
+         "place_id" : "ChIJaVuHYGRitlYRbBYrIOAlgfo",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

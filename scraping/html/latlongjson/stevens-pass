@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "U.S. 2",
+               "short_name" : "US-2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Skykomish",
+               "short_name" : "Skykomish",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98288",
+               "short_name" : "98288",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "US-2, Skykomish, WA 98288, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.74481189999999,
+               "lng" : -121.0890197
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7486933,
+                  "lng" : -121.0670579
+               },
+               "southwest" : {
+                  "lat" : 47.722849,
+                  "lng" : -121.1099373
+               }
+            }
+         },
+         "place_id" : "ChIJDaQL2StdkFQRZ5c7p9U5LQ8",
+         "plus_code" : {
+            "compound_code" : "PWV6+W9 Skykomish, WA, USA",
+            "global_code" : "84VWPWV6+W9"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

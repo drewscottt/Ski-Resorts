@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "126th Street West",
+               "short_name" : "126th St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "Andalusia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andalusia Township",
+               "short_name" : "Andalusia Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rock Island County",
+               "short_name" : "Rock Island County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61232",
+               "short_name" : "61232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9500 126th St W, Andalusia, IL 61232, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.425203,
+               "lng" : -90.7461749
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.42655198029149,
+                  "lng" : -90.74482591970849
+               },
+               "southwest" : {
+                  "lat" : 41.42385401970849,
+                  "lng" : -90.7475238802915
+               }
+            }
+         },
+         "place_id" : "ChIJmyDUHw7Q44cRl3JahuRkqm0",
+         "plus_code" : {
+            "compound_code" : "C7G3+3G Andalusia, IL, USA",
+            "global_code" : "86HFC7G3+3G"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

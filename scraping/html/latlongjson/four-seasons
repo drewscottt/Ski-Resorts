@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8012",
+               "short_name" : "8012",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Genesee Street",
+               "short_name" : "E Genesee St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fayetteville",
+               "short_name" : "Fayetteville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manlius",
+               "short_name" : "Manlius",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13066",
+               "short_name" : "13066",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9619",
+               "short_name" : "9619",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "8012 E Genesee St, Fayetteville, NY 13066, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.034984,
+               "lng" : -75.971873
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0363329802915,
+                  "lng" : -75.97052401970851
+               },
+               "southwest" : {
+                  "lat" : 43.03363501970851,
+                  "lng" : -75.97322198029151
+               }
+            }
+         },
+         "place_id" : "ChIJzRCMfIuO2YkR1N4aZWEmATA",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cannery Road",
+               "short_name" : "Cannery Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cordova",
+               "short_name" : "Cordova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdez-Cordova",
+               "short_name" : "Valdez-Cordova",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99574",
+               "short_name" : "99574",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2500 Orca, Cannery Rd, Cordova, AK 99574, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.57922900000001,
+               "lng" : -145.7184881
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.58057798029151,
+                  "lng" : -145.7171391197085
+               },
+               "southwest" : {
+                  "lat" : 60.57788001970849,
+                  "lng" : -145.7198370802915
+               }
+            }
+         },
+         "place_id" : "ChIJN_C3OIgft1YR8NwEVv0ejkM",
+         "plus_code" : {
+            "compound_code" : "H7HJ+MJ Cordova, AK, USA",
+            "global_code" : "93GPH7HJ+MJ"
+         },
+         "types" : [ "establishment", "point_of_interest", "travel_agency" ]
+      }
+   ],
+   "status" : "OK"
+}

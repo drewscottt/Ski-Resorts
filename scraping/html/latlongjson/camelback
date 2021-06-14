@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "301",
+               "short_name" : "301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Resort Drive",
+               "short_name" : "Resort Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tannersville",
+               "short_name" : "Tannersville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pocono Township",
+               "short_name" : "Pocono Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18372",
+               "short_name" : "18372",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "301 Resort Dr, Tannersville, PA 18372, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0511644,
+               "lng" : -75.3554599
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0525133802915,
+                  "lng" : -75.35411091970849
+               },
+               "southwest" : {
+                  "lat" : 41.0498154197085,
+                  "lng" : -75.3568088802915
+               }
+            }
+         },
+         "place_id" : "ChIJ7Zla6KT0xIkRsx9OB8IC2Xw",
+         "plus_code" : {
+            "compound_code" : "3J2V+FR Tannersville, PA, USA",
+            "global_code" : "87H63J2V+FR"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13536",
+               "short_name" : "13536",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dixie Highway",
+               "short_name" : "Dixie Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Holly",
+               "short_name" : "Holly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groveland Township",
+               "short_name" : "Groveland Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oakland County",
+               "short_name" : "Oakland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48442",
+               "short_name" : "48442",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "13536 Dixie Hwy, Holly, MI 48442, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8308945,
+               "lng" : -83.5642182
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8322434802915,
+                  "lng" : -83.56286921970849
+               },
+               "southwest" : {
+                  "lat" : 42.8295455197085,
+                  "lng" : -83.56556718029151
+               }
+            }
+         },
+         "place_id" : "ChIJzcWOojCdJIgRy3n7DNEXDVQ",
+         "plus_code" : {
+            "compound_code" : "RCJP+98 Holly, MI, USA",
+            "global_code" : "86JRRCJP+98"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

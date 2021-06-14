@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Cross Road",
+               "short_name" : "S Cross Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Haverhill",
+               "short_name" : "Haverhill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01835",
+               "short_name" : "01835",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "60 S Cross Rd, Haverhill, MA 01835, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7447273,
+               "lng" : -71.0558152
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7460762802915,
+                  "lng" : -71.05446621970849
+               },
+               "southwest" : {
+                  "lat" : 42.7433783197085,
+                  "lng" : -71.05716418029149
+               }
+            }
+         },
+         "place_id" : "ChIJSxMKkJkD44kRuDcL6y2ZpHk",
+         "plus_code" : {
+            "compound_code" : "PWVV+VM Haverhill, MA, USA",
+            "global_code" : "87JCPWVV+VM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

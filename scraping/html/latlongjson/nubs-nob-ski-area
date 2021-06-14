@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nubs Nob Road",
+               "short_name" : "Nubs Nob Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harbor Springs",
+               "short_name" : "Harbor Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pleasantview Township",
+               "short_name" : "Pleasantview Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Emmet County",
+               "short_name" : "Emmet County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49740",
+               "short_name" : "49740",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8212",
+               "short_name" : "8212",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "500 Nubs Nob Rd, Harbor Springs, MI 49740, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4714767,
+               "lng" : -84.9048135
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.47282568029149,
+                  "lng" : -84.90346451970849
+               },
+               "southwest" : {
+                  "lat" : 45.4701277197085,
+                  "lng" : -84.9061624802915
+               }
+            }
+         },
+         "place_id" : "ChIJtRpqSrmASk0RKzhP2LsfXvw",
+         "plus_code" : {
+            "compound_code" : "F3CW+H3 Harbor Springs, MI, USA",
+            "global_code" : "86QQF3CW+H3"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

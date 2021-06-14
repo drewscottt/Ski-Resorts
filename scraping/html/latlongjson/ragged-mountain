@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Danbury",
+               "short_name" : "Danbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merrimack County",
+               "short_name" : "Merrimack County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03230",
+               "short_name" : "03230",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4235",
+               "short_name" : "4235",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "620 Ragged Mountain Rd, Danbury, NH 03230, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4854683,
+               "lng" : -71.8422858
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4868172802915,
+                  "lng" : -71.84093681970849
+               },
+               "southwest" : {
+                  "lat" : 43.4841193197085,
+                  "lng" : -71.8436347802915
+               }
+            }
+         },
+         "place_id" : "ChIJtZTbOSQH4okRkRnAR8N_udc",
+         "plus_code" : {
+            "compound_code" : "F5P5+53 Danbury, NH, USA",
+            "global_code" : "87MCF5P5+53"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

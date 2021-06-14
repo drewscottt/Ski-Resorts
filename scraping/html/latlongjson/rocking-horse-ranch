@@ -1,0 +1,85 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 44",
+               "short_name" : "US-44",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plattekill",
+               "short_name" : "Plattekill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ulster County",
+               "short_name" : "Ulster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12528",
+               "short_name" : "12528",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2217",
+               "short_name" : "2217",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "600 US-44, Highland, NY 12528, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6929718,
+               "lng" : -74.01572539999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6943207802915,
+                  "lng" : -74.0143764197085
+               },
+               "southwest" : {
+                  "lat" : 41.6916228197085,
+                  "lng" : -74.0170743802915
+               }
+            }
+         },
+         "place_id" : "ChIJjetfhdo83YkROOXalpbIQtU",
+         "plus_code" : {
+            "compound_code" : "MXVM+5P Highland, NY, USA",
+            "global_code" : "87H7MXVM+5P"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "health",
+            "lodging",
+            "point_of_interest",
+            "restaurant"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

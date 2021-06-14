@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Big Sky Resort Road",
+               "short_name" : "Big Sky Resort Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Big Sky",
+               "short_name" : "Big Sky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madison County",
+               "short_name" : "Madison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59716",
+               "short_name" : "59716",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Big Sky Resort Rd, Big Sky, MT 59716, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2857289,
+               "lng" : -111.4012076
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2870778802915,
+                  "lng" : -111.3998586197085
+               },
+               "southwest" : {
+                  "lat" : 45.2843799197085,
+                  "lng" : -111.4025565802915
+               }
+            }
+         },
+         "place_id" : "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+         "plus_code" : {
+            "compound_code" : "7HPX+7G Big Sky, MT, USA",
+            "global_code" : "85QC7HPX+7G"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

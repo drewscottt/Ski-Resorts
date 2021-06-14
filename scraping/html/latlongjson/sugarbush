@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Forest Drive",
+               "short_name" : "Forest Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Warren",
+               "short_name" : "Warren",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05674",
+               "short_name" : "05674",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "102 Forest Dr, Warren, VT 05674, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1359019,
+               "lng" : -72.8944139
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.18363129999999,
+                  "lng" : -72.8587636
+               },
+               "southwest" : {
+                  "lat" : 44.1232206,
+                  "lng" : -72.9555616
+               }
+            }
+         },
+         "place_id" : "ChIJuygslXtttUwRNv8VHPNc3Hg",
+         "plus_code" : {
+            "compound_code" : "44P4+96 Warren, VT, USA",
+            "global_code" : "87P944P4+96"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

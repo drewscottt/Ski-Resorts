@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snow Valley Road",
+               "short_name" : "Snow Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zanesfield",
+               "short_name" : "Zanesfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson Township",
+               "short_name" : "Jefferson Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Logan County",
+               "short_name" : "Logan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43360",
+               "short_name" : "43360",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9774",
+               "short_name" : "9774",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1000 Snow Valley Rd, Zanesfield, OH 43360, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.3180556,
+               "lng" : -83.6777778
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3194045802915,
+                  "lng" : -83.67642881970851
+               },
+               "southwest" : {
+                  "lat" : 40.3167066197085,
+                  "lng" : -83.67912678029151
+               }
+            }
+         },
+         "place_id" : "ChIJD1idsAsuP4gRdhNALDZPZZU",
+         "plus_code" : {
+            "compound_code" : "889C+6V Zanesfield, OH, USA",
+            "global_code" : "86GR889C+6V"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Snow Road",
+               "short_name" : "Mount Snow Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Dover",
+               "short_name" : "West Dover",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dover",
+               "short_name" : "Dover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windham County",
+               "short_name" : "Windham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05356",
+               "short_name" : "05356",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "39 Mount Snow Road, West Dover, VT 05356, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9678846,
+               "lng" : -72.8944588
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.96923358029149,
+                  "lng" : -72.89310981970849
+               },
+               "southwest" : {
+                  "lat" : 42.96653561970849,
+                  "lng" : -72.89580778029151
+               }
+            }
+         },
+         "place_id" : "ChIJR55j8Mz74IkRu7oTWKsZk1w",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spirit Mountain Recreation Area",
+               "short_name" : "Spirit Mountain Recreation Area",
+               "types" : [
+                  "campground",
+                  "establishment",
+                  "food",
+                  "health",
+                  "lodging",
+                  "park",
+                  "point_of_interest",
+                  "restaurant",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spirit Mountain Place",
+               "short_name" : "Spirit Mountain Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Duluth",
+               "short_name" : "Duluth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55810",
+               "short_name" : "55810",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2029",
+               "short_name" : "2029",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Spirit Mountain Recreation Area, 9500 Spirit Mountain Pl, Duluth, MN 55810, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7182684,
+               "lng" : -92.2167365
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7196173802915,
+                  "lng" : -92.21538751970849
+               },
+               "southwest" : {
+                  "lat" : 46.7169194197085,
+                  "lng" : -92.21808548029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-TYDimdJrlIRgR66F005FDA",
+         "plus_code" : {
+            "compound_code" : "PQ9M+88 Duluth, MN, USA",
+            "global_code" : "86R9PQ9M+88"
+         },
+         "types" : [
+            "campground",
+            "establishment",
+            "food",
+            "health",
+            "lodging",
+            "park",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,81 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1405",
+               "short_name" : "1405",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old Road",
+               "short_name" : "Old Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clymer",
+               "short_name" : "Clymer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "French Creek",
+               "short_name" : "French Creek",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chautauqua County",
+               "short_name" : "Chautauqua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14724",
+               "short_name" : "14724",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1405 Old Rd, Clymer, NY 14724, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.0623302,
+               "lng" : -79.73554009999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.06367918029149,
+                  "lng" : -79.7341911197085
+               },
+               "southwest" : {
+                  "lat" : 42.06098121970849,
+                  "lng" : -79.7368890802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4UGpFiagMogR_EZY0gu9LFM",
+         "plus_code" : {
+            "compound_code" : "3767+WQ Clymer, NY, USA",
+            "global_code" : "87J23767+WQ"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "spa",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

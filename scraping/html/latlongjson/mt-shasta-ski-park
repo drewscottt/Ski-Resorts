@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4500",
+               "short_name" : "4500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Park Highway",
+               "short_name" : "Ski Park Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "McCloud",
+               "short_name" : "McCloud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siskiyou County",
+               "short_name" : "Siskiyou County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96057",
+               "short_name" : "96057",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4500 Ski Park Hwy, McCloud, CA 96057, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.321106,
+               "lng" : -122.203502
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3224549802915,
+                  "lng" : -122.2021530197085
+               },
+               "southwest" : {
+                  "lat" : 41.3197570197085,
+                  "lng" : -122.2048509802915
+               }
+            }
+         },
+         "place_id" : "ChIJJblKj6ndzVQRhWkh2j_as9Q",
+         "plus_code" : {
+            "compound_code" : "8QCW+CH McCloud, CA, USA",
+            "global_code" : "84HV8QCW+CH"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

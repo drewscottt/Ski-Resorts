@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4302",
+               "short_name" : "4302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bolton Access Rd",
+               "short_name" : "Bolton Access Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittenden County",
+               "short_name" : "Chittenden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05477",
+               "short_name" : "05477",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4302 Bolton Access Rd, Richmond, VT 05477, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4223862,
+               "lng" : -72.8512726
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4237351802915,
+                  "lng" : -72.84992361970849
+               },
+               "southwest" : {
+                  "lat" : 44.4210372197085,
+                  "lng" : -72.85262158029151
+               }
+            }
+         },
+         "place_id" : "ChIJ4xVMqcKatUwRvB1NjRGV5BU",
+         "plus_code" : {
+            "compound_code" : "C4CX+XF Richmond, VT, USA",
+            "global_code" : "87P9C4CX+XF"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

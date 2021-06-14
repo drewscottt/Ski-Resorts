@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "47500",
+               "short_name" : "47500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Anthony Lakes Highway",
+               "short_name" : "Anthony Lakes Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Powder",
+               "short_name" : "North Powder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baker County",
+               "short_name" : "Baker County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97867",
+               "short_name" : "97867",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "47500 Anthony Lakes Hwy, North Powder, OR 97867, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9993663,
+               "lng" : -118.0542452
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0007152802915,
+                  "lng" : -118.0528962197085
+               },
+               "southwest" : {
+                  "lat" : 44.9980173197085,
+                  "lng" : -118.0555941802915
+               }
+            }
+         },
+         "place_id" : "ChIJx7YNHhejpFQRAzWMtPXwgrQ",
+         "plus_code" : {
+            "compound_code" : "XWXW+P8 North Powder, OR, USA",
+            "global_code" : "85P3XWXW+P8"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

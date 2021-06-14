@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bicentennial Park",
+               "short_name" : "Bicentennial Park",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "137",
+               "short_name" : "137",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Montcalm Street",
+               "short_name" : "Montcalm St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ticonderoga",
+               "short_name" : "Ticonderoga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ticonderoga",
+               "short_name" : "Ticonderoga",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12883",
+               "short_name" : "12883",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1354",
+               "short_name" : "1354",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Bicentennial Park, 137 Montcalm St, Ticonderoga, NY 12883, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8486196,
+               "lng" : -73.41966909999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8499685802915,
+                  "lng" : -73.4183201197085
+               },
+               "southwest" : {
+                  "lat" : 43.8472706197085,
+                  "lng" : -73.4210180802915
+               }
+            }
+         },
+         "place_id" : "ChIJGS-Nc_BVtUwRLhohqer1fHk",
+         "plus_code" : {
+            "compound_code" : "RHXJ+C4 Ticonderoga, NY, USA",
+            "global_code" : "87M8RHXJ+C4"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Plum Tree Drive",
+               "short_name" : "Plum Tree Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lanark",
+               "short_name" : "Lanark",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Freedom Township",
+               "short_name" : "Freedom Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61046",
+               "short_name" : "61046",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20 Plum Tree Dr, Lanark, IL 61046, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1645584,
+               "lng" : -89.8874359
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.16590738029149,
+                  "lng" : -89.88608691970849
+               },
+               "southwest" : {
+                  "lat" : 42.1632094197085,
+                  "lng" : -89.8887848802915
+               }
+            }
+         },
+         "place_id" : "ChIJmQ54fIIjCIgRM_g-nMxxC50",
+         "plus_code" : {
+            "compound_code" : "5477+R2 Lanark, IL, USA",
+            "global_code" : "86JG5477+R2"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

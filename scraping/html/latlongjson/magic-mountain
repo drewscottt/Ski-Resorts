@@ -1,0 +1,125 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Forest Road 499",
+               "short_name" : "Forest Rd 499",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kimberly",
+               "short_name" : "Kimberly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Twin Falls County",
+               "short_name" : "Twin Falls County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83341",
+               "short_name" : "83341",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Forest Rd 499, Kimberly, ID 83341, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1894229,
+               "lng" : -114.2853163
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.19077188029149,
+                  "lng" : -114.2839673197085
+               },
+               "southwest" : {
+                  "lat" : 42.18807391970849,
+                  "lng" : -114.2866652802915
+               }
+            }
+         },
+         "place_id" : "ChIJZcZyeWSjrFQR9aBx3A20uIM",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "495",
+               "short_name" : "495",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Magic Mountain Access",
+               "short_name" : "Magic Mountain Acc",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Londonderry",
+               "short_name" : "Londonderry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windham County",
+               "short_name" : "Windham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05148",
+               "short_name" : "05148",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "495 Magic Mountain Acc, Londonderry, VT 05148, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2017518,
+               "lng" : -72.77255839999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.20310078029149,
+                  "lng" : -72.77120941970848
+               },
+               "southwest" : {
+                  "lat" : 43.20040281970849,
+                  "lng" : -72.7739073802915
+               }
+            }
+         },
+         "place_id" : "ChIJR7PiRExS4IkRWBQeqBDSPsg",
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

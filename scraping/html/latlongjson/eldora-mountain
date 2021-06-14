@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2861",
+               "short_name" : "2861",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eldora Ski Rd",
+               "short_name" : "Eldora Ski Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nederland",
+               "short_name" : "Nederland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boulder County",
+               "short_name" : "Boulder County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80466",
+               "short_name" : "80466",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2861 Eldora Ski Rd, Nederland, CO 80466, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9372203,
+               "lng" : -105.5826786
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9385692802915,
+                  "lng" : -105.5813296197085
+               },
+               "southwest" : {
+                  "lat" : 39.9358713197085,
+                  "lng" : -105.5840275802915
+               }
+            }
+         },
+         "place_id" : "ChIJ0x3kl8_Ga4cRYLmEslbP94Q",
+         "plus_code" : {
+            "compound_code" : "WCP8+VW Nederland, CO, USA",
+            "global_code" : "85FPWCP8+VW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

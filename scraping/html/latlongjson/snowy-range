@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3254",
+               "short_name" : "3254",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wyoming 130",
+               "short_name" : "WY-130",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centennial",
+               "short_name" : "Centennial",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82055",
+               "short_name" : "82055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3254 WY-130, Centennial, WY 82055, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3412218,
+               "lng" : -106.1835168
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3425707802915,
+                  "lng" : -106.1821678197085
+               },
+               "southwest" : {
+                  "lat" : 41.3398728197085,
+                  "lng" : -106.1848657802915
+               }
+            }
+         },
+         "place_id" : "ChIJHxhQLseHaIcRRNlTUyh12l4",
+         "plus_code" : {
+            "compound_code" : "8RR8+FH Centennial, WY, USA",
+            "global_code" : "85HM8RR8+FH"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

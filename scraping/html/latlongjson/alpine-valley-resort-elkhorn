@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W2501",
+               "short_name" : "W2501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road D",
+               "short_name" : "Co Rd D",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Elkhorn",
+               "short_name" : "Elkhorn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lafayette",
+               "short_name" : "Lafayette",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Walworth County",
+               "short_name" : "Walworth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53121",
+               "short_name" : "53121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W2501 Co Rd D, Elkhorn, WI 53121, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.73582469999999,
+               "lng" : -88.42804989999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.73717368029149,
+                  "lng" : -88.42670091970849
+               },
+               "southwest" : {
+                  "lat" : 42.73447571970849,
+                  "lng" : -88.4293988802915
+               }
+            }
+         },
+         "place_id" : "ChIJOcv21EySBYgRRUq9ieR9A84",
+         "plus_code" : {
+            "compound_code" : "PHPC+8Q Elkhorn, WI, USA",
+            "global_code" : "86JHPHPC+8Q"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

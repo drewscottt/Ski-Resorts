@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Glover Road",
+               "short_name" : "Glover Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rumford",
+               "short_name" : "Rumford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rumford",
+               "short_name" : "Rumford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oxford County",
+               "short_name" : "Oxford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04276",
+               "short_name" : "04276",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "39 Glover Rd, Rumford, ME 04276, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5769444,
+               "lng" : -70.61333329999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.57829338029149,
+                  "lng" : -70.61198431970848
+               },
+               "southwest" : {
+                  "lat" : 44.5755954197085,
+                  "lng" : -70.61468228029149
+               }
+            }
+         },
+         "place_id" : "ChIJN2-MyCpjsUwR72dEUDNzMRo",
+         "plus_code" : {
+            "compound_code" : "H9GP+QM Rumford, ME, USA",
+            "global_code" : "87PFH9GP+QM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

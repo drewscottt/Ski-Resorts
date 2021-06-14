@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10010",
+               "short_name" : "10010",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Little Cottonwood Canyon Road",
+               "short_name" : "Little Cottonwood Canyon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84092",
+               "short_name" : "84092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10010 Little Cottonwood Canyon Rd, Alta, UT 84092, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5884218,
+               "lng" : -111.6385807
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5897707802915,
+                  "lng" : -111.6372317197085
+               },
+               "southwest" : {
+                  "lat" : 40.5870728197085,
+                  "lng" : -111.6399296802915
+               }
+            }
+         },
+         "place_id" : "ChIJxYIVNIFwUocRaBKDOorS2RE",
+         "plus_code" : {
+            "compound_code" : "H9Q6+9H Alta, UT, USA",
+            "global_code" : "85GCH9Q6+9H"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

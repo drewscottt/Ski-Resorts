@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1424",
+               "short_name" : "1424",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Overland Pass",
+               "short_name" : "Overland Pass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Claysburg",
+               "short_name" : "Claysburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kimmel Township",
+               "short_name" : "Kimmel Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bedford County",
+               "short_name" : "Bedford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16625",
+               "short_name" : "16625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1424 Overland Pass, Claysburg, PA 16625, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2968813,
+               "lng" : -78.543661
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.29823028029149,
+                  "lng" : -78.54231201970849
+               },
+               "southwest" : {
+                  "lat" : 40.29553231970849,
+                  "lng" : -78.5450099802915
+               }
+            }
+         },
+         "place_id" : "ChIJXwnRaXijy4kRAngWuPK4x3k",
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blue Knob",
+               "short_name" : "Blue Knob",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Pavia Township",
+               "short_name" : "Pavia Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bedford County",
+               "short_name" : "Bedford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16625",
+               "short_name" : "16625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blue Knob, Pavia Township, PA 16625, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2884091,
+               "lng" : -78.56168330000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2969199,
+                  "lng" : -78.54567589999999
+               },
+               "southwest" : {
+                  "lat" : 40.27989729999999,
+                  "lng" : -78.57769069999999
+               }
+            }
+         },
+         "place_id" : "ChIJDeMalSGky4kRMF-J5UqbuIg",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

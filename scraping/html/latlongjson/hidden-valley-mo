@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17409",
+               "short_name" : "17409",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hidden Valley Drive",
+               "short_name" : "Hidden Valley Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eureka",
+               "short_name" : "Eureka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meramec Township",
+               "short_name" : "Meramec Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63025",
+               "short_name" : "63025",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2213",
+               "short_name" : "2213",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "17409 Hidden Valley Dr, Eureka, MO 63025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5353168,
+               "lng" : -90.65068979999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5366657802915,
+                  "lng" : -90.64934081970848
+               },
+               "southwest" : {
+                  "lat" : 38.5339678197085,
+                  "lng" : -90.65203878029151
+               }
+            }
+         },
+         "place_id" : "ChIJV5Cn8QMp2YcRNzY4gtoO4OM",
+         "plus_code" : {
+            "compound_code" : "G8PX+4P Eureka, MO, USA",
+            "global_code" : "86CFG8PX+4P"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

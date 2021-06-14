@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brush Creek Ranch Road",
+               "short_name" : "Brush Creek Ranch Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saratoga",
+               "short_name" : "Saratoga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carbon County",
+               "short_name" : "Carbon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82331",
+               "short_name" : "82331",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "66 Brush Creek Ranch Road, Saratoga, WY 82331, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3306617,
+               "lng" : -106.6061477
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3320106802915,
+                  "lng" : -106.6047987197085
+               },
+               "southwest" : {
+                  "lat" : 41.3293127197085,
+                  "lng" : -106.6074966802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_WN-DFBPXYcRKQ_z5udWeTk",
+         "plus_code" : {
+            "compound_code" : "89JV+7G Saratoga, WY, USA",
+            "global_code" : "85HM89JV+7G"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

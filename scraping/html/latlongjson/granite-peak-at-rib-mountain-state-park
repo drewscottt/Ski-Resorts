@@ -1,0 +1,147 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "227200",
+               "short_name" : "227200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snowbird Avenue",
+               "short_name" : "Snowbird Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wausau",
+               "short_name" : "Wausau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rib Mountain",
+               "short_name" : "Rib Mountain",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marathon County",
+               "short_name" : "Marathon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54401",
+               "short_name" : "54401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "227200 Snowbird Ave, Wausau, WI 54401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.929236,
+               "lng" : -89.68316200000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9323398,
+                  "lng" : -89.67433149999999
+               },
+               "southwest" : {
+                  "lat" : 44.9183499,
+                  "lng" : -89.6966355
+               }
+            }
+         },
+         "place_id" : "ChIJ4Uvtm_QhAIgR55picTcTV5o",
+         "plus_code" : {
+            "compound_code" : "W8H8+MP Wausau, WI, USA",
+            "global_code" : "86PGW8H8+MP"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rib Mountain State Park",
+               "short_name" : "Rib Mountain State Park",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "4200",
+               "short_name" : "4200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Park Road",
+               "short_name" : "Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wausau",
+               "short_name" : "Wausau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rib Mountain",
+               "short_name" : "Rib Mountain",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marathon County",
+               "short_name" : "Marathon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54401",
+               "short_name" : "54401",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8286",
+               "short_name" : "8286",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Rib Mountain State Park, 4200 Park Rd, Wausau, WI 54401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.921581,
+               "lng" : -89.688221
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.92292998029149,
+                  "lng" : -89.68687201970849
+               },
+               "southwest" : {
+                  "lat" : 44.9202320197085,
+                  "lng" : -89.68956998029149
+               }
+            }
+         },
+         "place_id" : "ChIJD7UOjxwiAIgRzINzR7yFoLw",
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

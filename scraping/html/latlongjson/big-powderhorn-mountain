@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11375",
+               "short_name" : "11375",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Powderhorn Road",
+               "short_name" : "Powderhorn Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bessemer",
+               "short_name" : "Bessemer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ironwood Township",
+               "short_name" : "Ironwood Charter Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gogebic County",
+               "short_name" : "Gogebic County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49911",
+               "short_name" : "49911",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11375 Powderhorn Rd, Bessemer, MI 49911, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5092735,
+               "lng" : -90.09622189999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5106224802915,
+                  "lng" : -90.09487291970849
+               },
+               "southwest" : {
+                  "lat" : 46.5079245197085,
+                  "lng" : -90.0975708802915
+               }
+            }
+         },
+         "place_id" : "ChIJv06kU1rnqVIRZ7Cx0jb5ryg",
+         "plus_code" : {
+            "compound_code" : "GW53+PG Bessemer, MI, USA",
+            "global_code" : "86RFGW53+PG"
+         },
+         "types" : [ "establishment", "food", "lodging", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

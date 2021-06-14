@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "686",
+               "short_name" : "686",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Flanders Road",
+               "short_name" : "Flanders Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Henniker",
+               "short_name" : "Henniker",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henniker",
+               "short_name" : "Henniker",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Merrimack County",
+               "short_name" : "Merrimack County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03242",
+               "short_name" : "03242",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "686 Flanders Rd, Henniker, NH 03242, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.16397329999999,
+               "lng" : -71.7976596
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1653222802915,
+                  "lng" : -71.79631061970849
+               },
+               "southwest" : {
+                  "lat" : 43.1626243197085,
+                  "lng" : -71.79900858029151
+               }
+            }
+         },
+         "place_id" : "ChIJsQtgYmUj4okR2D2Pehem2l0",
+         "plus_code" : {
+            "compound_code" : "5672+HW Henniker, NH, USA",
+            "global_code" : "87MC5672+HW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

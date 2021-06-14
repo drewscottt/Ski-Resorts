@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "180",
+               "short_name" : "180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Slope Road",
+               "short_name" : "Ski Slope Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04938",
+               "short_name" : "04938",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "180 Ski Slope Rd, Farmington, ME 04938, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.6497222,
+               "lng" : -70.17027779999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6510711802915,
+                  "lng" : -70.16892881970848
+               },
+               "southwest" : {
+                  "lat" : 44.6483732197085,
+                  "lng" : -70.1716267802915
+               }
+            }
+         },
+         "place_id" : "ChIJM67JJUmasUwRvpTy-iI1HTs",
+         "plus_code" : {
+            "compound_code" : "JRXH+VV Farmington, ME, USA",
+            "global_code" : "87PFJRXH+VV"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

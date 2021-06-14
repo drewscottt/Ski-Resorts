@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4173",
+               "short_name" : "4173",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Road",
+               "short_name" : "W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lewis County",
+               "short_name" : "Lewis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13473",
+               "short_name" : "13473",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4173 W Rd, Turin, NY 13473, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.63974779999999,
+               "lng" : -75.4201233
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64109678029149,
+                  "lng" : -75.41877431970849
+               },
+               "southwest" : {
+                  "lat" : 43.6383988197085,
+                  "lng" : -75.42147228029151
+               }
+            }
+         },
+         "place_id" : "ChIJNbM94bro2IkRbzfdJ5hkvSM",
+         "plus_code" : {
+            "compound_code" : "JHQH+VX Turin, NY, USA",
+            "global_code" : "87M6JHQH+VX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

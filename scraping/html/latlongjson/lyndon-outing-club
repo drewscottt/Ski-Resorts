@@ -1,0 +1,142 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lyndon Outing Club",
+               "short_name" : "Lyndon Outing Club",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "1580",
+               "short_name" : "1580",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lily Pond Road",
+               "short_name" : "Lily Pond Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lyndonville",
+               "short_name" : "Lyndonville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lyndon",
+               "short_name" : "Lyndon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caledonia County",
+               "short_name" : "Caledonia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05851",
+               "short_name" : "05851",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lyndon Outing Club, 1580 Lily Pond Rd, Lyndonville, VT 05851, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5333103,
+               "lng" : -71.9872058
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5346592802915,
+                  "lng" : -71.98585681970849
+               },
+               "southwest" : {
+                  "lat" : 44.5319613197085,
+                  "lng" : -71.98855478029151
+               }
+            }
+         },
+         "place_id" : "ChIJa9-h2Cc3tEwRmQ2UwfeY5WU",
+         "plus_code" : {
+            "compound_code" : "G2M7+84 Lyndonville, Lyndon, VT, USA",
+            "global_code" : "87PCG2M7+84"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "223",
+               "short_name" : "223",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sherburne Lodge Road",
+               "short_name" : "Sherburne Lodge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Burke",
+               "short_name" : "East Burke",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Burke",
+               "short_name" : "Burke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caledonia County",
+               "short_name" : "Caledonia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05832",
+               "short_name" : "05832",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "223 Sherburne Lodge Rd, East Burke, VT 05832, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5878354,
+               "lng" : -71.9163751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5891843802915,
+                  "lng" : -71.91502611970849
+               },
+               "southwest" : {
+                  "lat" : 44.5864864197085,
+                  "lng" : -71.91772408029151
+               }
+            }
+         },
+         "place_id" : "ChIJY-SvngowtEwR_UJprskeGq8",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

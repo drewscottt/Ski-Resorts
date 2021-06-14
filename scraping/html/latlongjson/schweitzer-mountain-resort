@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10000",
+               "short_name" : "10000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schweitzer Mountain Road",
+               "short_name" : "Schweitzer Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sandpoint",
+               "short_name" : "Sandpoint",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bonner County",
+               "short_name" : "Bonner County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83864",
+               "short_name" : "83864",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10000 Schweitzer Mountain Rd, Sandpoint, ID 83864, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.3679757,
+               "lng" : -116.6227441
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.36932468029149,
+                  "lng" : -116.6213951197085
+               },
+               "southwest" : {
+                  "lat" : 48.36662671970849,
+                  "lng" : -116.6240930802915
+               }
+            }
+         },
+         "place_id" : "ChIJh1bKvDPOY1MR7q4B15auOGs",
+         "plus_code" : {
+            "compound_code" : "999G+5W Sandpoint, ID, USA",
+            "global_code" : "85W5999G+5W"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

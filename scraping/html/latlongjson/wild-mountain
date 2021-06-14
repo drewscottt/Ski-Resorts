@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37200",
+               "short_name" : "37200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wild Mountain Road",
+               "short_name" : "Wild Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taylors Falls",
+               "short_name" : "Taylors Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amador Township",
+               "short_name" : "Amador Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chisago County",
+               "short_name" : "Chisago County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55084",
+               "short_name" : "55084",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "37200 Wild Mountain Rd, Taylors Falls, MN 55084, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4888439,
+               "lng" : -92.7053062
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4901928802915,
+                  "lng" : -92.70395721970849
+               },
+               "southwest" : {
+                  "lat" : 45.4874949197085,
+                  "lng" : -92.70665518029151
+               }
+            }
+         },
+         "place_id" : "ChIJhakxztWOslIRuo0cOtjqNRs",
+         "plus_code" : {
+            "compound_code" : "F7QV+GV Taylors Falls, MN, USA",
+            "global_code" : "86Q9F7QV+GV"
+         },
+         "types" : [ "amusement_park", "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

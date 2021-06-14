@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9385",
+               "short_name" : "9385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snowbird Center Drive",
+               "short_name" : "Snowbird Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Snowbird",
+               "short_name" : "Snowbird",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84092",
+               "short_name" : "84092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9385 Snowbird Center Dr, Snowbird, UT 84092, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5810814,
+               "lng" : -111.6563885
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5824303802915,
+                  "lng" : -111.6550395197085
+               },
+               "southwest" : {
+                  "lat" : 40.5797324197085,
+                  "lng" : -111.6577374802915
+               }
+            }
+         },
+         "place_id" : "ChIJP2yS_YVwUocRs-tKUaR3NBE",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

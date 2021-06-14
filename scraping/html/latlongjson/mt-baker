@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Baker Highway",
+               "short_name" : "Mt Baker Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Deming",
+               "short_name" : "Deming",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whatcom County",
+               "short_name" : "Whatcom County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98244",
+               "short_name" : "98244",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mt Baker Hwy, Deming, WA 98244, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8572916,
+               "lng" : -121.6666619
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8667926,
+                  "lng" : -121.6465846
+               },
+               "southwest" : {
+                  "lat" : 48.84537539999999,
+                  "lng" : -121.6840068
+               }
+            }
+         },
+         "place_id" : "ChIJH8y59xX2hFQRoidrs5m7ThQ",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1420",
+               "short_name" : "1420",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Iowa Street",
+               "short_name" : "Iowa St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Roosevelt",
+               "short_name" : "Roosevelt",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bellingham",
+               "short_name" : "Bellingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whatcom County",
+               "short_name" : "Whatcom County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98229",
+               "short_name" : "98229",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1420 Iowa St, Bellingham, WA 98229, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7555935,
+               "lng" : -122.4556252
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.75694248029149,
+                  "lng" : -122.4542762197085
+               },
+               "southwest" : {
+                  "lat" : 48.75424451970849,
+                  "lng" : -122.4569741802915
+               }
+            }
+         },
+         "place_id" : "ChIJv_ti3xX2hFQRVb8fqtOJ2Ps",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

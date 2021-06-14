@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3567",
+               "short_name" : "3567",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nordic Valley Way",
+               "short_name" : "Nordic Valley Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eden",
+               "short_name" : "Eden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weber County",
+               "short_name" : "Weber County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84310",
+               "short_name" : "84310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3567 Nordic Valley Way, Eden, UT 84310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3103554,
+               "lng" : -111.8648485
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3117043802915,
+                  "lng" : -111.8634995197085
+               },
+               "southwest" : {
+                  "lat" : 41.3090064197085,
+                  "lng" : -111.8661974802915
+               }
+            }
+         },
+         "place_id" : "ChIJWc1FlnsKU4cRupp8KCSAfGQ",
+         "plus_code" : {
+            "compound_code" : "846P+43 Eden, UT, USA",
+            "global_code" : "85HC846P+43"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

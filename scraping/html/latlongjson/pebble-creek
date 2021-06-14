@@ -1,0 +1,122 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3340",
+               "short_name" : "3340",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Green Canyon Road",
+               "short_name" : "E Green Canyon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inkom",
+               "short_name" : "Inkom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bannock County",
+               "short_name" : "Bannock County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83245",
+               "short_name" : "83245",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3340 E Green Canyon Rd, Inkom, ID 83245, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7785571,
+               "lng" : -112.1592798
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7799060802915,
+                  "lng" : -112.1579308197085
+               },
+               "southwest" : {
+                  "lat" : 42.7772081197085,
+                  "lng" : -112.1606287802915
+               }
+            }
+         },
+         "place_id" : "ChIJjaHlFJFhVYcRnVH3a22ZybY",
+         "plus_code" : {
+            "compound_code" : "QRHR+C7 Inkom, ID, USA",
+            "global_code" : "85J9QRHR+C7"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pebble Creek Ski Area",
+               "short_name" : "Pebble Creek Ski Area",
+               "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Inkom",
+               "short_name" : "Inkom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bannock County",
+               "short_name" : "Bannock County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83245",
+               "short_name" : "83245",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pebble Creek Ski Area, Inkom, ID 83245, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7816,
+               "lng" : -112.1702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.78294898029149,
+                  "lng" : -112.1688510197085
+               },
+               "southwest" : {
+                  "lat" : 42.78025101970849,
+                  "lng" : -112.1715489802915
+               }
+            }
+         },
+         "place_id" : "ChIJrTIyCb9hVYcR64g8ugupDrI",
+         "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1111",
+               "short_name" : "1111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sierra-At-Tahoe Road",
+               "short_name" : "Sierra-At-Tahoe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Twin Bridges",
+               "short_name" : "Twin Bridges",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Dorado County",
+               "short_name" : "El Dorado County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95735",
+               "short_name" : "95735",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1111 Sierra-At-Tahoe Rd, Twin Bridges, CA 95735, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8002432,
+               "lng" : -120.0804043
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8015921802915,
+                  "lng" : -120.0790553197085
+               },
+               "southwest" : {
+                  "lat" : 38.7988942197085,
+                  "lng" : -120.0817532802915
+               }
+            }
+         },
+         "place_id" : "ChIJWzNP13CLmYAR8FM_VUU11Wg",
+         "plus_code" : {
+            "compound_code" : "RW29+3R Twin Bridges, CA, USA",
+            "global_code" : "84CXRW29+3R"
+         },
+         "types" : [
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

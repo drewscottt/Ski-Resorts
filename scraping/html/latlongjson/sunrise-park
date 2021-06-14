@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highway 273",
+               "short_name" : "Highway 273",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greer",
+               "short_name" : "Greer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Apache County",
+               "short_name" : "Apache County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85927",
+               "short_name" : "85927",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 Highway 273, Greer, AZ 85927, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9735753,
+               "lng" : -109.5639921
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9749242802915,
+                  "lng" : -109.5626431197085
+               },
+               "southwest" : {
+                  "lat" : 33.9722263197085,
+                  "lng" : -109.5653410802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_V3Ad8cYJocRORCx76yfhDc",
+         "plus_code" : {
+            "compound_code" : "XCFP+CC Greer, AZ, USA",
+            "global_code" : "855GXCFP+CC"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

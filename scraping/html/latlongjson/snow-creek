@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snow Creek Drive",
+               "short_name" : "Snow Creek Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Weston",
+               "short_name" : "Weston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marshall",
+               "short_name" : "Marshall",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Platte County",
+               "short_name" : "Platte County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64098",
+               "short_name" : "64098",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9067",
+               "short_name" : "9067",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1 Snow Creek Dr, Weston, MO 64098, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.4673048,
+               "lng" : -94.9707416
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4686537802915,
+                  "lng" : -94.9693926197085
+               },
+               "southwest" : {
+                  "lat" : 39.4659558197085,
+                  "lng" : -94.97209058029151
+               }
+            }
+         },
+         "place_id" : "ChIJVfqYrf9zwIcRQFd2IjVpk5Y",
+         "plus_code" : {
+            "compound_code" : "F28H+WP Weston, MO, USA",
+            "global_code" : "86F7F28H+WP"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jam At The Ridge",
+               "short_name" : "Jam At The Ridge",
+               "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "8101",
+               "short_name" : "8101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Conlon Road",
+               "short_name" : "Conlon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Le Roy",
+               "short_name" : "Le Roy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Le Roy",
+               "short_name" : "Le Roy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Genesee County",
+               "short_name" : "Genesee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14482",
+               "short_name" : "14482",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jam At The Ridge, 8101 Conlon Rd, Le Roy, NY 14482, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0208267,
+               "lng" : -77.954426
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0221756802915,
+                  "lng" : -77.95307701970849
+               },
+               "southwest" : {
+                  "lat" : 43.0194777197085,
+                  "lng" : -77.95577498029149
+               }
+            }
+         },
+         "place_id" : "ChIJAabEaT7904kRO_T1xgRKUpo",
+         "plus_code" : {
+            "compound_code" : "22CW+86 Le Roy, NY, USA",
+            "global_code" : "87M422CW+86"
+         },
+         "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

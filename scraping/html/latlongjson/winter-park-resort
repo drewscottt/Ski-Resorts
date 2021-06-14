@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "85",
+               "short_name" : "85",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parsenn Road",
+               "short_name" : "Parsenn Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winter Park",
+               "short_name" : "Winter Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grand County",
+               "short_name" : "Grand County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80482",
+               "short_name" : "80482",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "85 Parsenn Rd, Winter Park, CO 80482, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.8868392,
+               "lng" : -105.762488
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.88818818029149,
+                  "lng" : -105.7611390197085
+               },
+               "southwest" : {
+                  "lat" : 39.88549021970849,
+                  "lng" : -105.7638369802915
+               }
+            }
+         },
+         "place_id" : "ChIJI0qcWKXKa4cRFu-NV44W0Zo",
+         "plus_code" : {
+            "compound_code" : "V6PQ+P2 Winter Park, CO, USA",
+            "global_code" : "85FPV6PQ+P2"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

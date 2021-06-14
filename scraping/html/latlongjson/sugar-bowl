@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "629",
+               "short_name" : "629",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sugar Bowl Road",
+               "short_name" : "Sugar Bowl Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norden",
+               "short_name" : "Norden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95724",
+               "short_name" : "95724",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "629 Sugar Bowl Rd, Norden, CA 95724, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3004435,
+               "lng" : -120.3334022
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3128714,
+                  "lng" : -120.3123739
+               },
+               "southwest" : {
+                  "lat" : 39.2836,
+                  "lng" : -120.3545814
+               }
+            }
+         },
+         "place_id" : "ChIJcfnrZqjpm4ARFWv6zN7M5NI",
+         "plus_code" : {
+            "compound_code" : "8M28+5J Norden, CA, USA",
+            "global_code" : "84FX8M28+5J"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

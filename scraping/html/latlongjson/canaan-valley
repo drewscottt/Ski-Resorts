@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Park Road 826",
+               "short_name" : "Park Rd 826",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Davis",
+               "short_name" : "Davis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dry Fork",
+               "short_name" : "Dry Fork",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tucker County",
+               "short_name" : "Tucker County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26260",
+               "short_name" : "26260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Park Rd 826, Davis, WV 26260, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0083502,
+               "lng" : -79.43852269999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.00969918029149,
+                  "lng" : -79.43717371970848
+               },
+               "southwest" : {
+                  "lat" : 39.0070012197085,
+                  "lng" : -79.43987168029149
+               }
+            }
+         },
+         "place_id" : "ChIJ__2RRojNSogRhpB30w4TSbM",
+         "plus_code" : {
+            "compound_code" : "2H56+8H Davis, WV, USA",
+            "global_code" : "87F22H56+8H"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

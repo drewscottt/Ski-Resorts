@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wharton Township",
+               "short_name" : "Wharton Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Fayette County",
+               "short_name" : "Fayette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15437",
+               "short_name" : "15437",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Farmington, PA 15437, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.8134861,
+               "lng" : -79.54607039999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8148350802915,
+                  "lng" : -79.54472141970848
+               },
+               "southwest" : {
+                  "lat" : 39.8121371197085,
+                  "lng" : -79.54741938029149
+               }
+            }
+         },
+         "place_id" : "ChIJ75mPVWxINYgRb2z0gYsvJtg",
+         "plus_code" : {
+            "compound_code" : "RF73+9H Farmington, PA, USA",
+            "global_code" : "87F2RF73+9H"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

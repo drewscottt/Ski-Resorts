@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "W10441",
+               "short_name" : "W10441",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cascade Mountain Road",
+               "short_name" : "Cascade Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Portage",
+               "short_name" : "Portage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caledonia",
+               "short_name" : "Caledonia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Columbia County",
+               "short_name" : "Columbia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53901",
+               "short_name" : "53901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W10441 Cascade Mountain Rd, Portage, WI 53901, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5037245,
+               "lng" : -89.51725690000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5050734802915,
+                  "lng" : -89.51590791970851
+               },
+               "southwest" : {
+                  "lat" : 43.5023755197085,
+                  "lng" : -89.51860588029152
+               }
+            }
+         },
+         "place_id" : "ChIJ8Rq2LPUiB4gRw_54RSXj_W0",
+         "plus_code" : {
+            "compound_code" : "GF3M+F3 Portage, WI, USA",
+            "global_code" : "86MGGF3M+F3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

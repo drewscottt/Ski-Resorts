@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "565",
+               "short_name" : "565",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mountain Village Boulevard",
+               "short_name" : "Mountain Village Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Telluride",
+               "short_name" : "Telluride",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Miguel County",
+               "short_name" : "San Miguel County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81435",
+               "short_name" : "81435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "565 Mountain Village Blvd, Telluride, CO 81435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9363177,
+               "lng" : -107.8465638
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9402857,
+                  "lng" : -107.7929777
+               },
+               "southwest" : {
+                  "lat" : 37.8832947,
+                  "lng" : -107.8760227
+               }
+            }
+         },
+         "place_id" : "ChIJn0u5JP3XPocRazD8zAjmAp0",
+         "plus_code" : {
+            "compound_code" : "W5P3+G9 Telluride, CO, USA",
+            "global_code" : "859JW5P3+G9"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

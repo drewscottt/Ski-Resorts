@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Interstate 70",
+               "short_name" : "I-70",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dillon",
+               "short_name" : "Dillon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clear Creek County",
+               "short_name" : "Clear Creek County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80435",
+               "short_name" : "80435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "I-70, Dillon, CO 80435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6800375,
+               "lng" : -105.8979465
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.68138648029149,
+                  "lng" : -105.8965975197085
+               },
+               "southwest" : {
+                  "lat" : 39.67868851970849,
+                  "lng" : -105.8992954802915
+               }
+            }
+         },
+         "place_id" : "ChIJDW4E2OtRaocR6Ny-eVsZRyY",
+         "plus_code" : {
+            "compound_code" : "M4J2+2R Dillon, CO, USA",
+            "global_code" : "85FPM4J2+2R"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

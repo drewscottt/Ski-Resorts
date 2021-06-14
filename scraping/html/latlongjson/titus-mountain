@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "215",
+               "short_name" : "215",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Johnson Road",
+               "short_name" : "Johnson Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malone",
+               "short_name" : "Malone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malone",
+               "short_name" : "Malone",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12953",
+               "short_name" : "12953",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5926",
+               "short_name" : "5926",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "215 Johnson Rd, Malone, NY 12953, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.766619,
+               "lng" : -74.23292289999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.76796798029149,
+                  "lng" : -74.2315739197085
+               },
+               "southwest" : {
+                  "lat" : 44.7652700197085,
+                  "lng" : -74.2342718802915
+               }
+            }
+         },
+         "place_id" : "ChIJt5AeTfaTy0wRp5wV9OikoHM",
+         "plus_code" : {
+            "compound_code" : "QQ88+JR Malone, NY, USA",
+            "global_code" : "87P7QQ88+JR"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Titusville Mountain",
+               "short_name" : "Titusville Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Malone",
+               "short_name" : "Malone",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12953",
+               "short_name" : "12953",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Titusville Mountain, Malone, NY 12953, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.763333,
+               "lng" : -74.23527799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7712549,
+                  "lng" : -74.2192706
+               },
+               "southwest" : {
+                  "lat" : 44.75541,
+                  "lng" : -74.2512854
+               }
+            }
+         },
+         "place_id" : "ChIJHawjD3yUy0wRO3aySpFEvME",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

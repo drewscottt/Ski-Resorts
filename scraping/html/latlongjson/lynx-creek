@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lynx Creek Gold Pan Day Use Area",
+               "short_name" : "Lynx Creek Gold Pan Day Use Area",
+               "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "South Lynx Creek Road",
+               "short_name" : "S Lynx Creek Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prescott",
+               "short_name" : "Prescott",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yavapai County",
+               "short_name" : "Yavapai County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86303",
+               "short_name" : "86303",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lynx Creek Gold Pan Day Use Area, S Lynx Creek Rd, Prescott, AZ 86303, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.5293459,
+               "lng" : -112.3847891
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.53069488029149,
+                  "lng" : -112.3834401197085
+               },
+               "southwest" : {
+                  "lat" : 34.52799691970849,
+                  "lng" : -112.3861380802915
+               }
+            }
+         },
+         "place_id" : "ChIJfQetfVUmLYcRDz35nvicw6o",
+         "types" : [ "campground", "establishment", "lodging", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

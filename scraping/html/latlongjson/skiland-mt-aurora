@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2315",
+               "short_name" : "2315",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Skiland Road",
+               "short_name" : "Skiland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairbanks",
+               "short_name" : "Fairbanks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks North Star",
+               "short_name" : "Fairbanks North Star",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99712",
+               "short_name" : "99712",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1749",
+               "short_name" : "1749",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2315 Skiland Rd, Fairbanks, AK 99712, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 65.04588079999999,
+               "lng" : -147.4094759
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.04722978029149,
+                  "lng" : -147.4081269197085
+               },
+               "southwest" : {
+                  "lat" : 65.04453181970848,
+                  "lng" : -147.4108248802915
+               }
+            }
+         },
+         "place_id" : "ChIJ08O6eLs5MlER5xxHPQDP30A",
+         "plus_code" : {
+            "compound_code" : "2HWR+96 Fairbanks, AK, USA",
+            "global_code" : "93QJ2HWR+96"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

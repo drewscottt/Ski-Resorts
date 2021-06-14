@@ -1,0 +1,92 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stratton Mountain Resort",
+               "short_name" : "Stratton Mountain Resort",
+               "types" : [
+                  "establishment",
+                  "lodging",
+                  "park",
+                  "point_of_interest",
+                  "spa",
+                  "store"
+               ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Village Lodge Road",
+               "short_name" : "Village Lodge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stratton Mountain",
+               "short_name" : "Stratton Mountain",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stratton",
+               "short_name" : "Stratton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windham County",
+               "short_name" : "Windham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05155",
+               "short_name" : "05155",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stratton Mountain Resort, 5 Village Lodge Rd, Stratton Mountain, VT 05155, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1134212,
+               "lng" : -72.90813539999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.11477018029151,
+                  "lng" : -72.90678641970848
+               },
+               "southwest" : {
+                  "lat" : 43.11207221970851,
+                  "lng" : -72.9094843802915
+               }
+            }
+         },
+         "place_id" : "ChIJwcI2qQVY4IkRPgavnHe8ZK0",
+         "plus_code" : {
+            "compound_code" : "437R+9P Stratton Mountain, Winhall, VT, USA",
+            "global_code" : "87M9437R+9P"
+         },
+         "types" : [
+            "establishment",
+            "lodging",
+            "park",
+            "point_of_interest",
+            "spa",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,132 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59265",
+               "short_name" : "59265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 168",
+               "short_name" : "CA-168",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lakeshore",
+               "short_name" : "Lakeshore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fresno County",
+               "short_name" : "Fresno County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93634",
+               "short_name" : "93634",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59265 CA-168, Lakeshore, CA 93634, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.2364356,
+               "lng" : -119.1573708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2377845802915,
+                  "lng" : -119.1560218197085
+               },
+               "southwest" : {
+                  "lat" : 37.2350866197085,
+                  "lng" : -119.1587197802915
+               }
+            }
+         },
+         "place_id" : "ChIJVVVVVSRelIARyYeaEONT-Fc",
+         "plus_code" : {
+            "compound_code" : "6RPV+H3 Lakeshore, CA, USA",
+            "global_code" : "85926RPV+H3"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "56700",
+               "short_name" : "56700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rancheria Road",
+               "short_name" : "Rancheria Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wofford Heights",
+               "short_name" : "Wofford Heights",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93285",
+               "short_name" : "93285",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9439",
+               "short_name" : "9439",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "56700 Rancheria Rd, Wofford Heights, CA 93285, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7111811,
+               "lng" : -118.5602081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.71253008029149,
+                  "lng" : -118.5588591197085
+               },
+               "southwest" : {
+                  "lat" : 35.7098321197085,
+                  "lng" : -118.5615570802915
+               }
+            }
+         },
+         "place_id" : "ChIJzQBvb2rTwYARA6a-L84m7FI",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "The Intervale Road",
+               "short_name" : "The Intervale Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greenwich",
+               "short_name" : "Greenwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Easton",
+               "short_name" : "Easton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12834",
+               "short_name" : "12834",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5827",
+               "short_name" : "5827",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "77 The Intervale Rd, Greenwich, NY 12834, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.020657,
+               "lng" : -73.51588099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0220059802915,
+                  "lng" : -73.51453201970848
+               },
+               "southwest" : {
+                  "lat" : 43.0193080197085,
+                  "lng" : -73.5172299802915
+               }
+            }
+         },
+         "place_id" : "ChIJA5PIFUwm3okRsQFycKitXEc",
+         "plus_code" : {
+            "compound_code" : "2FCM+7J Greenwich, NY, USA",
+            "global_code" : "87M82FCM+7J"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

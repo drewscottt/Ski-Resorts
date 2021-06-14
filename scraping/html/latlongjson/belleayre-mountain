@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "181",
+               "short_name" : "181",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Galli Curci Road",
+               "short_name" : "Galli Curci Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Highmount",
+               "short_name" : "Highmount",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Shandaken",
+               "short_name" : "Shandaken",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ulster County",
+               "short_name" : "Ulster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12441",
+               "short_name" : "12441",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "181 Galli Curci Rd, Highmount, NY 12441, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1409865,
+               "lng" : -74.5016256
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.14233548029149,
+                  "lng" : -74.50027661970849
+               },
+               "southwest" : {
+                  "lat" : 42.13963751970849,
+                  "lng" : -74.50297458029151
+               }
+            }
+         },
+         "place_id" : "ChIJLayhEE5f3IkRloqfwoAVHGE",
+         "plus_code" : {
+            "compound_code" : "4FRX+98 Highmount, Pine Hill, NY, USA",
+            "global_code" : "87J74FRX+98"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

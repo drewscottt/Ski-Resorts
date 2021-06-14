@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2600 North",
+               "short_name" : "2600 N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eden",
+               "short_name" : "Eden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weber County",
+               "short_name" : "Weber County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84310",
+               "short_name" : "84310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4776 East, 2600 N, Eden, UT 84310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3045471,
+               "lng" : -111.8334997
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3058960802915,
+                  "lng" : -111.8321507197085
+               },
+               "southwest" : {
+                  "lat" : 41.3031981197085,
+                  "lng" : -111.8348486802915
+               }
+            }
+         },
+         "place_id" : "ChIJdfBCOZWgU4cRD8vW6Uub92A",
+         "plus_code" : {
+            "compound_code" : "8538+RJ Eden, UT, USA",
+            "global_code" : "85HC8538+RJ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

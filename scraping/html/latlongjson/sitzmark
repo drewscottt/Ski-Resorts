@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2080",
+               "short_name" : "2080",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Havillah Road",
+               "short_name" : "Havillah Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tonasket",
+               "short_name" : "Tonasket",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okanogan County",
+               "short_name" : "Okanogan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98855",
+               "short_name" : "98855",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2080 Havillah Rd, Tonasket, WA 98855, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.8639216,
+               "lng" : -119.165055
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.86527058029149,
+                  "lng" : -119.1637060197085
+               },
+               "southwest" : {
+                  "lat" : 48.86257261970849,
+                  "lng" : -119.1664039802915
+               }
+            }
+         },
+         "place_id" : "ChIJ7-_6jqvpnFQRuvImBeVzOH4",
+         "plus_code" : {
+            "compound_code" : "VR7M+HX Tonasket, WA, USA",
+            "global_code" : "85W2VR7M+HX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

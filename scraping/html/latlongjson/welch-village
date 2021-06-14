@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26685",
+               "short_name" : "26685",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County 7 Boulevard",
+               "short_name" : "County 7 Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Welch",
+               "short_name" : "Welch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vasa Township",
+               "short_name" : "Vasa Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Goodhue County",
+               "short_name" : "Goodhue County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55089",
+               "short_name" : "55089",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4470",
+               "short_name" : "4470",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "26685 County 7 Blvd, Welch, MN 55089, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5607394,
+               "lng" : -92.7304159
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.56208838029149,
+                  "lng" : -92.7290669197085
+               },
+               "southwest" : {
+                  "lat" : 44.5593904197085,
+                  "lng" : -92.73176488029151
+               }
+            }
+         },
+         "place_id" : "ChIJQ0c6ZpuR94cRVQZO2yhkjbQ",
+         "plus_code" : {
+            "compound_code" : "H769+7R Welch, MN, USA",
+            "global_code" : "86P9H769+7R"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

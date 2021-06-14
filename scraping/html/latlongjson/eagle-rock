@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Country Club Road",
+               "short_name" : "Country Club Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hazleton",
+               "short_name" : "Hazleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Union Township",
+               "short_name" : "East Union Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schuylkill County",
+               "short_name" : "Schuylkill County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18202",
+               "short_name" : "18202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Country Club Rd, Hazleton, PA 18202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.922599,
+               "lng" : -76.10644259999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.92394798029149,
+                  "lng" : -76.1050936197085
+               },
+               "southwest" : {
+                  "lat" : 40.92125001970849,
+                  "lng" : -76.1077915802915
+               }
+            }
+         },
+         "place_id" : "ChIJ11ewcxmYxYkRpIs1IiYIaIE",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Country Club Drive",
+               "short_name" : "Country Club Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hazleton",
+               "short_name" : "Hazleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Union Township",
+               "short_name" : "East Union Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schuylkill County",
+               "short_name" : "Schuylkill County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18202",
+               "short_name" : "18202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Country Club Dr, Hazleton, PA 18202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.9200208,
+               "lng" : -76.09736479999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9213697802915,
+                  "lng" : -76.09601581970848
+               },
+               "southwest" : {
+                  "lat" : 40.9186718197085,
+                  "lng" : -76.09871378029149
+               }
+            }
+         },
+         "place_id" : "ChIJCb8GsxyYxYkRGKu4om9k8CQ",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

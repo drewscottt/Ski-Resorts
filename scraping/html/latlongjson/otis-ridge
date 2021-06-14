@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "159",
+               "short_name" : "159",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Monterey Road",
+               "short_name" : "Monterey Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Otis",
+               "short_name" : "Otis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berkshire County",
+               "short_name" : "Berkshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01253",
+               "short_name" : "01253",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "159 Monterey Rd, Otis, MA 01253, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1963889,
+               "lng" : -73.09833329999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.19773788029149,
+                  "lng" : -73.0969843197085
+               },
+               "southwest" : {
+                  "lat" : 42.19503991970849,
+                  "lng" : -73.0996822802915
+               }
+            }
+         },
+         "place_id" : "ChIJsVuPbs1q54kRN8WNTwdQBvo",
+         "plus_code" : {
+            "compound_code" : "5WW2+HM Otis, MA, USA",
+            "global_code" : "87J85WW2+HM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

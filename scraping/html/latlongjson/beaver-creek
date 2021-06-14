@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "210",
+               "short_name" : "210",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beaver Creek Plaza",
+               "short_name" : "Beaver Creek Plaza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beaver Creek",
+               "short_name" : "Beaver Creek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eagle County",
+               "short_name" : "Eagle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81620",
+               "short_name" : "81620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "210 Beaver Creek Plaza, Beaver Creek, CO 81620, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6042863,
+               "lng" : -106.5167109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6056352802915,
+                  "lng" : -106.5153619197085
+               },
+               "southwest" : {
+                  "lat" : 39.6029373197085,
+                  "lng" : -106.5180598802915
+               }
+            }
+         },
+         "place_id" : "ChIJLUeXah54aocRLCubAYD6EBI",
+         "plus_code" : {
+            "compound_code" : "JF3M+P8 Beaver Creek, CO, USA",
+            "global_code" : "85FMJF3M+P8"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

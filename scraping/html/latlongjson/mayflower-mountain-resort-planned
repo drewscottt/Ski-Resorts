@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1345",
+               "short_name" : "1345",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lowell Avenue",
+               "short_name" : "Lowell Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Park City",
+               "short_name" : "Park City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit County",
+               "short_name" : "Summit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84060",
+               "short_name" : "84060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5115",
+               "short_name" : "5115",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1345 Lowell Ave, Park City, UT 84060, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6514199,
+               "lng" : -111.5079947
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6527688802915,
+                  "lng" : -111.5066457197085
+               },
+               "southwest" : {
+                  "lat" : 40.6500709197085,
+                  "lng" : -111.5093436802915
+               }
+            }
+         },
+         "place_id" : "ChIJ3-VdWJxyUocRr-MVIgU4Sfs",
+         "plus_code" : {
+            "compound_code" : "MF2R+HR Park City, UT, USA",
+            "global_code" : "85GCMF2R+HR"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

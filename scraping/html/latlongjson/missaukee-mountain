@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Missaukee Ski Mountain",
+               "short_name" : "Missaukee Ski Mountain",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "6500",
+               "short_name" : "6500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Walker Road",
+               "short_name" : "W Walker Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lake City",
+               "short_name" : "Lake City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caldwell Township",
+               "short_name" : "Caldwell Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Missaukee County",
+               "short_name" : "Missaukee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49651",
+               "short_name" : "49651",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9710",
+               "short_name" : "9710",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "Missaukee Ski Mountain, 6500 W Walker Rd, Lake City, MI 49651, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.39213420000001,
+               "lng" : -85.22741379999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.39348318029151,
+                  "lng" : -85.2260648197085
+               },
+               "southwest" : {
+                  "lat" : 44.39078521970851,
+                  "lng" : -85.2287627802915
+               }
+            }
+         },
+         "place_id" : "ChIJVUJ2BcCbH4gRRR1071PG-Eg",
+         "plus_code" : {
+            "compound_code" : "9QRF+V2 Lake City, MI, USA",
+            "global_code" : "86PP9QRF+V2"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

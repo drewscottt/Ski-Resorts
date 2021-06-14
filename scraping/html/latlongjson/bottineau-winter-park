@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Winter Park Road",
+               "short_name" : "Winter Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dalen",
+               "short_name" : "Dalen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bottineau County",
+               "short_name" : "Bottineau County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58318",
+               "short_name" : "58318",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Winter Park Rd, Dalen, ND 58318, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.950695,
+               "lng" : -100.4749526
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.95204398029149,
+                  "lng" : -100.4736036197085
+               },
+               "southwest" : {
+                  "lat" : 48.9493460197085,
+                  "lng" : -100.4763015802915
+               }
+            }
+         },
+         "place_id" : "ChIJy8c_TQoy3FIRN5GcyTGCdic",
+         "plus_code" : {
+            "compound_code" : "XG2G+72 Carbury, ND, USA",
+            "global_code" : "85WXXG2G+72"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

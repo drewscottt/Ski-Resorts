@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1001",
+               "short_name" : "1001",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Washington 906",
+               "short_name" : "WA-906",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Snoqualmie Pass",
+               "short_name" : "Snoqualmie Pass",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98068",
+               "short_name" : "98068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1001 WA-906, Snoqualmie Pass, WA 98068, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.422026,
+               "lng" : -121.4122836
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4233749802915,
+                  "lng" : -121.4109346197085
+               },
+               "southwest" : {
+                  "lat" : 47.4206770197085,
+                  "lng" : -121.4136325802915
+               }
+            }
+         },
+         "place_id" : "ChIJAQAAwAt5mlQRLGM5bDxQQls",
+         "plus_code" : {
+            "compound_code" : "CHCQ+R3 Snoqualmie Pass, WA, USA",
+            "global_code" : "84VWCHCQ+R3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1641",
+               "short_name" : "1641",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Washington 906",
+               "short_name" : "WA-906",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Snoqualmie Pass",
+               "short_name" : "Snoqualmie Pass",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kittitas County",
+               "short_name" : "Kittitas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98068",
+               "short_name" : "98068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1641 WA-906, Snoqualmie Pass, WA 98068, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.4101455,
+               "lng" : -121.413525
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.41149448029149,
+                  "lng" : -121.4121760197085
+               },
+               "southwest" : {
+                  "lat" : 47.4087965197085,
+                  "lng" : -121.4148739802915
+               }
+            }
+         },
+         "place_id" : "ChIJPeGT86R5mlQRr7vlrGY3PBE",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

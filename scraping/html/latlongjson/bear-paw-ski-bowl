@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Havre",
+               "short_name" : "Havre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hill County",
+               "short_name" : "Hill County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59501",
+               "short_name" : "59501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Havre, MT 59501, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.1649918,
+               "lng" : -109.6701448
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1663407802915,
+                  "lng" : -109.6687958197085
+               },
+               "southwest" : {
+                  "lat" : 48.1636428197085,
+                  "lng" : -109.6714937802915
+               }
+            }
+         },
+         "place_id" : "ChIJLcnfc2-zalMRZ9XEQwxkZQs",
+         "plus_code" : {
+            "compound_code" : "587H+XW Parker School, MT, USA",
+            "global_code" : "85WG587H+XW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

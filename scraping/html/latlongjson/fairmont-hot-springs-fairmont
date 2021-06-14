@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5225",
+               "short_name" : "5225",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fairmont Resort Road",
+               "short_name" : "Fairmont Resort Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairmont Hot Springs",
+               "short_name" : "Fairmont Hot Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Kootenay F",
+               "short_name" : "East Kootenay F",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "East Kootenay",
+               "short_name" : "East Kootenay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V0B 1L1",
+               "short_name" : "V0B 1L1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5225 Fairmont Resort Rd, Fairmont Hot Springs, BC V0B 1L1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.3392952,
+               "lng" : -115.8255905
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.34064418029151,
+                  "lng" : -115.8242415197085
+               },
+               "southwest" : {
+                  "lat" : 50.33794621970851,
+                  "lng" : -115.8269394802915
+               }
+            }
+         },
+         "place_id" : "ChIJaZVjUCmMelMRKGHJqWQTNtE",
+         "plus_code" : {
+            "compound_code" : "85QF+PQ Fairmont Hot Springs, BC, Canada",
+            "global_code" : "952685QF+PQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

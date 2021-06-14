@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "757",
+               "short_name" : "757",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spring Mount Road",
+               "short_name" : "Spring Mt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwenksville",
+               "short_name" : "Schwenksville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Salford Township",
+               "short_name" : "Upper Salford Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19473",
+               "short_name" : "19473",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "757 Spring Mt Rd, Schwenksville, PA 19473, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.2725,
+               "lng" : -75.45
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2738489802915,
+                  "lng" : -75.44865101970849
+               },
+               "southwest" : {
+                  "lat" : 40.2711510197085,
+                  "lng" : -75.45134898029151
+               }
+            }
+         },
+         "place_id" : "ChIJhXIVv_abxokRxFSseDjSLyA",
+         "plus_code" : {
+            "compound_code" : "7GFX+2X Schwenksville, PA, USA",
+            "global_code" : "87G67GFX+2X"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10296",
+               "short_name" : "10296",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State Road",
+               "short_name" : "State Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glenwood",
+               "short_name" : "Glenwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Concord",
+               "short_name" : "Concord",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14069",
+               "short_name" : "14069",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10296 State Rd, Glenwood, NY 14069, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.5998353,
+               "lng" : -78.6524412
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.60118428029151,
+                  "lng" : -78.65109221970849
+               },
+               "southwest" : {
+                  "lat" : 42.59848631970851,
+                  "lng" : -78.65379018029151
+               }
+            }
+         },
+         "place_id" : "ChIJs9thsquq04kR8r5visSNBF0",
+         "plus_code" : {
+            "compound_code" : "H8XX+W2 Glenwood, NY, USA",
+            "global_code" : "87J3H8XX+W2"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

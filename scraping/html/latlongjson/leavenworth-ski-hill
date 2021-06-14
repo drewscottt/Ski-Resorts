@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10701",
+               "short_name" : "10701",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Hill Drive",
+               "short_name" : "Ski Hill Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leavenworth",
+               "short_name" : "Leavenworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelan County",
+               "short_name" : "Chelan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98826",
+               "short_name" : "98826",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10701 Ski Hill Dr, Leavenworth, WA 98826, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.61411220000001,
+               "lng" : -120.668688
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.61546118029151,
+                  "lng" : -120.6673390197085
+               },
+               "southwest" : {
+                  "lat" : 47.61276321970851,
+                  "lng" : -120.6700369802915
+               }
+            }
+         },
+         "place_id" : "ChIJQ8H2YG9SmlQR0OfWj3at8oQ",
+         "plus_code" : {
+            "compound_code" : "J87J+JG Leavenworth, WA, USA",
+            "global_code" : "84VXJ87J+JG"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

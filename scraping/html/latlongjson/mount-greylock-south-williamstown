@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37",
+               "short_name" : "37",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corey Road",
+               "short_name" : "Corey Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hancock",
+               "short_name" : "Hancock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berkshire County",
+               "short_name" : "Berkshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01237",
+               "short_name" : "01237",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9541",
+               "short_name" : "9541",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "37 Corey Rd, Hancock, MA 01237, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.555204,
+               "lng" : -73.29220789999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5565529802915,
+                  "lng" : -73.2908589197085
+               },
+               "southwest" : {
+                  "lat" : 42.5538550197085,
+                  "lng" : -73.2935568802915
+               }
+            }
+         },
+         "place_id" : "ChIJpYT047JS54kRNXNRNOb_dT0",
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

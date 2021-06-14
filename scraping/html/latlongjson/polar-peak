@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fernie",
+               "short_name" : "Fernie",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "East Kootenay A",
+               "short_name" : "East Kootenay A",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "East Kootenay",
+               "short_name" : "East Kootenay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V0B 1M6",
+               "short_name" : "V0B 1M6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fernie, East Kootenay A, BC V0B 1M6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.46154440000001,
+               "lng" : -115.0818368
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.46289338029151,
+                  "lng" : -115.0804878197085
+               },
+               "southwest" : {
+                  "lat" : 49.46019541970851,
+                  "lng" : -115.0831857802915
+               }
+            }
+         },
+         "place_id" : "ChIJOVkUd95sZVMRc6IuiZydWpk",
+         "plus_code" : {
+            "compound_code" : "FW69+J7 Cokato, BC, Canada",
+            "global_code" : "85X6FW69+J7"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

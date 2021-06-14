@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4981",
+               "short_name" : "4981",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oregon Coast Highway",
+               "short_name" : "Oregon Coast Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Florence",
+               "short_name" : "Florence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97439",
+               "short_name" : "97439",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4981 Oregon Coast Hwy, Florence, OR 97439, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0099807,
+               "lng" : -124.1022922
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0113296802915,
+                  "lng" : -124.1009432197085
+               },
+               "southwest" : {
+                  "lat" : 44.0086317197085,
+                  "lng" : -124.1036411802915
+               }
+            }
+         },
+         "place_id" : "ChIJGcXndVyAwVQRIp-Tf73W5r8",
+         "plus_code" : {
+            "compound_code" : "2V5X+X3 Florence, OR, USA",
+            "global_code" : "84PQ2V5X+X3"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

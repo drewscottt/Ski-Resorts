@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "542",
+               "short_name" : "542",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New Hampshire 16",
+               "short_name" : "NH-16",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gorham",
+               "short_name" : "Gorham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinkham's Grant",
+               "short_name" : "Pinkham's Grant",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Coos County",
+               "short_name" : "Coos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03581",
+               "short_name" : "03581",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "542 NH-16, Gorham, NH 03581, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2640724,
+               "lng" : -71.2393036
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2654213802915,
+                  "lng" : -71.23795461970849
+               },
+               "southwest" : {
+                  "lat" : 44.2627234197085,
+                  "lng" : -71.24065258029151
+               }
+            }
+         },
+         "place_id" : "ChIJS9fDOLSRs0wRodfw8ZSLNtc",
+         "plus_code" : {
+            "compound_code" : "7Q76+J7 Gorham, NH, USA",
+            "global_code" : "87PC7Q76+J7"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

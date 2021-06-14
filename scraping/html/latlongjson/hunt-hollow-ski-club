@@ -1,0 +1,137 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#36",
+               "short_name" : "#36",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "7532",
+               "short_name" : "7532",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road",
+               "short_name" : "County Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ontario County",
+               "short_name" : "Ontario County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14512",
+               "short_name" : "14512",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9287",
+               "short_name" : "9287",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "7532 County Road #36, Naples, NY 14512, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.645996,
+               "lng" : -77.4781036
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.64734498029149,
+                  "lng" : -77.47675461970849
+               },
+               "southwest" : {
+                  "lat" : 42.64464701970849,
+                  "lng" : -77.47945258029149
+               }
+            }
+         },
+         "place_id" : "ChIJZwn97wES0YkRVY834fCZcqM",
+         "plus_code" : {
+            "compound_code" : "JGWC+9Q Naples, NY, USA",
+            "global_code" : "87J4JGWC+9Q"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ontario County",
+               "short_name" : "Ontario County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14512",
+               "short_name" : "14512",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Naples, NY 14512, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.6416004,
+               "lng" : -77.47742199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6429493802915,
+                  "lng" : -77.47607301970848
+               },
+               "southwest" : {
+                  "lat" : 42.64025141970851,
+                  "lng" : -77.47877098029149
+               }
+            }
+         },
+         "place_id" : "ChIJ192IYAcS0YkR-NgSwNV1FOg",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

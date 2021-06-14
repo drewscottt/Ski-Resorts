@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powder Ridge Mountain Park & Resort",
+               "short_name" : "Powder Ridge Mountain Park & Resort",
+               "types" : [ "establishment", "food", "park", "point_of_interest", "restaurant" ]
+            },
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Powder Hill Road",
+               "short_name" : "Powder Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlefield",
+               "short_name" : "Middlefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06455",
+               "short_name" : "06455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Powder Ridge Mountain Park & Resort, 99 Powder Hill Rd, Middlefield, CT 06455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.501645,
+               "lng" : -72.73645429999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5029939802915,
+                  "lng" : -72.7351053197085
+               },
+               "southwest" : {
+                  "lat" : 41.5002960197085,
+                  "lng" : -72.7378032802915
+               }
+            }
+         },
+         "place_id" : "ChIJnZdYMBjL54kRrPIhPrTYqA0",
+         "plus_code" : {
+            "compound_code" : "G727+MC Middlefield, CT, USA",
+            "global_code" : "87H9G727+MC"
+         },
+         "types" : [ "establishment", "food", "park", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

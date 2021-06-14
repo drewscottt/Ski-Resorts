@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "775",
+               "short_name" : "775",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 302",
+               "short_name" : "US-302",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bartlett",
+               "short_name" : "Bartlett",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03812",
+               "short_name" : "03812",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "775 US-302, Bartlett, NH 03812, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.082771,
+               "lng" : -71.229443
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0841199802915,
+                  "lng" : -71.22809401970851
+               },
+               "southwest" : {
+                  "lat" : 44.0814220197085,
+                  "lng" : -71.23079198029151
+               }
+            }
+         },
+         "place_id" : "ChIJdwFFHP2es0wRXFbhaRumWp4",
+         "plus_code" : {
+            "compound_code" : "3QMC+46 Bartlett, NH, USA",
+            "global_code" : "87PC3QMC+46"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

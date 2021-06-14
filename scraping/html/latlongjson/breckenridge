@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1599",
+               "short_name" : "1599",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Hill Road",
+               "short_name" : "Ski Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Breckenridge",
+               "short_name" : "Breckenridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit County",
+               "short_name" : "Summit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80424",
+               "short_name" : "80424",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1599 Ski Hill Rd, Breckenridge, CO 80424, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.4802512,
+               "lng" : -106.0666605
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5064892,
+                  "lng" : -106.0367191
+               },
+               "southwest" : {
+                  "lat" : 39.4485975,
+                  "lng" : -106.1204102
+               }
+            }
+         },
+         "place_id" : "ChIJ5SL_Vd71aocRHD59U1wlA8s",
+         "plus_code" : {
+            "compound_code" : "FWJM+48 Breckenridge, CO, USA",
+            "global_code" : "85FMFWJM+48"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

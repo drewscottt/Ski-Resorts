@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1135",
+               "short_name" : "1135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Toggenburg Road",
+               "short_name" : "Toggenburg Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fabius",
+               "short_name" : "Fabius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fabius",
+               "short_name" : "Fabius",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13063",
+               "short_name" : "13063",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9788",
+               "short_name" : "9788",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1135 Toggenburg Rd, Fabius, NY 13063, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8262641,
+               "lng" : -75.96003109999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8276130802915,
+                  "lng" : -75.9586821197085
+               },
+               "southwest" : {
+                  "lat" : 42.8249151197085,
+                  "lng" : -75.96138008029151
+               }
+            }
+         },
+         "place_id" : "ChIJJ65jx0ck2okRHsQrdTCD9iA",
+         "plus_code" : {
+            "compound_code" : "R2GQ+GX Fabius, NY, USA",
+            "global_code" : "87J6R2GQ+GX"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

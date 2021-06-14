@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13500",
+               "short_name" : "13500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "N. Skeetawk Circle",
+               "short_name" : "N. Skeetawk Circle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palmer",
+               "short_name" : "Palmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matanuska-Susitna",
+               "short_name" : "Matanuska-Susitna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99645",
+               "short_name" : "99645",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "13500 N. Skeetawk Circle, Palmer, AK 99645, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 61.7431411,
+               "lng" : -149.2338561
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.74449008029151,
+                  "lng" : -149.2325071197085
+               },
+               "southwest" : {
+                  "lat" : 61.7417921197085,
+                  "lng" : -149.2352050802915
+               }
+            }
+         },
+         "place_id" : "ChIJcfySsGchyVYRE5dpBVIX0Xc",
+         "plus_code" : {
+            "compound_code" : "PQV8+7F Palmer, AK, USA",
+            "global_code" : "93HGPQV8+7F"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

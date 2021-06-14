@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35100",
+               "short_name" : "35100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 18",
+               "short_name" : "CA-18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Running Springs",
+               "short_name" : "Running Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92382",
+               "short_name" : "92382",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "35100 CA-18, Running Springs, CA 92382, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.22488209999999,
+               "lng" : -117.036177
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2262310802915,
+                  "lng" : -117.0348280197085
+               },
+               "southwest" : {
+                  "lat" : 34.2235331197085,
+                  "lng" : -117.0375259802915
+               }
+            }
+         },
+         "place_id" : "ChIJvaI3pDOsxIARVsTms9n1Tcc",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

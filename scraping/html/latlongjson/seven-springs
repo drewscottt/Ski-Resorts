@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "777",
+               "short_name" : "777",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Water Wheel Drive",
+               "short_name" : "Water Wheel Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Champion",
+               "short_name" : "Champion",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlecreek Township",
+               "short_name" : "Middlecreek Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Somerset County",
+               "short_name" : "Somerset County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15622",
+               "short_name" : "15622",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "777 Water Wheel Dr, Champion, PA 15622, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0229768,
+               "lng" : -79.2977032
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.02432578029151,
+                  "lng" : -79.29635421970849
+               },
+               "southwest" : {
+                  "lat" : 40.02162781970851,
+                  "lng" : -79.29905218029151
+               }
+            }
+         },
+         "place_id" : "ChIJ5TWavXrRyokRYU4ZPmTwTeY",
+         "plus_code" : {
+            "compound_code" : "2PF2+5W Champion, PA, USA",
+            "global_code" : "87G22PF2+5W"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tennis Court Road",
+               "short_name" : "Tennis Court Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Champion",
+               "short_name" : "Champion",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset County",
+               "short_name" : "Somerset County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15622",
+               "short_name" : "15622",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tennis Court Rd, Champion, PA 15622, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0214004,
+               "lng" : -79.2914962
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.02274938029149,
+                  "lng" : -79.29014721970849
+               },
+               "southwest" : {
+                  "lat" : 40.0200514197085,
+                  "lng" : -79.29284518029151
+               }
+            }
+         },
+         "place_id" : "ChIJA98GIdTTyokRwSiyC5JD9ZA",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

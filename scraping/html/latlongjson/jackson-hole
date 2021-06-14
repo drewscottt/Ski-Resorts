@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3395",
+               "short_name" : "3395",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cody Lane",
+               "short_name" : "Cody Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Teton Village",
+               "short_name" : "Teton Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83025",
+               "short_name" : "83025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3395 Cody Ln, Teton Village, WY 83025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5875453,
+               "lng" : -110.8279183
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5888942802915,
+                  "lng" : -110.8265693197085
+               },
+               "southwest" : {
+                  "lat" : 43.5861963197085,
+                  "lng" : -110.8292672802915
+               }
+            }
+         },
+         "place_id" : "ChIJeWipzkIaU1MROB6YO554dn8",
+         "plus_code" : {
+            "compound_code" : "H5QC+2R Teton Village, WY, USA",
+            "global_code" : "85MFH5QC+2R"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3385",
+               "short_name" : "3385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cody Lane",
+               "short_name" : "Cody Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Teton Village",
+               "short_name" : "Teton Village",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83025",
+               "short_name" : "83025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3385 Cody Ln, Teton Village, WY 83025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5866859,
+               "lng" : -110.8300245
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5880348802915,
+                  "lng" : -110.8286755197085
+               },
+               "southwest" : {
+                  "lat" : 43.5853369197085,
+                  "lng" : -110.8313734802915
+               }
+            }
+         },
+         "place_id" : "ChIJZXwlf9cFU1MRenXLA6_RcHU",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

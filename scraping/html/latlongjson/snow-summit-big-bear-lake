@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "880",
+               "short_name" : "880",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Summit Boulevard",
+               "short_name" : "Summit Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Big Bear Lake",
+               "short_name" : "Big Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92315",
+               "short_name" : "92315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "880 Summit Blvd, Big Bear Lake, CA 92315, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2364081,
+               "lng" : -116.8892717
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2377570802915,
+                  "lng" : -116.8879227197085
+               },
+               "southwest" : {
+                  "lat" : 34.2350591197085,
+                  "lng" : -116.8906206802915
+               }
+            }
+         },
+         "place_id" : "ChIJ52d4OX-0xIARLdgn9vWEH84",
+         "plus_code" : {
+            "compound_code" : "64P6+H7 Big Bear Lake, CA, USA",
+            "global_code" : "856564P6+H7"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

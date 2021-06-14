@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "79327",
+               "short_name" : "79327",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oregon 204",
+               "short_name" : "OR-204",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Weston",
+               "short_name" : "Weston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Union County",
+               "short_name" : "Union County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97886",
+               "short_name" : "97886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "79327 OR-204, Weston, OR 97886, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7552425,
+               "lng" : -118.051421
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7565914802915,
+                  "lng" : -118.0500720197085
+               },
+               "southwest" : {
+                  "lat" : 45.75389351970851,
+                  "lng" : -118.0527699802915
+               }
+            }
+         },
+         "place_id" : "ChIJke019NJWolQRmEARx7XZgoM",
+         "plus_code" : {
+            "compound_code" : "QW4X+3C Tollgate, OR, USA",
+            "global_code" : "85Q3QW4X+3C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

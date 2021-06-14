@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sun Valley Road",
+               "short_name" : "Sun Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sun Valley",
+               "short_name" : "Sun Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blaine County",
+               "short_name" : "Blaine County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83353",
+               "short_name" : "83353",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Sun Valley Rd, Sun Valley, ID 83353, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6949128,
+               "lng" : -114.3542875
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69626178029149,
+                  "lng" : -114.3529385197085
+               },
+               "southwest" : {
+                  "lat" : 43.69356381970849,
+                  "lng" : -114.3556364802915
+               }
+            }
+         },
+         "place_id" : "ChIJSUkWai2dqVQRHL1Xdvr7vKA",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

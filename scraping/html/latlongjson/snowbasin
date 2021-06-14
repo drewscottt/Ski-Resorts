@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3925",
+               "short_name" : "3925",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snow Basin Road",
+               "short_name" : "Snow Basin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huntsville",
+               "short_name" : "Huntsville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weber County",
+               "short_name" : "Weber County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84317",
+               "short_name" : "84317",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3925 Snow Basin Rd, Huntsville, UT 84317, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2161404,
+               "lng" : -111.8571529
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2174893802915,
+                  "lng" : -111.8558039197085
+               },
+               "southwest" : {
+                  "lat" : 41.2147914197085,
+                  "lng" : -111.8585018802915
+               }
+            }
+         },
+         "place_id" : "ChIJw0tLrR0IU4cRb_BqCLsctfY",
+         "plus_code" : {
+            "compound_code" : "648V+F4 Huntsville, UT, USA",
+            "global_code" : "85HC648V+F4"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

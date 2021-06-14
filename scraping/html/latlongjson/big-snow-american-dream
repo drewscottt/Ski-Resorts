@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "American Dream Way",
+               "short_name" : "American Dream Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Rutherford",
+               "short_name" : "East Rutherford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen County",
+               "short_name" : "Bergen County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07073",
+               "short_name" : "07073",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 American Dream Way, East Rutherford, NJ 07073, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8088769,
+               "lng" : -74.0709372
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8102258802915,
+                  "lng" : -74.06958821970851
+               },
+               "southwest" : {
+                  "lat" : 40.80752791970851,
+                  "lng" : -74.07228618029151
+               }
+            }
+         },
+         "place_id" : "ChIJpwurocz5wokRmXKGrhZRf8E",
+         "plus_code" : {
+            "compound_code" : "RW5H+HJ East Rutherford, NJ, USA",
+            "global_code" : "87G7RW5H+HJ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

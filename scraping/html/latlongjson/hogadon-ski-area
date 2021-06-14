@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hogadon Basin Ski Area",
+               "short_name" : "Hogadon Basin Ski Area",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hogadon Road",
+               "short_name" : "Hogadon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Casper",
+               "short_name" : "Casper",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Natrona County",
+               "short_name" : "Natrona County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82601",
+               "short_name" : "82601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hogadon Basin Ski Area, 2500 Hogadon Rd, Casper, WY 82601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7452867,
+               "lng" : -106.3389955
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7466356802915,
+                  "lng" : -106.3376465197085
+               },
+               "southwest" : {
+                  "lat" : 42.74393771970851,
+                  "lng" : -106.3403444802915
+               }
+            }
+         },
+         "place_id" : "ChIJg-Ydu-28YIcR445FjPaC9t0",
+         "plus_code" : {
+            "compound_code" : "PMW6+4C Casper, WY, USA",
+            "global_code" : "85JMPMW6+4C"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

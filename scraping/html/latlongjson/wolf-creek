@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wolf Creek Ski Area",
+               "short_name" : "Wolf Creek Ski Area",
+               "types" : [
+                  "establishment",
+                  "food",
+                  "park",
+                  "point_of_interest",
+                  "restaurant",
+                  "store",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "E",
+               "short_name" : "E",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "East Highway 160",
+               "short_name" : "E Hwy 160",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pagosa Springs",
+               "short_name" : "Pagosa Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mineral County",
+               "short_name" : "Mineral County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81147",
+               "short_name" : "81147",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wolf Creek Ski Area, E Hwy 160 E, Pagosa Springs, CO 81147, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4722034,
+               "lng" : -106.7930328
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.47355238029149,
+                  "lng" : -106.7916838197085
+               },
+               "southwest" : {
+                  "lat" : 37.4708544197085,
+                  "lng" : -106.7943817802915
+               }
+            }
+         },
+         "place_id" : "ChIJzbcckqIJPocR-zVp8LqNQOU",
+         "plus_code" : {
+            "compound_code" : "F6C4+VQ Pagosa Springs, CO, USA",
+            "global_code" : "859MF6C4+VQ"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "park",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

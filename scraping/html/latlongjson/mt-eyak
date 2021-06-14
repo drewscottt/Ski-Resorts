@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ski Hill Road",
+               "short_name" : "Ski Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cordova",
+               "short_name" : "Cordova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdez-Cordova",
+               "short_name" : "Valdez-Cordova",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99574",
+               "short_name" : "99574",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ski Hill Rd, Cordova, AK 99574, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.5500012,
+               "lng" : -145.7499932
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.55135018029151,
+                  "lng" : -145.7486442197085
+               },
+               "southwest" : {
+                  "lat" : 60.54865221970849,
+                  "lng" : -145.7513421802915
+               }
+            }
+         },
+         "place_id" : "ChIJu63TDt0Yt1YRvOXb8KLYq5k",
+         "plus_code" : {
+            "compound_code" : "H722+22 Cordova, AK, USA",
+            "global_code" : "93GPH722+22"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

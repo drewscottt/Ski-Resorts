@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Eustis Road",
+               "short_name" : "Mt Eustis Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Littleton",
+               "short_name" : "Littleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Littleton",
+               "short_name" : "Littleton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03561",
+               "short_name" : "03561",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "400 Mt Eustis Rd, Littleton, NH 03561, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2968644,
+               "lng" : -71.7728683
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.29821338029149,
+                  "lng" : -71.77151931970849
+               },
+               "southwest" : {
+                  "lat" : 44.29551541970849,
+                  "lng" : -71.77421728029151
+               }
+            }
+         },
+         "place_id" : "ChIJi5KixRpmtEwRz6WJzFYk1Ow",
+         "plus_code" : {
+            "compound_code" : "76WG+PV Littleton, NH, USA",
+            "global_code" : "87PC76WG+PV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

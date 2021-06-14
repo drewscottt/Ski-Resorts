@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4141",
+               "short_name" : "4141",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bauer Road",
+               "short_name" : "Bauer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genoa Township",
+               "short_name" : "Genoa Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Livingston County",
+               "short_name" : "Livingston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48116",
+               "short_name" : "48116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4141 Bauer Rd, Brighton, MI 48116, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.54083,
+               "lng" : -83.8115217
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5421789802915,
+                  "lng" : -83.81017271970849
+               },
+               "southwest" : {
+                  "lat" : 42.5394810197085,
+                  "lng" : -83.8128706802915
+               }
+            }
+         },
+         "place_id" : "ChIJ-1R4gYdFI4gRW-iInnEyvec",
+         "plus_code" : {
+            "compound_code" : "G5RQ+89 Brighton, MI, USA",
+            "global_code" : "86JRG5RQ+89"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

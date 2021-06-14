@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blairsden-Graeagle",
+               "short_name" : "Blairsden-Graeagle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Johnsville",
+               "short_name" : "Johnsville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plumas County",
+               "short_name" : "Plumas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96103",
+               "short_name" : "96103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Blairsden-Graeagle, CA 96103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7650483,
+               "lng" : -120.6968549
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7663972802915,
+                  "lng" : -120.6955059197085
+               },
+               "southwest" : {
+                  "lat" : 39.7636993197085,
+                  "lng" : -120.6982038802915
+               }
+            }
+         },
+         "place_id" : "ChIJfQ_rfWNonIARppaMzZuuF1w",
+         "plus_code" : {
+            "compound_code" : "Q883+27 Blairsden-Graeagle, Graeagle, CA, USA",
+            "global_code" : "84FXQ883+27"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

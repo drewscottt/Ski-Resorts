@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "930",
+               "short_name" : "930",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Roosevelt Trail",
+               "short_name" : "Roosevelt Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Windham",
+               "short_name" : "Windham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cumberland County",
+               "short_name" : "Cumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04062",
+               "short_name" : "04062",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5666",
+               "short_name" : "5666",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "930 Roosevelt Trail, Windham, ME 04062, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8532217,
+               "lng" : -70.45183879999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8545706802915,
+                  "lng" : -70.45048981970849
+               },
+               "southwest" : {
+                  "lat" : 43.8518727197085,
+                  "lng" : -70.4531877802915
+               }
+            }
+         },
+         "place_id" : "ChIJh8g00zqLskwRtGEdGDJ6xuA",
+         "plus_code" : {
+            "compound_code" : "VG3X+77 Windham, ME, USA",
+            "global_code" : "87MFVG3X+77"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

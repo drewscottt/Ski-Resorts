@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pine Knob",
+               "short_name" : "Pine Knob",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Independence charter Township",
+               "short_name" : "Independence Charter Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakland County",
+               "short_name" : "Oakland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48348",
+               "short_name" : "48348",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pine Knob, Independence Charter Township, MI 48348, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7422524,
+               "lng" : -83.3671629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7504464,
+                  "lng" : -83.35115549999999
+               },
+               "southwest" : {
+                  "lat" : 42.7340573,
+                  "lng" : -83.3831703
+               }
+            }
+         },
+         "place_id" : "ChIJY43fy8-WJIgR6NZx3n_Pdm8",
+         "plus_code" : {
+            "compound_code" : "PJRM+W4 Independence charter Township, MI, USA",
+            "global_code" : "86JRPJRM+W4"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

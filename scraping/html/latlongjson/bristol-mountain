@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5662",
+               "short_name" : "5662",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New York 64",
+               "short_name" : "NY-64",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canandaigua",
+               "short_name" : "Canandaigua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Bristol",
+               "short_name" : "South Bristol",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ontario County",
+               "short_name" : "Ontario County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14424",
+               "short_name" : "14424",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9382",
+               "short_name" : "9382",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "5662 NY-64, Canandaigua, NY 14424, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7452867,
+               "lng" : -77.40431079999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7466356802915,
+                  "lng" : -77.40296181970849
+               },
+               "southwest" : {
+                  "lat" : 42.74393771970851,
+                  "lng" : -77.4056597802915
+               }
+            }
+         },
+         "place_id" : "ChIJXyC-kA8X0YkRzLRvV6PHEc8",
+         "plus_code" : {
+            "compound_code" : "PHWW+47 Canandaigua, NY, USA",
+            "global_code" : "87J4PHWW+47"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

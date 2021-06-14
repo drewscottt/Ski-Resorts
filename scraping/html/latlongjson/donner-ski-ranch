@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19320",
+               "short_name" : "19320",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Donner Pass Road",
+               "short_name" : "Donner Pass Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norden",
+               "short_name" : "Norden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada County",
+               "short_name" : "Nevada County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95724",
+               "short_name" : "95724",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19320 Donner Pass Rd, Norden, CA 95724, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3176821,
+               "lng" : -120.3303293
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3190310802915,
+                  "lng" : -120.3289803197085
+               },
+               "southwest" : {
+                  "lat" : 39.3163331197085,
+                  "lng" : -120.3316782802915
+               }
+            }
+         },
+         "place_id" : "ChIJm8gDU2jom4AReI3ERfRBTQ8",
+         "plus_code" : {
+            "compound_code" : "8M99+3V Norden, CA, USA",
+            "global_code" : "84FX8M99+3V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

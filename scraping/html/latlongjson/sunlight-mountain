@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10901",
+               "short_name" : "10901",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road 117",
+               "short_name" : "Co Rd 117",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glenwood Springs",
+               "short_name" : "Glenwood Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Garfield County",
+               "short_name" : "Garfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81601",
+               "short_name" : "81601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10901 Co Rd 117, Glenwood Springs, CO 81601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3997821,
+               "lng" : -107.3387647
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4011310802915,
+                  "lng" : -107.3374157197085
+               },
+               "southwest" : {
+                  "lat" : 39.3984331197085,
+                  "lng" : -107.3401136802915
+               }
+            }
+         },
+         "place_id" : "ChIJfbNlFSoBQYcRTi8S5Pk39rU",
+         "plus_code" : {
+            "compound_code" : "9MX6+WF Glenwood Springs, CO, USA",
+            "global_code" : "85FJ9MX6+WF"
+         },
+         "types" : [ "bicycle_store", "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

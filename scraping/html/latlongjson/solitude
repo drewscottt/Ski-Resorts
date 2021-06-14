@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12000",
+               "short_name" : "12000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Big Cottonwood Canyon Road",
+               "short_name" : "Big Cottonwood Canyon Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solitude",
+               "short_name" : "Solitude",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84121",
+               "short_name" : "84121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12000 Big Cottonwood Canyon Rd, Solitude, UT 84121, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.619852,
+               "lng" : -111.591885
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6212009802915,
+                  "lng" : -111.5905360197085
+               },
+               "southwest" : {
+                  "lat" : 40.61850301970851,
+                  "lng" : -111.5932339802915
+               }
+            }
+         },
+         "place_id" : "ChIJv3cRQipuUocRZmsDsp0-xq8",
+         "plus_code" : {
+            "compound_code" : "JC95+W6 Solitude, UT, USA",
+            "global_code" : "85GCJC95+W6"
+         },
+         "types" : [
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "real_estate_agency",
+            "travel_agency"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

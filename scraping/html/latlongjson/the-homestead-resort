@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7696",
+               "short_name" : "7696",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sam Snead Highway",
+               "short_name" : "Sam Snead Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hot Springs",
+               "short_name" : "Hot Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cedar Creek",
+               "short_name" : "Cedar Creek",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bath County",
+               "short_name" : "Bath County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24445",
+               "short_name" : "24445",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7696 Sam Snead Hwy, Hot Springs, VA 24445, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9970597,
+               "lng" : -79.82471149999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9984086802915,
+                  "lng" : -79.82336251970848
+               },
+               "southwest" : {
+                  "lat" : 37.9957107197085,
+                  "lng" : -79.82606048029149
+               }
+            }
+         },
+         "place_id" : "ChIJAyNcGtSWTIgRBj1HD037KSM",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

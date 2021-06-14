@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "79",
+               "short_name" : "79",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Powers Road",
+               "short_name" : "Powers Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westford",
+               "short_name" : "Westford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01886",
+               "short_name" : "01886",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "79 Powers Rd, Westford, MA 01886, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.5425766,
+               "lng" : -71.4448687
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.54392558029149,
+                  "lng" : -71.4435197197085
+               },
+               "southwest" : {
+                  "lat" : 42.54122761970849,
+                  "lng" : -71.44621768029151
+               }
+            }
+         },
+         "place_id" : "ChIJFaQmI0WW44kRv3_NK5cH7y4",
+         "plus_code" : {
+            "compound_code" : "GHV4+23 Westford, MA, USA",
+            "global_code" : "87JCGHV4+23"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1493",
+               "short_name" : "1493",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thornton Road",
+               "short_name" : "Thornton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cherry Creek",
+               "short_name" : "Cherry Creek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cherry Creek",
+               "short_name" : "Cherry Creek",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chautauqua County",
+               "short_name" : "Chautauqua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14723",
+               "short_name" : "14723",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9761",
+               "short_name" : "9761",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1493 Thornton Rd, Cherry Creek, NY 14723, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.263977,
+               "lng" : -79.1621475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2653259802915,
+                  "lng" : -79.16079851970849
+               },
+               "southwest" : {
+                  "lat" : 42.2626280197085,
+                  "lng" : -79.16349648029151
+               }
+            }
+         },
+         "place_id" : "ChIJYSeJQou50okRuCxKOVbsQZQ",
+         "plus_code" : {
+            "compound_code" : "7R7Q+H4 Cherry Creek, NY, USA",
+            "global_code" : "87J27R7Q+H4"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "travel_agency"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

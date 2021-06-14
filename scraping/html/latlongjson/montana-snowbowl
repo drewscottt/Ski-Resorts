@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1700",
+               "short_name" : "1700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Snow Bowl Road",
+               "short_name" : "Snow Bowl Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Missoula",
+               "short_name" : "Missoula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missoula County",
+               "short_name" : "Missoula County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59808",
+               "short_name" : "59808",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1700 Snow Bowl Rd, Missoula, MT 59808, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.014436,
+               "lng" : -113.999568
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0157849802915,
+                  "lng" : -113.9982190197085
+               },
+               "southwest" : {
+                  "lat" : 47.0130870197085,
+                  "lng" : -114.0009169802915
+               }
+            }
+         },
+         "place_id" : "ChIJVVVVVbHNXVMR9gJGrj_FFfM",
+         "plus_code" : {
+            "compound_code" : "2272+Q5 Missoula, MT, USA",
+            "global_code" : "85V82272+Q5"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

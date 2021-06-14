@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S944",
+               "short_name" : "S944",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Christmas Mountain Road",
+               "short_name" : "Christmas Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wisconsin Dells",
+               "short_name" : "Wisconsin Dells",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dellona",
+               "short_name" : "Dellona",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sauk County",
+               "short_name" : "Sauk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53965",
+               "short_name" : "53965",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "S944 Christmas Mountain Rd, Wisconsin Dells, WI 53965, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6090254,
+               "lng" : -89.8603439
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6103743802915,
+                  "lng" : -89.85899491970851
+               },
+               "southwest" : {
+                  "lat" : 43.6076764197085,
+                  "lng" : -89.86169288029151
+               }
+            }
+         },
+         "place_id" : "ChIJ5Ss3KcVaB4gRcOmof8Jhd5o",
+         "plus_code" : {
+            "compound_code" : "J45Q+JV Wisconsin Dells, WI, USA",
+            "global_code" : "86MGJ45Q+JV"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

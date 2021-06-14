@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Mexico 475",
+               "short_name" : "NM-475",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Santa Fe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe County",
+               "short_name" : "Santa Fe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87501",
+               "short_name" : "87501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1477 NM, NM-475, Santa Fe, NM 87501, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.796254,
+               "lng" : -105.802369
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.79760298029149,
+                  "lng" : -105.8010200197085
+               },
+               "southwest" : {
+                  "lat" : 35.79490501970849,
+                  "lng" : -105.8037179802915
+               }
+            }
+         },
+         "place_id" : "ChIJDdAJ_0ZQGIcRkiBRi7X-cT0",
+         "plus_code" : {
+            "compound_code" : "Q5WX+G3 Santa Fe, NM, USA",
+            "global_code" : "857PQ5WX+G3"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

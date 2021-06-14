@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4505",
+               "short_name" : "4505",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Andes Road Southwest",
+               "short_name" : "Andes Rd SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kensington",
+               "short_name" : "Kensington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moe Township",
+               "short_name" : "Moe Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56343",
+               "short_name" : "56343",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4505 Andes Rd SW, Kensington, MN 56343, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.850975,
+               "lng" : -95.6304971
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.85232398029149,
+                  "lng" : -95.62914811970849
+               },
+               "southwest" : {
+                  "lat" : 45.8496260197085,
+                  "lng" : -95.6318460802915
+               }
+            }
+         },
+         "place_id" : "ChIJX6DS-S08ylIRncPCyc6EUw0",
+         "plus_code" : {
+            "compound_code" : "V929+9R Kensington, MN, USA",
+            "global_code" : "86Q6V929+9R"
+         },
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

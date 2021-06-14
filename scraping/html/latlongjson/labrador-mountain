@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6935",
+               "short_name" : "6935",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New York 91",
+               "short_name" : "NY-91",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Truxton",
+               "short_name" : "Truxton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Truxton",
+               "short_name" : "Truxton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cortland County",
+               "short_name" : "Cortland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13158",
+               "short_name" : "13158",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6935 NY-91, Truxton, NY 13158, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.741791,
+               "lng" : -76.030215
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7431399802915,
+                  "lng" : -76.0288660197085
+               },
+               "southwest" : {
+                  "lat" : 42.7404420197085,
+                  "lng" : -76.03156398029151
+               }
+            }
+         },
+         "place_id" : "ChIJUaVMkE882okR4-we221B7gE",
+         "plus_code" : {
+            "compound_code" : "PXR9+PW Truxton, NY, USA",
+            "global_code" : "87J5PXR9+PW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

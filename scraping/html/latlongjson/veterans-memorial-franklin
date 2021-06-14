@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "266",
+               "short_name" : "266",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Flaghole Road",
+               "short_name" : "Flaghole Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merrimack County",
+               "short_name" : "Merrimack County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03235",
+               "short_name" : "03235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "266 Flaghole Rd, Franklin, NH 03235, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4451522,
+               "lng" : -71.6912002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.44650118029149,
+                  "lng" : -71.6898512197085
+               },
+               "southwest" : {
+                  "lat" : 43.44380321970849,
+                  "lng" : -71.69254918029151
+               }
+            }
+         },
+         "place_id" : "ChIJDcQhADQJ4okRLnOMnaqsYI4",
+         "plus_code" : {
+            "compound_code" : "C8W5+3G Franklin, NH, USA",
+            "global_code" : "87MCC8W5+3G"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "266",
+               "short_name" : "266",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Flaghole Road",
+               "short_name" : "Flaghole Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merrimack County",
+               "short_name" : "Merrimack County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03235",
+               "short_name" : "03235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "266 Flaghole Rd, Franklin, NH 03235, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.44004320000001,
+               "lng" : -71.6865552
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.44139218029151,
+                  "lng" : -71.6852062197085
+               },
+               "southwest" : {
+                  "lat" : 43.43869421970851,
+                  "lng" : -71.68790418029151
+               }
+            }
+         },
+         "place_id" : "ChIJh68RrOMP4okRPbAQhKs5UZE",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

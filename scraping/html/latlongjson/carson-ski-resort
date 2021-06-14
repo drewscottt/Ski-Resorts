@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1210",
+               "short_name" : "1210",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Way",
+               "short_name" : "Ski Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Incline Village",
+               "short_name" : "IVGID",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89451",
+               "short_name" : "89451",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9204",
+               "short_name" : "9204",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1210 Ski Way, Incline Village, NV 89451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2536805,
+               "lng" : -119.92381
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2550294802915,
+                  "lng" : -119.9224610197085
+               },
+               "southwest" : {
+                  "lat" : 39.2523315197085,
+                  "lng" : -119.9251589802915
+               }
+            }
+         },
+         "place_id" : "ChIJJ663GMtxmYARl7Jf3ui-cHQ",
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

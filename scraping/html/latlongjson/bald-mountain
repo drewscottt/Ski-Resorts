@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2738",
+               "short_name" : "2738",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bald Mountain Road",
+               "short_name" : "Bald Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pierce",
+               "short_name" : "Pierce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clearwater County",
+               "short_name" : "Clearwater County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83546",
+               "short_name" : "83546",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2738 Bald Mountain Rd, Pierce, ID 83546, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.574749,
+               "lng" : -115.870799
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.57609798029149,
+                  "lng" : -115.8694500197085
+               },
+               "southwest" : {
+                  "lat" : 46.5734000197085,
+                  "lng" : -115.8721479802915
+               }
+            }
+         },
+         "place_id" : "ChIJVSw3pSmOX1MRezTVZicsgs8",
+         "plus_code" : {
+            "compound_code" : "H4FH+VM Pierce, ID, USA",
+            "global_code" : "85R6H4FH+VM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

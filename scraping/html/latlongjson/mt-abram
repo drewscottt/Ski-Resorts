@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#3112",
+               "short_name" : "#3112",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "308",
+               "short_name" : "308",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Howe Hill Road",
+               "short_name" : "Howe Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greenwood",
+               "short_name" : "Greenwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford County",
+               "short_name" : "Oxford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04255",
+               "short_name" : "04255",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "308 Howe Hill Rd #3112, Greenwood, ME 04255, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.3797963,
+               "lng" : -70.7068649
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.38114528029149,
+                  "lng" : -70.70551591970849
+               },
+               "southwest" : {
+                  "lat" : 44.3784473197085,
+                  "lng" : -70.70821388029151
+               }
+            }
+         },
+         "place_id" : "ChIJJ6fW8NjPs0wRHyNHGe6wQo4",
+         "plus_code" : {
+            "compound_code" : "97HV+W7 Greenwood, ME, USA",
+            "global_code" : "87PF97HV+W7"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

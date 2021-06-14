@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Glades Drive",
+               "short_name" : "Glades Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitefish",
+               "short_name" : "Whitefish",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flathead County",
+               "short_name" : "Flathead County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59937",
+               "short_name" : "59937",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1015 Glades Dr, Whitefish, MT 59937, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.4805556,
+               "lng" : -114.3502778
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.48190458029151,
+                  "lng" : -114.3489288197085
+               },
+               "southwest" : {
+                  "lat" : 48.47920661970851,
+                  "lng" : -114.3516267802915
+               }
+            }
+         },
+         "place_id" : "ChIJYYdK77xuZlMRRcGgUBE1He4",
+         "plus_code" : {
+            "compound_code" : "FJJX+6V Whitefish, MT, USA",
+            "global_code" : "85W7FJJX+6V"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

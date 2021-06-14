@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yellowstone Club Trail",
+               "short_name" : "Yellowstone Club Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Big Sky",
+               "short_name" : "Big Sky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madison County",
+               "short_name" : "Madison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59716",
+               "short_name" : "59716",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Yellowstone Club Trail, Big Sky, MT 59716, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2458036,
+               "lng" : -111.3745324
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2471525802915,
+                  "lng" : -111.3731834197085
+               },
+               "southwest" : {
+                  "lat" : 45.2444546197085,
+                  "lng" : -111.3758813802915
+               }
+            }
+         },
+         "place_id" : "ChIJ67mfOKYaUFMRismCNDQ9D6I",
+         "plus_code" : {
+            "compound_code" : "6JWG+85 Big Sky, MT, USA",
+            "global_code" : "85QC6JWG+85"
+         },
+         "types" : [ "establishment", "health", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

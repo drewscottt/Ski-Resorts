@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mt. Baldy Resort",
+               "short_name" : "Mt. Baldy Resort",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "8401",
+               "short_name" : "8401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Baldy Road",
+               "short_name" : "Mt Baldy Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Baldy",
+               "short_name" : "Mt Baldy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91759",
+               "short_name" : "91759",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mt. Baldy Resort, 8401 Mt Baldy Rd, Mt Baldy, CA 91759, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2700828,
+               "lng" : -117.6219104
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.27143178029151,
+                  "lng" : -117.6205614197085
+               },
+               "southwest" : {
+                  "lat" : 34.26873381970851,
+                  "lng" : -117.6232593802915
+               }
+            }
+         },
+         "place_id" : "ChIJc1TA560-w4ARpvvPkEsdqe8",
+         "plus_code" : {
+            "compound_code" : "79CH+26 Mount Baldy, CA, USA",
+            "global_code" : "856479CH+26"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

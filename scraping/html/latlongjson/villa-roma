@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "356",
+               "short_name" : "356",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Villa Roma Road",
+               "short_name" : "Villa Roma Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Callicoon",
+               "short_name" : "Callicoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "Delaware",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sullivan County",
+               "short_name" : "Sullivan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12723",
+               "short_name" : "12723",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "356 Villa Roma Rd, Callicoon, NY 12723, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7627411,
+               "lng" : -74.9749298
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7640900802915,
+                  "lng" : -74.97358081970849
+               },
+               "southwest" : {
+                  "lat" : 41.7613921197085,
+                  "lng" : -74.97627878029151
+               }
+            }
+         },
+         "place_id" : "ChIJ-YHkZ4NY24kRf9IM8cgQ-zg",
+         "plus_code" : {
+            "compound_code" : "Q27G+32 Callicoon, NY, USA",
+            "global_code" : "87H7Q27G+32"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

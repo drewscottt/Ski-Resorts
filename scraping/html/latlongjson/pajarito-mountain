@@ -1,0 +1,87 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pajarito Mountain Ski Area",
+               "short_name" : "Pajarito Mountain Ski Area",
+               "types" : [
+                  "establishment",
+                  "food",
+                  "park",
+                  "point_of_interest",
+                  "restaurant",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "397",
+               "short_name" : "397",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Camp May Road",
+               "short_name" : "Camp May Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Alamos",
+               "short_name" : "Los Alamos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Alamos County",
+               "short_name" : "Los Alamos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87544",
+               "short_name" : "87544",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pajarito Mountain Ski Area, 397 Camp May Rd, Los Alamos, NM 87544, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.8948376,
+               "lng" : -106.3906718
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8961865802915,
+                  "lng" : -106.3893228197085
+               },
+               "southwest" : {
+                  "lat" : 35.8934886197085,
+                  "lng" : -106.3920207802915
+               }
+            }
+         },
+         "place_id" : "ChIJF0yvPcwNGIcR53Bw31lsYFY",
+         "plus_code" : {
+            "compound_code" : "VJV5+WP Los Alamos, NM, USA",
+            "global_code" : "857MVJV5+WP"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "park",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

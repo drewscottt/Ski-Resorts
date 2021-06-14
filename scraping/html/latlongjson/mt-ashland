@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mount Ashland Ski Road",
+               "short_name" : "Mt Ashland Ski Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ashland",
+               "short_name" : "Ashland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jackson County",
+               "short_name" : "Jackson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97520",
+               "short_name" : "97520",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11 Mt Ashland Ski Rd, Ashland, OR 97520, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.081685,
+               "lng" : -122.704754
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0830339802915,
+                  "lng" : -122.7034050197085
+               },
+               "southwest" : {
+                  "lat" : 42.0803360197085,
+                  "lng" : -122.7061029802915
+               }
+            }
+         },
+         "place_id" : "ChIJzVYFSdUJz1QRe3tUMUytLzQ",
+         "plus_code" : {
+            "compound_code" : "37JW+M3 Ashland, OR, USA",
+            "global_code" : "84JV37JW+M3"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

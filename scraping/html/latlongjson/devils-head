@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "S6330",
+               "short_name" : "S6330",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bluff Road",
+               "short_name" : "Bluff Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Merrimac",
+               "short_name" : "Merrimac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merrimac",
+               "short_name" : "Merrimac",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sauk County",
+               "short_name" : "Sauk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53561",
+               "short_name" : "53561",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9737",
+               "short_name" : "9737",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "S6330 Bluff Rd, Merrimac, WI 53561, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4180036,
+               "lng" : -89.6268972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4193525802915,
+                  "lng" : -89.62554821970849
+               },
+               "southwest" : {
+                  "lat" : 43.4166546197085,
+                  "lng" : -89.62824618029151
+               }
+            }
+         },
+         "place_id" : "ChIJk4j8Bx0UB4gRQxsj2h8yBO0",
+         "plus_code" : {
+            "compound_code" : "C99F+66 Merrimac, WI, USA",
+            "global_code" : "86MGC99F+66"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

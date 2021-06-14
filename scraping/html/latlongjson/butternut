@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "380",
+               "short_name" : "380",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State Road",
+               "short_name" : "State Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Great Barrington",
+               "short_name" : "Great Barrington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berkshire County",
+               "short_name" : "Berkshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01230",
+               "short_name" : "01230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "380 State Rd, Great Barrington, MA 01230, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.183659,
+               "lng" : -73.3201325
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1850079802915,
+                  "lng" : -73.31878351970849
+               },
+               "southwest" : {
+                  "lat" : 42.1823100197085,
+                  "lng" : -73.3214814802915
+               }
+            }
+         },
+         "place_id" : "ChIJrR7E_5pn54kRPOM8QmNOkvU",
+         "plus_code" : {
+            "compound_code" : "5MMH+FW Great Barrington, MA, USA",
+            "global_code" : "87J85MMH+FW"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

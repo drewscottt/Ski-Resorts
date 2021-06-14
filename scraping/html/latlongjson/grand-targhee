@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3300",
+               "short_name" : "3300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ski Hill Road",
+               "short_name" : "Ski Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83414",
+               "short_name" : "83414",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3300 Ski Hill Rd, Alta, WY 83414, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7888327,
+               "lng" : -110.9579337
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7901816802915,
+                  "lng" : -110.9565847197085
+               },
+               "southwest" : {
+                  "lat" : 43.7874837197085,
+                  "lng" : -110.9592826802915
+               }
+            }
+         },
+         "place_id" : "ChIJV18CjmClU1MRZBG8zk1Or9A",
+         "plus_code" : {
+            "compound_code" : "Q2QR+GR Alta, WY, USA",
+            "global_code" : "85MFQ2QR+GR"
+         },
+         "types" : [
+            "bicycle_store",
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

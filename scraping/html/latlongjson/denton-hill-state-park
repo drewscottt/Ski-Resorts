@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denton Hill State Park",
+               "short_name" : "Denton Hill State Park",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "U.S. 6",
+               "short_name" : "US-6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ulysses",
+               "short_name" : "Ulysses",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ulysses Township",
+               "short_name" : "Ulysses Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Potter County",
+               "short_name" : "Potter County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16948",
+               "short_name" : "16948",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Denton Hill State Park, US-6, Ulysses, PA 16948, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7685761,
+               "lng" : -77.8338693
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7699250802915,
+                  "lng" : -77.83252031970849
+               },
+               "southwest" : {
+                  "lat" : 41.7672271197085,
+                  "lng" : -77.83521828029151
+               }
+            }
+         },
+         "place_id" : "ChIJ9z6wWN4FzokRLslPvpMWbYw",
+         "plus_code" : {
+            "compound_code" : "Q598+CF Ulysses, PA, USA",
+            "global_code" : "87H4Q598+CF"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

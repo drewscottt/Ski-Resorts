@@ -1,0 +1,137 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6600",
+               "short_name" : "6600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Peller Avenue South",
+               "short_name" : "Peller Ave S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denmark Township",
+               "short_name" : "Denmark Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55033",
+               "short_name" : "55033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6600 Peller Ave S, Hastings, MN 55033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8576608,
+               "lng" : -92.78780619999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8590097802915,
+                  "lng" : -92.78645721970848
+               },
+               "southwest" : {
+                  "lat" : 44.8563118197085,
+                  "lng" : -92.78915518029149
+               }
+            }
+         },
+         "place_id" : "ChIJ7eyXVVHB94cRCgKdptJ7eb8",
+         "plus_code" : {
+            "compound_code" : "V656+3V Hastings, MN, USA",
+            "global_code" : "86P9V656+3V"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6800",
+               "short_name" : "6800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Peller Avenue South",
+               "short_name" : "Peller Ave S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denmark Township",
+               "short_name" : "Denmark Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55033",
+               "short_name" : "55033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6800 Peller Ave S, Hastings, MN 55033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8505919,
+               "lng" : -92.78752569999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8519408802915,
+                  "lng" : -92.78617671970848
+               },
+               "southwest" : {
+                  "lat" : 44.8492429197085,
+                  "lng" : -92.78887468029149
+               }
+            }
+         },
+         "place_id" : "ChIJbcaW3Xnd94cRy8VkZM5n91Q",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

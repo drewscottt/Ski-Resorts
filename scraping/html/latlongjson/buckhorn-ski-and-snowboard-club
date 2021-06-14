@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angeles Crest Highway",
+               "short_name" : "Angeles Crest Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pearblossom",
+               "short_name" : "Pearblossom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93553",
+               "short_name" : "93553",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "58.33 mile marker Angeles National Forest, Angeles Crest Hwy, Pearblossom, CA 93553, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.341899,
+               "lng" : -117.919709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.34324798029149,
+                  "lng" : -117.9183600197085
+               },
+               "southwest" : {
+                  "lat" : 34.3405500197085,
+                  "lng" : -117.9210579802915
+               }
+            }
+         },
+         "place_id" : "ChIJ01tZoxwew4ARpugaT_qsnbk",
+         "plus_code" : {
+            "compound_code" : "83RJ+Q4 Pearblossom, CA, USA",
+            "global_code" : "856483RJ+Q4"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

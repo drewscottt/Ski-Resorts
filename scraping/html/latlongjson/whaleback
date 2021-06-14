@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Whaleback Mountain Road",
+               "short_name" : "Whaleback Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03748",
+               "short_name" : "03748",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4222",
+               "short_name" : "4222",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "160 Whaleback Mountain Rd, Enfield, NH 03748, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.601705,
+               "lng" : -72.18026499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6030539802915,
+                  "lng" : -72.17891601970848
+               },
+               "southwest" : {
+                  "lat" : 43.6003560197085,
+                  "lng" : -72.1816139802915
+               }
+            }
+         },
+         "place_id" : "ChIJ11bbuCaztEwRDbD9C9EsHd0",
+         "plus_code" : {
+            "compound_code" : "JR29+MV Enfield, NH, USA",
+            "global_code" : "87M9JR29+MV"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

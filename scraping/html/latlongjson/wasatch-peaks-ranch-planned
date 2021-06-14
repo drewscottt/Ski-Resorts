@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wasatch Range",
+               "short_name" : "Wasatch Range",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wasatch Range, United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6520449,
+                  "lng" : -110.9418839
+               },
+               "southwest" : {
+                  "lat" : 39.2653873,
+                  "lng" : -111.9938857
+               }
+            },
+            "location" : {
+               "lat" : 41.2816391,
+               "lng" : -111.5116469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6520449,
+                  "lng" : -110.9418839
+               },
+               "southwest" : {
+                  "lat" : 39.2653873,
+                  "lng" : -111.9938857
+               }
+            }
+         },
+         "place_id" : "ChIJ47YEolVTTIcRsoVbDYgzhX4",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

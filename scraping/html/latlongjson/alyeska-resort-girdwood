@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alyeska Resort & Hotel Alyeska",
+               "short_name" : "Alyeska Resort & Hotel Alyeska",
+               "types" : [ "establishment", "lodging", "park", "point_of_interest", "spa" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arlberg Avenue",
+               "short_name" : "Arlberg Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Girdwood",
+               "short_name" : "Girdwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Anchorage",
+               "short_name" : "Anchorage",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anchorage",
+               "short_name" : "Anchorage",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99587",
+               "short_name" : "99587",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alyeska Resort & Hotel Alyeska, 1000 Arlberg Ave, Girdwood, AK 99587, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.9704373,
+               "lng" : -149.0985114
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.97178628029151,
+                  "lng" : -149.0971624197085
+               },
+               "southwest" : {
+                  "lat" : 60.9690883197085,
+                  "lng" : -149.0998603802915
+               }
+            }
+         },
+         "place_id" : "ChIJmzNMTsxkyFYROxKD3uZQ8ks",
+         "plus_code" : {
+            "compound_code" : "XWC2+5H Girdwood, Anchorage, AK, USA",
+            "global_code" : "93GGXWC2+5H"
+         },
+         "types" : [ "establishment", "lodging", "park", "point_of_interest", "spa" ]
+      }
+   ],
+   "status" : "OK"
+}

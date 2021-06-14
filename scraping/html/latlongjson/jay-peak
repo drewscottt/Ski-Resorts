@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "830",
+               "short_name" : "830",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jay Peak Road",
+               "short_name" : "Jay Peak Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jay",
+               "short_name" : "Jay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans County",
+               "short_name" : "Orleans County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05859",
+               "short_name" : "05859",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "830 Jay Peak Rd, Jay, VT 05859, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9379013,
+               "lng" : -72.5047723
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9392502802915,
+                  "lng" : -72.5034233197085
+               },
+               "southwest" : {
+                  "lat" : 44.9365523197085,
+                  "lng" : -72.50612128029151
+               }
+            }
+         },
+         "place_id" : "ChIJCV2fXC8PtkwRE0S_WO0Ctms",
+         "plus_code" : {
+            "compound_code" : "WFQW+53 Jay, VT, USA",
+            "global_code" : "87P9WFQW+53"
+         },
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "lodging",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

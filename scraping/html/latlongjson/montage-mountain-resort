@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Montage Mountain Road",
+               "short_name" : "Montage Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scranton",
+               "short_name" : "Scranton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lackawanna County",
+               "short_name" : "Lackawanna County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18507",
+               "short_name" : "18507",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1000 Montage Mountain Rd, Scranton, PA 18507, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3512429,
+               "lng" : -75.6629169
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3525918802915,
+                  "lng" : -75.66156791970849
+               },
+               "southwest" : {
+                  "lat" : 41.3498939197085,
+                  "lng" : -75.66426588029151
+               }
+            }
+         },
+         "place_id" : "ChIJw77JqzbexIkRMUjdoQyPEKE",
+         "plus_code" : {
+            "compound_code" : "982P+FR Scranton, PA, USA",
+            "global_code" : "87H6982P+FR"
+         },
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

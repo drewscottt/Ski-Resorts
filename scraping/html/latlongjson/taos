@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taos Ski Valley",
+               "short_name" : "Taos Ski Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taos County",
+               "short_name" : "Taos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87525",
+               "short_name" : "87525",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taos Ski Valley, NM 87525, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.611905,
+                  "lng" : -105.423554
+               },
+               "southwest" : {
+                  "lat" : 36.5727811,
+                  "lng" : -105.4836871
+               }
+            },
+            "location" : {
+               "lat" : 36.5959999,
+               "lng" : -105.4545
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.611905,
+                  "lng" : -105.423554
+               },
+               "southwest" : {
+                  "lat" : 36.5727811,
+                  "lng" : -105.4836871
+               }
+            }
+         },
+         "place_id" : "ChIJWRshNv5qF4cRhTlikYISGck",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

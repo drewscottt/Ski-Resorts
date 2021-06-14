@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2850",
+               "short_name" : "2850",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 89",
+               "short_name" : "US-89",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neihart",
+               "short_name" : "Neihart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meagher County",
+               "short_name" : "Meagher County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59465",
+               "short_name" : "59465",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2850 US-89, Neihart, MT 59465, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8383601,
+               "lng" : -110.7004838
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.83970908029149,
+                  "lng" : -110.6991348197085
+               },
+               "southwest" : {
+                  "lat" : 46.8370111197085,
+                  "lng" : -110.7018327802915
+               }
+            }
+         },
+         "place_id" : "ChIJB2AYe-vxQ1MR3yi8a_6ffls",
+         "plus_code" : {
+            "compound_code" : "R7QX+8R Neihart, MT, USA",
+            "global_code" : "85RFR7QX+8R"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

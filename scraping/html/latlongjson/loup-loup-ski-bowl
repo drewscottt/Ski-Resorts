@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97",
+               "short_name" : "97",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fs 4200100 Road",
+               "short_name" : "Fs 4200100 Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Okanogan",
+               "short_name" : "Okanogan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okanogan County",
+               "short_name" : "Okanogan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98840",
+               "short_name" : "98840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "97 Fs 4200100 Rd, Okanogan, WA 98840, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.3943616,
+               "lng" : -119.91097
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3957105802915,
+                  "lng" : -119.9096210197085
+               },
+               "southwest" : {
+                  "lat" : 48.3930126197085,
+                  "lng" : -119.9123189802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_____49dnFQRAXRV5sgYUFM",
+         "plus_code" : {
+            "compound_code" : "93VQ+PJ Okanogan, WA, USA",
+            "global_code" : "85W293VQ+PJ"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Berwick",
+               "short_name" : "South Berwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03908",
+               "short_name" : "03908",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Berwick, ME 03908, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.23728939999999,
+               "lng" : -70.80199429999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2386383802915,
+                  "lng" : -70.80064531970848
+               },
+               "southwest" : {
+                  "lat" : 43.2359404197085,
+                  "lng" : -70.8033432802915
+               }
+            }
+         },
+         "place_id" : "ChIJUYaGMJqi4okRSiWQRgfvHBM",
+         "plus_code" : {
+            "compound_code" : "65PX+W6 South Berwick, ME, USA",
+            "global_code" : "87MF65PX+W6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "390",
+               "short_name" : "390",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pine Hill Road",
+               "short_name" : "Pine Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wolfeboro",
+               "short_name" : "Wolfeboro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carroll County",
+               "short_name" : "Carroll County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03894",
+               "short_name" : "03894",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "390 Pine Hill Rd, Wolfeboro, NH 03894, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6102066,
+               "lng" : -71.2300109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61155558029149,
+                  "lng" : -71.22866191970849
+               },
+               "southwest" : {
+                  "lat" : 43.6088576197085,
+                  "lng" : -71.23135988029149
+               }
+            }
+         },
+         "place_id" : "ChIJfT74KQgls0wRi2FhrILqpho",
+         "plus_code" : {
+            "compound_code" : "JQ69+3X Wolfeboro, NH, USA",
+            "global_code" : "87MCJQ69+3X"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

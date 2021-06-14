@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highland Road",
+               "short_name" : "Highland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harbor Springs",
+               "short_name" : "Harbor Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pleasantview Township",
+               "short_name" : "Pleasantview Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Emmet County",
+               "short_name" : "Emmet County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49740",
+               "short_name" : "49740",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "600 Highland Rd, Harbor Springs, MI 49740, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.4647239,
+               "lng" : -84.926535
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.46607288029149,
+                  "lng" : -84.92518601970849
+               },
+               "southwest" : {
+                  "lat" : 45.46337491970849,
+                  "lng" : -84.9278839802915
+               }
+            }
+         },
+         "place_id" : "ChIJIdFIukeHSk0R1ANGoqXkdLY",
+         "plus_code" : {
+            "compound_code" : "F37F+V9 Harbor Springs, MI, USA",
+            "global_code" : "86QQF37F+V9"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "spa", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

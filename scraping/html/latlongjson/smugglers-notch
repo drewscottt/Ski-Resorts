@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4323",
+               "short_name" : "4323",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vermont 108",
+               "short_name" : "VT-108",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jeffersonville",
+               "short_name" : "Jeffersonville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lamoille County",
+               "short_name" : "Lamoille County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05464",
+               "short_name" : "05464",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4323 VT-108, Jeffersonville, VT 05464, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5884605,
+               "lng" : -72.7899944
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.58980948029151,
+                  "lng" : -72.78864541970849
+               },
+               "southwest" : {
+                  "lat" : 44.58711151970851,
+                  "lng" : -72.79134338029149
+               }
+            }
+         },
+         "place_id" : "ChIJ05uqxVKNtUwRoyzvboa802c",
+         "plus_code" : {
+            "compound_code" : "H6Q6+92 Jeffersonville, Cambridge, VT, USA",
+            "global_code" : "87P9H6Q6+92"
+         },
+         "types" : [ "amusement_park", "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

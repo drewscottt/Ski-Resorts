@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "244",
+               "short_name" : "244",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Forest Service Road",
+               "short_name" : "Forest Service Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shell",
+               "short_name" : "Shell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Big Horn County",
+               "short_name" : "Big Horn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82441",
+               "short_name" : "82441",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28 Forest Service Rd #244, Shell, WY 82441, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.6124452,
+               "lng" : -107.5145248
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6137941802915,
+                  "lng" : -107.5131758197085
+               },
+               "southwest" : {
+                  "lat" : 44.6110962197085,
+                  "lng" : -107.5158737802915
+               }
+            }
+         },
+         "place_id" : "ChIJORnibIY-SlMRMCjCDn1Zy_I",
+         "plus_code" : {
+            "compound_code" : "JF6P+X5 Shell, WY, USA",
+            "global_code" : "85PJJF6P+X5"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

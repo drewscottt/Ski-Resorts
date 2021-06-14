@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "N Fork Teton Rd",
+               "short_name" : "N Fork Teton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Choteau",
+               "short_name" : "Choteau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59422",
+               "short_name" : "59422",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "N Fork Teton Rd, Choteau, MT 59422, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.9298126,
+               "lng" : -112.8109541
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.93116158029149,
+                  "lng" : -112.8096051197085
+               },
+               "southwest" : {
+                  "lat" : 47.9284636197085,
+                  "lng" : -112.8123030802915
+               }
+            }
+         },
+         "place_id" : "ChIJVVVVVZKBQlMRom8Vu0-MjTE",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

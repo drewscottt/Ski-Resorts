@@ -1,0 +1,81 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8700",
+               "short_name" : "8700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Chestnut Mountain Road",
+               "short_name" : "W Chestnut Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Galena",
+               "short_name" : "Galena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rice Township",
+               "short_name" : "Rice Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jo Daviess County",
+               "short_name" : "Jo Daviess County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61036",
+               "short_name" : "61036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8700 W Chestnut Mountain Rd, Galena, IL 61036, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.319017,
+               "lng" : -90.393793
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.32036598029149,
+                  "lng" : -90.39244401970849
+               },
+               "southwest" : {
+                  "lat" : 42.31766801970849,
+                  "lng" : -90.3951419802915
+               }
+            }
+         },
+         "place_id" : "ChIJU11faqXG4ocR9NUI8Cex8tg",
+         "plus_code" : {
+            "compound_code" : "8J94+JF Galena, IL, USA",
+            "global_code" : "86JF8J94+JF"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

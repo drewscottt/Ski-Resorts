@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thunder Mountain Road",
+               "short_name" : "Thunder Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charlemont",
+               "short_name" : "Charlemont",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01339",
+               "short_name" : "01339",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "66 Thunder Mountain Rd, Charlemont, MA 01339, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.6211485,
+               "lng" : -72.87713500000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.62249748029149,
+                  "lng" : -72.87578601970851
+               },
+               "southwest" : {
+                  "lat" : 42.61979951970849,
+                  "lng" : -72.87848398029152
+               }
+            }
+         },
+         "place_id" : "ChIJfScJ_0DQ4IkRVgkP73FIwF8",
+         "plus_code" : {
+            "compound_code" : "J4CF+F4 Charlemont, MA, USA",
+            "global_code" : "87J9J4CF+F4"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

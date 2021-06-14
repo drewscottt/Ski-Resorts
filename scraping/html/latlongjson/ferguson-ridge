@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joseph",
+               "short_name" : "Joseph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wallowa County",
+               "short_name" : "Wallowa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97846",
+               "short_name" : "97846",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Joseph, OR 97846, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2821717,
+               "lng" : -117.1125734
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2835206802915,
+                  "lng" : -117.1112244197085
+               },
+               "southwest" : {
+                  "lat" : 45.2808227197085,
+                  "lng" : -117.1139223802915
+               }
+            }
+         },
+         "place_id" : "ChIJ9-S3Z6wFpFQRgkYzbrW56fM",
+         "plus_code" : {
+            "compound_code" : "7VJP+VX Joseph, OR, USA",
+            "global_code" : "85Q47VJP+VX"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

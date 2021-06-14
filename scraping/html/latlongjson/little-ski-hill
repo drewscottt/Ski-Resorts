@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3635",
+               "short_name" : "3635",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Idaho 55",
+               "short_name" : "ID-55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "McCall",
+               "short_name" : "McCall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adams County",
+               "short_name" : "Adams County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83638",
+               "short_name" : "83638",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3635 ID-55, McCall, ID 83638, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9301164,
+               "lng" : -116.1624784
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.93146538029149,
+                  "lng" : -116.1611294197085
+               },
+               "southwest" : {
+                  "lat" : 44.9287674197085,
+                  "lng" : -116.1638273802915
+               }
+            }
+         },
+         "place_id" : "ChIJPQvCHGhhplQRwL3zcGJYHm8",
+         "plus_code" : {
+            "compound_code" : "WRJQ+22 McCall, ID, USA",
+            "global_code" : "85P5WRJQ+22"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

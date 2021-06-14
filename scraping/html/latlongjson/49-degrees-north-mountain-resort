@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3311",
+               "short_name" : "3311",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Flowery Trail Road",
+               "short_name" : "Flowery Trail Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chewelah",
+               "short_name" : "Chewelah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stevens County",
+               "short_name" : "Stevens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99109",
+               "short_name" : "99109",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5001",
+               "short_name" : "5001",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3311 Flowery Trail Rd, Chewelah, WA 99109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.3010972,
+               "lng" : -117.5629161
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3024461802915,
+                  "lng" : -117.5615671197085
+               },
+               "southwest" : {
+                  "lat" : 48.2997482197085,
+                  "lng" : -117.5642650802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1eQ12RRtYlMRJZGpXHthrXk",
+         "plus_code" : {
+            "compound_code" : "8C2P+CR Chewelah, WA, USA",
+            "global_code" : "85W48C2P+CR"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

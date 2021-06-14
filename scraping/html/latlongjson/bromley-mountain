@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bromley Mountain",
+               "short_name" : "Bromley Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "Peru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bennington County",
+               "short_name" : "Bennington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05152",
+               "short_name" : "05152",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bromley Mountain, Peru, VT 05152, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2278531,
+               "lng" : -72.9387126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2359827,
+                  "lng" : -72.9227052
+               },
+               "southwest" : {
+                  "lat" : 43.21972239999999,
+                  "lng" : -72.95471999999999
+               }
+            }
+         },
+         "place_id" : "ChIJeTsFQPla4IkRbuD9ZHZc0Og",
+         "types" : [ "establishment", "natural_feature" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3984",
+               "short_name" : "3984",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vermont 11",
+               "short_name" : "VT-11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "Peru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bennington County",
+               "short_name" : "Bennington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05152",
+               "short_name" : "05152",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9708",
+               "short_name" : "9708",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3984 VT-11, Peru, VT 05152, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2135167,
+               "lng" : -72.93488760000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2148656802915,
+                  "lng" : -72.93353861970851
+               },
+               "southwest" : {
+                  "lat" : 43.2121677197085,
+                  "lng" : -72.93623658029152
+               }
+            }
+         },
+         "place_id" : "ChIJBe6QUJ1a4IkR1iZx7WRuPzs",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

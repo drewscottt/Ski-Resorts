@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "0",
+               "short_name" : "0",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mullan",
+               "short_name" : "Mullan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shoshone County",
+               "short_name" : "Shoshone County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83846",
+               "short_name" : "83846",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "I-90 Exit, 0, Mullan, ID 83846, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.45602400000001,
+               "lng" : -115.6972519
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.45737298029151,
+                  "lng" : -115.6959029197085
+               },
+               "southwest" : {
+                  "lat" : 47.45467501970851,
+                  "lng" : -115.6986008802915
+               }
+            }
+         },
+         "place_id" : "ChIJ96mFVLT2YFMR57J2rb8ckeI",
+         "plus_code" : {
+            "compound_code" : "F843+C3 Mullan, ID, USA",
+            "global_code" : "85V6F843+C3"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

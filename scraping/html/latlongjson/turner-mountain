@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pipe Creek Road",
+               "short_name" : "Pipe Creek Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Libby",
+               "short_name" : "Libby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln County",
+               "short_name" : "Lincoln County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59923",
+               "short_name" : "59923",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pipe Creek Rd, Libby, MT 59923, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.6049563,
+               "lng" : -115.6308061
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.60630528029149,
+                  "lng" : -115.6294571197085
+               },
+               "southwest" : {
+                  "lat" : 48.60360731970849,
+                  "lng" : -115.6321550802915
+               }
+            }
+         },
+         "place_id" : "ChIJW26OKRCpZlMR2-B-JXTGITo",
+         "plus_code" : {
+            "compound_code" : "J939+XM Libby, MT, USA",
+            "global_code" : "85W6J939+XM"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

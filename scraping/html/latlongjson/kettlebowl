@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6875",
+               "short_name" : "6875",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wisconsin 52",
+               "short_name" : "WI-52",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Lake",
+               "short_name" : "White Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Langlade",
+               "short_name" : "Langlade",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Langlade County",
+               "short_name" : "Langlade County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54491",
+               "short_name" : "54491",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6875 WI-52, White Lake, WI 54491, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.2720603,
+               "lng" : -88.90002439999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2734092802915,
+                  "lng" : -88.89867541970848
+               },
+               "southwest" : {
+                  "lat" : 45.2707113197085,
+                  "lng" : -88.90137338029149
+               }
+            }
+         },
+         "place_id" : "ChIJs1HPEvKiVE0RYcLhlD69fz8",
+         "plus_code" : {
+            "compound_code" : "73CX+RX White Lake, WI, USA",
+            "global_code" : "86QH73CX+RX"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

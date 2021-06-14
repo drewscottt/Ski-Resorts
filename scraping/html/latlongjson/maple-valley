@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3219",
+               "short_name" : "3219",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West River Road",
+               "short_name" : "W River Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dummerston",
+               "short_name" : "Dummerston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windham County",
+               "short_name" : "Windham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05301",
+               "short_name" : "05301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3219 W River Rd, Dummerston, VT 05301, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.944772,
+               "lng" : -72.6180129
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9461209802915,
+                  "lng" : -72.61666391970849
+               },
+               "southwest" : {
+                  "lat" : 42.9434230197085,
+                  "lng" : -72.61936188029151
+               }
+            }
+         },
+         "place_id" : "ChIJtxoxYH4D4YkRePGP5x-kfGw",
+         "plus_code" : {
+            "compound_code" : "W9VJ+WQ Dummerston, VT, USA",
+            "global_code" : "87J9W9VJ+WQ"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

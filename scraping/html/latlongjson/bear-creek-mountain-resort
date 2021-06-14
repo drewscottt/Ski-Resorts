@@ -1,0 +1,152 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macungie",
+               "short_name" : "Macungie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Longswamp Township",
+               "short_name" : "Longswamp Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Berks County",
+               "short_name" : "Berks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18062",
+               "short_name" : "18062",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Macungie, PA 18062, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4761474,
+               "lng" : -75.6257433
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.47749638029149,
+                  "lng" : -75.62439431970849
+               },
+               "southwest" : {
+                  "lat" : 40.47479841970849,
+                  "lng" : -75.62709228029151
+               }
+            }
+         },
+         "place_id" : "ChIJPeTb2h4sxIkR9-AbbZz1_CU",
+         "plus_code" : {
+            "compound_code" : "F9GF+FP Macungie, PA, USA",
+            "global_code" : "87G6F9GF+FP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bear Creek Mountain Resort",
+               "short_name" : "Bear Creek Mountain Resort",
+               "types" : [
+                  "beauty_salon",
+                  "establishment",
+                  "food",
+                  "hair_care",
+                  "lodging",
+                  "park",
+                  "point_of_interest",
+                  "restaurant",
+                  "spa"
+               ]
+            },
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Doe Mountain Lane",
+               "short_name" : "Doe Mountain Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Macungie",
+               "short_name" : "Macungie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Longswamp Township",
+               "short_name" : "Longswamp Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Berks County",
+               "short_name" : "Berks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18062",
+               "short_name" : "18062",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bear Creek Mountain Resort, 101 Doe Mountain Ln, Macungie, PA 18062, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4796756,
+               "lng" : -75.6216263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4810245802915,
+                  "lng" : -75.62027731970849
+               },
+               "southwest" : {
+                  "lat" : 40.4783266197085,
+                  "lng" : -75.62297528029151
+               }
+            }
+         },
+         "place_id" : "ChIJQ_RA4p8uxIkR2IvZsX0dWGg",
+         "types" : [
+            "beauty_salon",
+            "establishment",
+            "food",
+            "hair_care",
+            "lodging",
+            "park",
+            "point_of_interest",
+            "restaurant",
+            "spa"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

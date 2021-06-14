@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jay",
+               "short_name" : "Jay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04239",
+               "short_name" : "04239",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ski Slope Road,, Jay, ME 04239, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4778522,
+               "lng" : -70.2023142
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4792011802915,
+                  "lng" : -70.20096521970851
+               },
+               "southwest" : {
+                  "lat" : 44.4765032197085,
+                  "lng" : -70.20366318029151
+               }
+            }
+         },
+         "place_id" : "ChIJ0xLkzDuIsUwRITK7XIzsv1E",
+         "plus_code" : {
+            "compound_code" : "FQHX+43 Jay, ME, USA",
+            "global_code" : "87PFFQHX+43"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#404",
+               "short_name" : "#404",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "6955",
+               "short_name" : "6955",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South York Street",
+               "short_name" : "S York St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centennial",
+               "short_name" : "Centennial",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arapahoe County",
+               "short_name" : "Arapahoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80122",
+               "short_name" : "80122",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3277",
+               "short_name" : "3277",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "6955 S York St #404, Centennial, CO 80122, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.5909701,
+               "lng" : -104.9626797
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5923190802915,
+                  "lng" : -104.9613307197085
+               },
+               "southwest" : {
+                  "lat" : 39.5896211197085,
+                  "lng" : -104.9640286802915
+               }
+            }
+         },
+         "place_id" : "ChIJ_aWDp0KBbIcR_NdfstEFGI8",
+         "plus_code" : {
+            "compound_code" : "H2RP+9W Centennial, CO, USA",
+            "global_code" : "85FQH2RP+9W"
+         },
+         "types" : [ "bar", "cafe", "establishment", "food", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

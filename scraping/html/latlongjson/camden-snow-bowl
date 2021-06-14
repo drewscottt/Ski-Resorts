@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Camden Snow Bowl",
+               "short_name" : "The Camden Snow Bowl",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barnestown Road",
+               "short_name" : "Barnestown Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Camden",
+               "short_name" : "Camden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Camden",
+               "short_name" : "Camden",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Knox County",
+               "short_name" : "Knox County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04843",
+               "short_name" : "04843",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Camden Snow Bowl, 20 Barnestown Rd, Camden, ME 04843, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.2172685,
+               "lng" : -69.13465339999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2186174802915,
+                  "lng" : -69.13330441970849
+               },
+               "southwest" : {
+                  "lat" : 44.2159195197085,
+                  "lng" : -69.1360023802915
+               }
+            }
+         },
+         "place_id" : "ChIJ4XgDy7rZrUwRTbZIf58LZqM",
+         "plus_code" : {
+            "compound_code" : "6V88+W4 Camden, ME, USA",
+            "global_code" : "87PG6V88+W4"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "296",
+               "short_name" : "296",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Marsh Hill Road",
+               "short_name" : "Marsh Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "McHenry",
+               "short_name" : "McHenry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Garrett County",
+               "short_name" : "Garrett County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21541",
+               "short_name" : "21541",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1402",
+               "short_name" : "1402",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "296 Marsh Hill Rd, McHenry, MD 21541, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.5568677,
+               "lng" : -79.3634466
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.55821668029149,
+                  "lng" : -79.36209761970849
+               },
+               "southwest" : {
+                  "lat" : 39.55551871970849,
+                  "lng" : -79.3647955802915
+               }
+            }
+         },
+         "place_id" : "ChIJlUW6K0GryokRtoGLdHbHdac",
+         "plus_code" : {
+            "compound_code" : "HJ4P+PJ McHenry, MD, USA",
+            "global_code" : "87F2HJ4P+PJ"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

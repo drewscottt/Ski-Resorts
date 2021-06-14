@@ -1,0 +1,144 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ski Hill",
+               "short_name" : "Ski Hill",
+               "types" : [ "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "725",
+               "short_name" : "725",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Granlibakken Road",
+               "short_name" : "Granlibakken Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tahoe City",
+               "short_name" : "Tahoe City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96145",
+               "short_name" : "96145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ski Hill, 725 Granlibakken Rd, Tahoe City, CA 96145, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.154016,
+               "lng" : -120.154789
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.15536498029149,
+                  "lng" : -120.1534400197085
+               },
+               "southwest" : {
+                  "lat" : 39.1526670197085,
+                  "lng" : -120.1561379802915
+               }
+            }
+         },
+         "place_id" : "ChIJxw5jo4h9mYARtMf2dzs3wzA",
+         "plus_code" : {
+            "compound_code" : "5R3W+J3 Tahoe City, CA, USA",
+            "global_code" : "84FX5R3W+J3"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "725",
+               "short_name" : "725",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Granlibakken Road",
+               "short_name" : "Granlibakken Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tahoe City",
+               "short_name" : "Tahoe City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96145",
+               "short_name" : "96145",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6329",
+               "short_name" : "6329",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "725 Granlibakken Rd, Tahoe City, CA 96145, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1561613,
+               "lng" : -120.1543791
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1575102802915,
+                  "lng" : -120.1530301197085
+               },
+               "southwest" : {
+                  "lat" : 39.1548123197085,
+                  "lng" : -120.1557280802915
+               }
+            }
+         },
+         "place_id" : "ChIJUUSgLIZ9mYARTjLjwd8wI74",
+         "types" : [ "establishment", "health", "lodging", "point_of_interest", "spa" ]
+      }
+   ],
+   "status" : "OK"
+}

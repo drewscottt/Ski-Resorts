@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "192",
+               "short_name" : "192",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Karl Hope Boulevard",
+               "short_name" : "Karl Hope Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lackawaxen",
+               "short_name" : "Lackawaxen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lackawaxen Township",
+               "short_name" : "Lackawaxen Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pike County",
+               "short_name" : "Pike County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18435",
+               "short_name" : "18435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "192 Karl Hope Blvd, Lackawaxen, PA 18435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5232598,
+               "lng" : -75.02506260000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5246087802915,
+                  "lng" : -75.02371361970852
+               },
+               "southwest" : {
+                  "lat" : 41.5219108197085,
+                  "lng" : -75.02641158029152
+               }
+            }
+         },
+         "place_id" : "ChIJSRUZuOqrxIkRxuC6qWVCUME",
+         "plus_code" : {
+            "compound_code" : "GXFF+8X Lackawaxen, PA, USA",
+            "global_code" : "87H6GXFF+8X"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

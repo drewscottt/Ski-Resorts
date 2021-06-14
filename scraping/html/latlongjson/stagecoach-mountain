@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stateline",
+               "short_name" : "Stateline",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89449",
+               "short_name" : "89449",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stateline, NV 89449, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9605436,
+               "lng" : -119.8870561
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9618925802915,
+                  "lng" : -119.8857071197085
+               },
+               "southwest" : {
+                  "lat" : 38.95919461970851,
+                  "lng" : -119.8884050802915
+               }
+            }
+         },
+         "place_id" : "ChIJV5uvoCGRmYAR0G5sXlBUR6s",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

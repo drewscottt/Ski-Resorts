@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Kent",
+               "short_name" : "Fort Kent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aroostook County",
+               "short_name" : "Aroostook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04743",
+               "short_name" : "04743",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lonesome Pine Trls , Fort Kent, ME 04743, Fort Kent, ME 04743, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.2460499,
+               "lng" : -68.59446299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.24739888029149,
+                  "lng" : -68.59311401970849
+               },
+               "southwest" : {
+                  "lat" : 47.24470091970849,
+                  "lng" : -68.5958119802915
+               }
+            }
+         },
+         "place_id" : "ChIJWyphp6pXvEwRK-Oukhu-f-A",
+         "plus_code" : {
+            "compound_code" : "6CW4+C6 Fort Kent, ME, USA",
+            "global_code" : "87VH6CW4+C6"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

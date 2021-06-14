@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5780",
+               "short_name" : "5780",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shanty Creek Road",
+               "short_name" : "Shanty Creek Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bellaire",
+               "short_name" : "Bellaire",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kearney Township",
+               "short_name" : "Kearney Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Antrim County",
+               "short_name" : "Antrim County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49615",
+               "short_name" : "49615",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5780 Shanty Creek Rd, Bellaire, MI 49615, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9492564,
+               "lng" : -85.18527419999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9506053802915,
+                  "lng" : -85.18392521970848
+               },
+               "southwest" : {
+                  "lat" : 44.9479074197085,
+                  "lng" : -85.18662318029149
+               }
+            }
+         },
+         "place_id" : "ChIJM9o59Ha0Sk0R8gDBhhhT908",
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

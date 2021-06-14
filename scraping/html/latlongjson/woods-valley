@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9100",
+               "short_name" : "9100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New York 46",
+               "short_name" : "NY-46",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westernville",
+               "short_name" : "Westernville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western",
+               "short_name" : "Western",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oneida County",
+               "short_name" : "Oneida County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13486",
+               "short_name" : "13486",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9100 NY-46, Westernville, NY 13486, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3020553,
+               "lng" : -75.38244619999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3034042802915,
+                  "lng" : -75.38109721970848
+               },
+               "southwest" : {
+                  "lat" : 43.3007063197085,
+                  "lng" : -75.3837951802915
+               }
+            }
+         },
+         "place_id" : "ChIJb0Rk4oIX2YkRGLH_qPWpW1U",
+         "plus_code" : {
+            "compound_code" : "8J29+R2 Westernville, NY, USA",
+            "global_code" : "87M68J29+R2"
+         },
+         "types" : [ "bar", "establishment", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

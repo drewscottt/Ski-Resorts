@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4015",
+               "short_name" : "4015",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fish Farm Road",
+               "short_name" : "Fish Farm Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sodus",
+               "short_name" : "Sodus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arcadia",
+               "short_name" : "Arcadia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14551",
+               "short_name" : "14551",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9713",
+               "short_name" : "9713",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "4015 Fish Farm Rd, Sodus, NY 14551, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.15005559999999,
+               "lng" : -77.0657092
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.15140458029149,
+                  "lng" : -77.0643602197085
+               },
+               "southwest" : {
+                  "lat" : 43.1487066197085,
+                  "lng" : -77.06705818029151
+               }
+            }
+         },
+         "place_id" : "ChIJwauTno0u14kRz_kwcupxs3A",
+         "plus_code" : {
+            "compound_code" : "5W2M+2P Sodus, NY, USA",
+            "global_code" : "87M45W2M+2P"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

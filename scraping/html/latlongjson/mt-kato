@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20461",
+               "short_name" : "20461",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "State Highway 66",
+               "short_name" : "State Hwy 66",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mankato",
+               "short_name" : "Mankato",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mankato Township",
+               "short_name" : "Mankato Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Blue Earth County",
+               "short_name" : "Blue Earth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56001",
+               "short_name" : "56001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7328",
+               "short_name" : "7328",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "20461 State Hwy 66, Mankato, MN 56001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1331578,
+               "lng" : -94.0333557
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1345067802915,
+                  "lng" : -94.03200671970849
+               },
+               "southwest" : {
+                  "lat" : 44.1318088197085,
+                  "lng" : -94.0347046802915
+               }
+            }
+         },
+         "place_id" : "ChIJa_NvC_w49IcRetDtkUG8Cqc",
+         "plus_code" : {
+            "compound_code" : "4XM8+7M Mankato, MN, USA",
+            "global_code" : "86P74XM8+7M"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

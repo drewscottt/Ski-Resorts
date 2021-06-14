@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13000",
+               "short_name" : "13000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Century Drive",
+               "short_name" : "SW Century Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bend",
+               "short_name" : "Bend",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deschutes County",
+               "short_name" : "Deschutes County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97702",
+               "short_name" : "97702",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "13000 SW Century Dr, Bend, OR 97702, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0028937,
+               "lng" : -121.6790714
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0042426802915,
+                  "lng" : -121.6777224197085
+               },
+               "southwest" : {
+                  "lat" : 44.00154471970851,
+                  "lng" : -121.6804203802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1wvjjK65uFQR5Uao9AwfHpo",
+         "plus_code" : {
+            "compound_code" : "283C+59 Elk Lake, OR, USA",
+            "global_code" : "84PW283C+59"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

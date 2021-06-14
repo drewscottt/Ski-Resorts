@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powers Bluff County Park & Winter Recreation Area",
+               "short_name" : "Powers Bluff County Park & Winter Recreation Area",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "6990",
+               "short_name" : "6990",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bluff Drive",
+               "short_name" : "Bluff Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Arpin",
+               "short_name" : "Arpin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arpin",
+               "short_name" : "Arpin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wood County",
+               "short_name" : "Wood County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "54410",
+               "short_name" : "54410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Powers Bluff County Park & Winter Recreation Area, 6990 Bluff Dr, Arpin, WI 54410, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.5261709,
+               "lng" : -90.06595729999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5275198802915,
+                  "lng" : -90.06460831970848
+               },
+               "southwest" : {
+                  "lat" : 44.5248219197085,
+                  "lng" : -90.0673062802915
+               }
+            }
+         },
+         "place_id" : "ChIJNzyP2TXX_4cRK9M9xXIs4Jg",
+         "plus_code" : {
+            "compound_code" : "GWGM+FJ Arpin, WI, USA",
+            "global_code" : "86PFGWGM+FJ"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

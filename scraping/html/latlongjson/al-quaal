@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Quaal Recreation Area",
+               "short_name" : "Al Quaal Recreation Area",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "501",
+               "short_name" : "501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Poplar Street",
+               "short_name" : "Poplar St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ishpeming",
+               "short_name" : "Ishpeming",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marquette County",
+               "short_name" : "Marquette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49849",
+               "short_name" : "49849",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Al Quaal Recreation Area, 501 Poplar St, Ishpeming, MI 49849, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5128663,
+               "lng" : -87.6603544
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.51421528029149,
+                  "lng" : -87.65900541970851
+               },
+               "southwest" : {
+                  "lat" : 46.5115173197085,
+                  "lng" : -87.66170338029151
+               }
+            }
+         },
+         "place_id" : "ChIJzbOw0_LBUU0RvMaNmjBs9N0",
+         "plus_code" : {
+            "compound_code" : "G87Q+4V Ishpeming, MI, USA",
+            "global_code" : "86RJG87Q+4V"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

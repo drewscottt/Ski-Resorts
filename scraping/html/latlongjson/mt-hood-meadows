@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14040",
+               "short_name" : "14040",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oregon 35",
+               "short_name" : "OR-35",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Hood",
+               "short_name" : "Mt Hood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hood River County",
+               "short_name" : "Hood River County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97041",
+               "short_name" : "97041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14040 OR-35, Mt Hood, OR 97041, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3317552,
+               "lng" : -121.6651848
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3331041802915,
+                  "lng" : -121.6638358197085
+               },
+               "southwest" : {
+                  "lat" : 45.3304062197085,
+                  "lng" : -121.6665337802915
+               }
+            }
+         },
+         "place_id" : "ChIJLY5Ve_wJlVQR9QTsQh4lAfk",
+         "plus_code" : {
+            "compound_code" : "88JM+PW Mount Hood, OR, USA",
+            "global_code" : "84QW88JM+PW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

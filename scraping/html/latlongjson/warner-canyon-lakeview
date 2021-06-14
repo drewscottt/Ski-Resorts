@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1301",
+               "short_name" : "1301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South G Street",
+               "short_name" : "S G St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lakeview",
+               "short_name" : "Lakeview",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lake County",
+               "short_name" : "Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97630",
+               "short_name" : "97630",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1839",
+               "short_name" : "1839",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "1301 S G St, Lakeview, OR 97630, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.237374,
+               "lng" : -120.2946384
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2387229802915,
+                  "lng" : -120.2932894197085
+               },
+               "southwest" : {
+                  "lat" : 42.2360250197085,
+                  "lng" : -120.2959873802915
+               }
+            }
+         },
+         "place_id" : "ChIJXy6z91eTyVQRQ4rEWa_VU_s",
+         "plus_code" : {
+            "compound_code" : "6PP4+W4 Lakeview, OR, USA",
+            "global_code" : "84JX6PP4+W4"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

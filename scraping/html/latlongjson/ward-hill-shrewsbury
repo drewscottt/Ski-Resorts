@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shrewsbury",
+               "short_name" : "Shrewsbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01545",
+               "short_name" : "01545",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1000 Main St, Shrewsbury, MA 01545, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3014833,
+               "lng" : -71.68297679999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3028322802915,
+                  "lng" : -71.68162781970848
+               },
+               "southwest" : {
+                  "lat" : 42.3001343197085,
+                  "lng" : -71.68432578029149
+               }
+            }
+         },
+         "place_id" : "ChIJ5bIUkuIJ5IkRP4E8nFFli1Y",
+         "plus_code" : {
+            "compound_code" : "8828+HR Shrewsbury, MA, USA",
+            "global_code" : "87JC8828+HR"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

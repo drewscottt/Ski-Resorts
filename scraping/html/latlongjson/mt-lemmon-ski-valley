@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10300",
+               "short_name" : "10300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Ski Run Road",
+               "short_name" : "E Ski Run Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Lemmon",
+               "short_name" : "Mt Lemmon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima County",
+               "short_name" : "Pima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85619",
+               "short_name" : "85619",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10300 E Ski Run Rd, Mt Lemmon, AZ 85619, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.4475,
+               "lng" : -110.7816667
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.44884898029149,
+                  "lng" : -110.7803177197085
+               },
+               "southwest" : {
+                  "lat" : 32.4461510197085,
+                  "lng" : -110.7830156802915
+               }
+            }
+         },
+         "place_id" : "ChIJdW2hATgU1oYRAshnDyh0yZ0",
+         "plus_code" : {
+            "compound_code" : "C6W9+X8 Mount Lemmon, AZ, USA",
+            "global_code" : "854FC6W9+X8"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sugarloaf Mountain",
+               "short_name" : "Sugarloaf Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Alta",
+               "short_name" : "Alta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84092",
+               "short_name" : "84092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sugarloaf Mountain, Alta, UT 84092, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5660624,
+               "lng" : -111.6221444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5745381,
+                  "lng" : -111.606137
+               },
+               "southwest" : {
+                  "lat" : 40.5575856,
+                  "lng" : -111.6381518
+               }
+            }
+         },
+         "place_id" : "ChIJYW6NpdlwUocRX18Hx9yyHFY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

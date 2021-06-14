@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "151",
+               "short_name" : "151",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tenney Mountain Road",
+               "short_name" : "Tenney Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plymouth",
+               "short_name" : "Plymouth",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03264",
+               "short_name" : "03264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "151 Tenney Mountain Rd, Plymouth, NH 03264, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7468228,
+               "lng" : -71.76520189999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.74817178029151,
+                  "lng" : -71.7638529197085
+               },
+               "southwest" : {
+                  "lat" : 43.74547381970851,
+                  "lng" : -71.7665508802915
+               }
+            }
+         },
+         "place_id" : "ChIJseGI5CxZs0wR3I47NM1ZCoI",
+         "plus_code" : {
+            "compound_code" : "P6WM+PW Plymouth, NH, USA",
+            "global_code" : "87MCP6WM+PW"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

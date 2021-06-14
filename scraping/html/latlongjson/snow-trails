@@ -1,0 +1,85 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3100",
+               "short_name" : "3100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Possum Run Road",
+               "short_name" : "Possum Run Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mansfield",
+               "short_name" : "Mansfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington Township",
+               "short_name" : "Washington Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44903",
+               "short_name" : "44903",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7524",
+               "short_name" : "7524",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "3100 Possum Run Rd, Mansfield, OH 44903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.672657,
+               "lng" : -82.5008163
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6740059802915,
+                  "lng" : -82.49946731970849
+               },
+               "southwest" : {
+                  "lat" : 40.6713080197085,
+                  "lng" : -82.50216528029151
+               }
+            }
+         },
+         "place_id" : "ChIJF3pJjwrBOYgRoQZiuEskAss",
+         "plus_code" : {
+            "compound_code" : "MFFX+3M Mansfield, OH, USA",
+            "global_code" : "86GVMFFX+3M"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

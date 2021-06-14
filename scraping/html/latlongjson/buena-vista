@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19600",
+               "short_name" : "19600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Irvine Avenue Northwest",
+               "short_name" : "Irvine Ave NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bemidji",
+               "short_name" : "Bemidji",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turtle Lake Township",
+               "short_name" : "Turtle Lake Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Beltrami County",
+               "short_name" : "Beltrami County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56601",
+               "short_name" : "56601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19600 Irvine Ave NW, Bemidji, MN 56601, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.658021,
+               "lng" : -94.87890700000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6593699802915,
+                  "lng" : -94.87755801970852
+               },
+               "southwest" : {
+                  "lat" : 47.6566720197085,
+                  "lng" : -94.88025598029152
+               }
+            }
+         },
+         "place_id" : "ChIJL4qOsIE1uFIRppj396c4ySw",
+         "plus_code" : {
+            "compound_code" : "M45C+6C Bemidji, MN, USA",
+            "global_code" : "86V7M45C+6C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

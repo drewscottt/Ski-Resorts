@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "610",
+               "short_name" : "610",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bunker Avenue",
+               "short_name" : "Bunker Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kellogg",
+               "short_name" : "Kellogg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shoshone County",
+               "short_name" : "Shoshone County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83837",
+               "short_name" : "83837",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2200",
+               "short_name" : "2200",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "610 Bunker Ave, Kellogg, ID 83837, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.540718,
+               "lng" : -116.133171
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.54206698029149,
+                  "lng" : -116.1318220197085
+               },
+               "southwest" : {
+                  "lat" : 47.5393690197085,
+                  "lng" : -116.1345199802915
+               }
+            }
+         },
+         "place_id" : "ChIJPeQe09hQYFMRRDw4JD1L57k",
+         "plus_code" : {
+            "compound_code" : "GVR8+7P Kellogg, ID, USA",
+            "global_code" : "85V5GVR8+7P"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lost Valley Road",
+               "short_name" : "Lost Valley Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Auburn",
+               "short_name" : "Auburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Androscoggin County",
+               "short_name" : "Androscoggin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04210",
+               "short_name" : "04210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 Lost Valley Rd, Auburn, ME 04210, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1355896,
+               "lng" : -70.28067489999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1369385802915,
+                  "lng" : -70.27932591970848
+               },
+               "southwest" : {
+                  "lat" : 44.1342406197085,
+                  "lng" : -70.28202388029149
+               }
+            }
+         },
+         "place_id" : "ChIJ2yugb2JBskwR4RaJKKBB4Fg",
+         "plus_code" : {
+            "compound_code" : "4PP9+6P Auburn, ME, USA",
+            "global_code" : "87PF4PP9+6P"
+         },
+         "types" : [ "bar", "establishment", "food", "point_of_interest", "restaurant" ]
+      }
+   ],
+   "status" : "OK"
+}

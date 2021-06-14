@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South West Village Circle",
+               "short_name" : "S W Village Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beaver",
+               "short_name" : "Beaver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beaver County",
+               "short_name" : "Beaver County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84713",
+               "short_name" : "84713",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "150 S W Village Cir, Beaver, UT 84713, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.3203245,
+               "lng" : -112.3838562
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3216734802915,
+                  "lng" : -112.3825072197085
+               },
+               "southwest" : {
+                  "lat" : 38.3189755197085,
+                  "lng" : -112.3852051802915
+               }
+            }
+         },
+         "place_id" : "ChIJWbVg8lLaSocRaKpOgcDfBsw",
+         "plus_code" : {
+            "compound_code" : "8JC8+4F Beaver, UT, USA",
+            "global_code" : "85C98JC8+4F"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

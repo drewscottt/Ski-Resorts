@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Mexico 536",
+               "short_name" : "NM-536",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sandia Park",
+               "short_name" : "Sandia Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bernalillo County",
+               "short_name" : "Bernalillo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87047",
+               "short_name" : "87047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "NM-536, Sandia Park, NM 87047, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2070031,
+               "lng" : -106.4134427
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2083520802915,
+                  "lng" : -106.4120937197085
+               },
+               "southwest" : {
+                  "lat" : 35.20565411970851,
+                  "lng" : -106.4147916802915
+               }
+            }
+         },
+         "place_id" : "ChIJo6jS8miZGIcR2lRlZoPjCaE",
+         "plus_code" : {
+            "compound_code" : "6H4P+RJ Sandia Park, NM, USA",
+            "global_code" : "857M6H4P+RJ"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

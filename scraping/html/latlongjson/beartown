@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beartown Road",
+               "short_name" : "Beartown Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Plattsburgh",
+               "short_name" : "Plattsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beekmantown",
+               "short_name" : "Beekmantown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Clinton County",
+               "short_name" : "Clinton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12901",
+               "short_name" : "12901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beartown Rd, Plattsburgh, NY 12901, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.76409570000001,
+               "lng" : -73.5837774
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.76544468029151,
+                  "lng" : -73.58242841970851
+               },
+               "southwest" : {
+                  "lat" : 44.76274671970851,
+                  "lng" : -73.58512638029151
+               }
+            }
+         },
+         "place_id" : "ChIJhdenCfA2ykwRm0rW5wOwCUw",
+         "plus_code" : {
+            "compound_code" : "QC78+JF Plattsburgh, NY, USA",
+            "global_code" : "87P8QC78+JF"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

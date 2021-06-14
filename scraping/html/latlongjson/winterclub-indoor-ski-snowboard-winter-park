@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2950",
+               "short_name" : "2950",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Aloma Avenue",
+               "short_name" : "Aloma Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winter Park",
+               "short_name" : "Winter Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32792",
+               "short_name" : "32792",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2950 Aloma Ave, Winter Park, FL 32792, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6029683,
+               "lng" : -81.3118729
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6043172802915,
+                  "lng" : -81.31052391970849
+               },
+               "southwest" : {
+                  "lat" : 28.6016193197085,
+                  "lng" : -81.31322188029151
+               }
+            }
+         },
+         "place_id" : "ChIJZ1FADJZv54gRqSqTjOBV0oY",
+         "plus_code" : {
+            "compound_code" : "JM3Q+57 Winter Park, FL, USA",
+            "global_code" : "76WWJM3Q+57"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

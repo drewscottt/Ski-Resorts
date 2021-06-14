@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "N2090",
+               "short_name" : "N2090",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Briar Mountain Road",
+               "short_name" : "Briar Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "Norway",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norway Township",
+               "short_name" : "Norway Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dickinson County",
+               "short_name" : "Dickinson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49870",
+               "short_name" : "49870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "N2090 Briar Mountain Rd, Norway, MI 49870, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.789492,
+               "lng" : -87.86985299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7908409802915,
+                  "lng" : -87.8685040197085
+               },
+               "southwest" : {
+                  "lat" : 45.7881430197085,
+                  "lng" : -87.8712019802915
+               }
+            }
+         },
+         "place_id" : "ChIJnRHPGkhEUk0RRuvyPm8Voso",
+         "plus_code" : {
+            "compound_code" : "Q4QJ+Q3 Norway, MI, USA",
+            "global_code" : "86QJQ4QJ+Q3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sundance",
+               "short_name" : "Sundance",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utah County",
+               "short_name" : "Utah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84604",
+               "short_name" : "84604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sundance, UT 84604, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.3934222,
+               "lng" : -111.5887709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4019197,
+                  "lng" : -111.5727635
+               },
+               "southwest" : {
+                  "lat" : 40.3849236,
+                  "lng" : -111.6047783
+               }
+            }
+         },
+         "place_id" : "ChIJmTu725qOTYcRxqvAROEqHsQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

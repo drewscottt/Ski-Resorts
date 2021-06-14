@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Detroit Mountain Recreation Area",
+               "short_name" : "Detroit Mountain Recreation Area",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "29409",
+               "short_name" : "29409",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "170th Street",
+               "short_name" : "170th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Detroit Lakes",
+               "short_name" : "Detroit Lakes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie Township",
+               "short_name" : "Erie Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Becker County",
+               "short_name" : "Becker County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56501",
+               "short_name" : "56501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Detroit Mountain Recreation Area, 29409 170th St, Detroit Lakes, MN 56501, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.8130934,
+               "lng" : -95.78328499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8144423802915,
+                  "lng" : -95.7819360197085
+               },
+               "southwest" : {
+                  "lat" : 46.8117444197085,
+                  "lng" : -95.7846339802915
+               }
+            }
+         },
+         "place_id" : "ChIJHxtSBRdIyFIR8Oo0GeGZ638",
+         "plus_code" : {
+            "compound_code" : "R678+6M Detroit Lakes, MN, USA",
+            "global_code" : "86R6R678+6M"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oglebay Resort",
+               "short_name" : "Oglebay Resort",
+               "types" : [ "establishment", "lodging", "park", "point_of_interest", "spa" ]
+            },
+            {
+               "long_name" : "465",
+               "short_name" : "465",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lodge Drive",
+               "short_name" : "Lodge Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wheeling",
+               "short_name" : "Wheeling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District 1",
+               "short_name" : "District 1",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ohio County",
+               "short_name" : "Ohio County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26003",
+               "short_name" : "26003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oglebay Resort, 465 Lodge Dr, Wheeling, WV 26003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.100667,
+               "lng" : -80.6617655
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1020159802915,
+                  "lng" : -80.66041651970851
+               },
+               "southwest" : {
+                  "lat" : 40.09931801970851,
+                  "lng" : -80.66311448029151
+               }
+            }
+         },
+         "place_id" : "ChIJoUYyCnLQNYgRqn4nT8E41PU",
+         "types" : [ "establishment", "lodging", "park", "point_of_interest", "spa" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "465",
+               "short_name" : "465",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lodge Drive",
+               "short_name" : "Lodge Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wheeling",
+               "short_name" : "Wheeling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District 1",
+               "short_name" : "District 1",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ohio County",
+               "short_name" : "Ohio County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26003",
+               "short_name" : "26003",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1967",
+               "short_name" : "1967",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "465 Lodge Dr, Wheeling, WV 26003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.1047993,
+               "lng" : -80.6593457
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1061482802915,
+                  "lng" : -80.65799671970849
+               },
+               "southwest" : {
+                  "lat" : 40.1034503197085,
+                  "lng" : -80.6606946802915
+               }
+            }
+         },
+         "place_id" : "ChIJxf9RmOPRNYgRIKZBFIQ49d8",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

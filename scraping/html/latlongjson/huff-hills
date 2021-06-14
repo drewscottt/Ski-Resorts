@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5455",
+               "short_name" : "5455",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road 80",
+               "short_name" : "Co Rd 80",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mandan",
+               "short_name" : "Mandan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Morton",
+               "short_name" : "East Morton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Morton County",
+               "short_name" : "Morton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58554",
+               "short_name" : "58554",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5455 Co Rd 80, Mandan, ND 58554, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.627425,
+               "lng" : -100.723214
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6287739802915,
+                  "lng" : -100.7218650197085
+               },
+               "southwest" : {
+                  "lat" : 46.6260760197085,
+                  "lng" : -100.7245629802915
+               }
+            }
+         },
+         "place_id" : "ChIJK4Q6QVGv11IRiJtWqg8vRwc",
+         "plus_code" : {
+            "compound_code" : "J7GG+XP Mandan, ND, USA",
+            "global_code" : "85RXJ7GG+XP"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

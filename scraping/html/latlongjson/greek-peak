@@ -1,0 +1,87 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New York 392",
+               "short_name" : "NY-392",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cortland",
+               "short_name" : "Cortland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virgil",
+               "short_name" : "Virgil",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cortland County",
+               "short_name" : "Cortland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13045",
+               "short_name" : "13045",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9541",
+               "short_name" : "9541",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2000 NY-392, Cortland, NY 13045, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.5082644,
+               "lng" : -76.14544269999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5096133802915,
+                  "lng" : -76.14409371970848
+               },
+               "southwest" : {
+                  "lat" : 42.5069154197085,
+                  "lng" : -76.14679168029149
+               }
+            }
+         },
+         "place_id" : "ChIJ-fbhlfNo2okRwWWpK4hfbKk",
+         "plus_code" : {
+            "compound_code" : "GV53+8R Cortland, NY, USA",
+            "global_code" : "87J5GV53+8R"
+         },
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "restaurant",
+            "spa",
+            "store"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

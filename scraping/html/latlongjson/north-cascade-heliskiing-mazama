@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Early Winters Drive",
+               "short_name" : "Early Winters Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mazama",
+               "short_name" : "Mazama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okanogan County",
+               "short_name" : "Okanogan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98833",
+               "short_name" : "98833",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9704",
+               "short_name" : "9704",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "31 Early Winters Dr, Mazama, WA 98833, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.5963259,
+               "lng" : -120.4426602
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.59767488029149,
+                  "lng" : -120.4413112197085
+               },
+               "southwest" : {
+                  "lat" : 48.5949769197085,
+                  "lng" : -120.4440091802915
+               }
+            }
+         },
+         "place_id" : "ChIJi96_QGhUg1QRMTLwawnFDfM",
+         "plus_code" : {
+            "compound_code" : "HHW4+GW Mazama, WA, USA",
+            "global_code" : "84WXHHW4+GW"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

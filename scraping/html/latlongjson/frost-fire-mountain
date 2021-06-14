@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11950",
+               "short_name" : "11950",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Highway 55",
+               "short_name" : "Co Hwy 55",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Walhalla",
+               "short_name" : "Walhalla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Olga",
+               "short_name" : "North Olga",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cavalier County",
+               "short_name" : "Cavalier County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58282",
+               "short_name" : "58282",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11950 Co Hwy 55, Walhalla, ND 58282, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.9119929,
+               "lng" : -98.0687408
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9133418802915,
+                  "lng" : -98.0673918197085
+               },
+               "southwest" : {
+                  "lat" : 48.9106439197085,
+                  "lng" : -98.07008978029151
+               }
+            }
+         },
+         "place_id" : "ChIJbeqrNnu6w1IRcIMx7rB9laE",
+         "plus_code" : {
+            "compound_code" : "WW6J+QG Walhalla, ND, USA",
+            "global_code" : "86W3WW6J+QG"
+         },
+         "types" : [
+            "bar",
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

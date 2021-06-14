@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dodge Ridge Road",
+               "short_name" : "Dodge Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pinecrest",
+               "short_name" : "Pinecrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuolumne County",
+               "short_name" : "Tuolumne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95364",
+               "short_name" : "95364",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Dodge Ridge Rd, Pinecrest, CA 95364, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1898028,
+               "lng" : -119.9558639
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1911517802915,
+                  "lng" : -119.9545149197085
+               },
+               "southwest" : {
+                  "lat" : 38.1884538197085,
+                  "lng" : -119.9572128802915
+               }
+            }
+         },
+         "place_id" : "ChIJA1QXJQdIl4ARjwT3jstH-Pw",
+         "plus_code" : {
+            "compound_code" : "52QV+WM Pinecrest, CA, USA",
+            "global_code" : "85C252QV+WM"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

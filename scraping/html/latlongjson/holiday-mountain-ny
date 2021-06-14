@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Holiday Mountain Road",
+               "short_name" : "Holiday Mountain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Monticello",
+               "short_name" : "Monticello",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thompson",
+               "short_name" : "Thompson",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sullivan County",
+               "short_name" : "Sullivan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12701",
+               "short_name" : "12701",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3910",
+               "short_name" : "3910",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "99 Holiday Mountain Rd, Monticello, NY 12701, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6295998,
+               "lng" : -74.6147972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6309487802915,
+                  "lng" : -74.61344821970849
+               },
+               "southwest" : {
+                  "lat" : 41.6282508197085,
+                  "lng" : -74.61614618029151
+               }
+            }
+         },
+         "place_id" : "ChIJc-eYs8y33IkR5JFLfK4FiPo",
+         "plus_code" : {
+            "compound_code" : "J9HP+R3 Monticello, NY, USA",
+            "global_code" : "87H7J9HP+R3"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

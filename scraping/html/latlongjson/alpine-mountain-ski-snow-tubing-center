@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "w2501",
+               "short_name" : "w2501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road D",
+               "short_name" : "Co Rd D",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Elkhorn",
+               "short_name" : "Elkhorn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lafayette",
+               "short_name" : "Lafayette",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Walworth County",
+               "short_name" : "Walworth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53121",
+               "short_name" : "53121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "w2501 Co Rd D, Elkhorn, WI 53121, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7358419,
+               "lng" : -88.42802469999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7371908802915,
+                  "lng" : -88.42667571970848
+               },
+               "southwest" : {
+                  "lat" : 42.7344929197085,
+                  "lng" : -88.42937368029149
+               }
+            }
+         },
+         "place_id" : "ChIJnTsLnTORBYgRsNBfwVY8KB4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

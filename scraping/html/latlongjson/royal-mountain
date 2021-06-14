@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3072",
+               "short_name" : "3072",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New York 10",
+               "short_name" : "NY-10",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Johnstown",
+               "short_name" : "Johnstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caroga",
+               "short_name" : "Caroga",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Fulton County",
+               "short_name" : "Fulton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12095",
+               "short_name" : "12095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3072 NY-10, Johnstown, NY 12095, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0813015,
+               "lng" : -74.50481409999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0826504802915,
+                  "lng" : -74.50346511970849
+               },
+               "southwest" : {
+                  "lat" : 43.0799525197085,
+                  "lng" : -74.5061630802915
+               }
+            }
+         },
+         "place_id" : "ChIJnZdD_Dvm3okR3G_30vQ5Yp8",
+         "plus_code" : {
+            "compound_code" : "3FJW+G3 Johnstown, NY, USA",
+            "global_code" : "87M73FJW+G3"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

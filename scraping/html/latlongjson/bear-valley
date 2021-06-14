@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2280",
+               "short_name" : "2280",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California 207",
+               "short_name" : "CA-207",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bear Valley",
+               "short_name" : "Bear Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alpine County",
+               "short_name" : "Alpine County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95223",
+               "short_name" : "95223",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2280 CA-207, Bear Valley, CA 95223, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.4926051,
+               "lng" : -120.0442661
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.49395408029149,
+                  "lng" : -120.0429171197085
+               },
+               "southwest" : {
+                  "lat" : 38.4912561197085,
+                  "lng" : -120.0456150802915
+               }
+            }
+         },
+         "place_id" : "ChIJQx2CRH_9mYARW396O4zifxQ",
+         "plus_code" : {
+            "compound_code" : "FXV4+27 Bear Valley, CA, USA",
+            "global_code" : "84CXFXV4+27"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

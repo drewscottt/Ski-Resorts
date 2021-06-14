@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2275",
+               "short_name" : "2275",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "County Road 24",
+               "short_name" : "Co Rd 24",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Swain",
+               "short_name" : "Swain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grove",
+               "short_name" : "Grove",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Allegany County",
+               "short_name" : "Allegany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14884",
+               "short_name" : "14884",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2275 Co Rd 24, Swain, NY 14884, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.47659840000001,
+               "lng" : -77.85513280000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.47794738029151,
+                  "lng" : -77.85378381970851
+               },
+               "southwest" : {
+                  "lat" : 42.47524941970851,
+                  "lng" : -77.85648178029152
+               }
+            }
+         },
+         "place_id" : "ChIJsZModyOB0YkRRyPAXZP3_hE",
+         "plus_code" : {
+            "compound_code" : "F4GV+JW Swain, NY, USA",
+            "global_code" : "87J4F4GV+JW"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

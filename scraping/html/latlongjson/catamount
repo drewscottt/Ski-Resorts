@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "78",
+               "short_name" : "78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Catamount Road",
+               "short_name" : "Catamount Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hillsdale",
+               "short_name" : "Hillsdale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berkshire County",
+               "short_name" : "Berkshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12529",
+               "short_name" : "12529",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "78 Catamount Rd, Hillsdale, NY 12529, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1690998,
+               "lng" : -73.4769258
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1704487802915,
+                  "lng" : -73.47557681970851
+               },
+               "southwest" : {
+                  "lat" : 42.1677508197085,
+                  "lng" : -73.47827478029151
+               }
+            }
+         },
+         "place_id" : "ChIJC6Lh4tGJ3YkRboInmW-ybps",
+         "plus_code" : {
+            "compound_code" : "5G9F+J6 Hillsdale, NY, USA",
+            "global_code" : "87J85G9F+J6"
+         },
+         "types" : [ "establishment", "lodging", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

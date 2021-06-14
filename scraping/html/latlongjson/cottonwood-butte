@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "490",
+               "short_name" : "490",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Radar Road",
+               "short_name" : "Radar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cottonwood",
+               "short_name" : "Cottonwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Idaho County",
+               "short_name" : "Idaho County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83522",
+               "short_name" : "83522",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "490 Radar Rd, Cottonwood, ID 83522, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0755855,
+               "lng" : -116.4526032
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0769344802915,
+                  "lng" : -116.4512542197085
+               },
+               "southwest" : {
+                  "lat" : 46.0742365197085,
+                  "lng" : -116.4539521802915
+               }
+            }
+         },
+         "place_id" : "ChIJi9isU5b6oFQR-KBL9LV7evY",
+         "plus_code" : {
+            "compound_code" : "3GGW+6X Cottonwood, ID, USA",
+            "global_code" : "85R53GGW+6X"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

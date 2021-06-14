@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon Township",
+               "short_name" : "Vernon Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sussex County",
+               "short_name" : "Sussex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07462",
+               "short_name" : "07462",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vernon Township, NJ 07462, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.1805887,
+               "lng" : -74.51325079999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1819376802915,
+                  "lng" : -74.51190181970848
+               },
+               "southwest" : {
+                  "lat" : 41.17923971970851,
+                  "lng" : -74.5145997802915
+               }
+            }
+         },
+         "place_id" : "ChIJM-9bEPcVw4kRZB9TwWqrg2k",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "New Jersey 94",
+               "short_name" : "NJ-94",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vernon Township",
+               "short_name" : "Vernon Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sussex County",
+               "short_name" : "Sussex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07462",
+               "short_name" : "07462",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "200 NJ-94, Vernon Township, NJ 07462, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.1907595,
+               "lng" : -74.5054475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1921084802915,
+                  "lng" : -74.50409851970849
+               },
+               "southwest" : {
+                  "lat" : 41.1894105197085,
+                  "lng" : -74.5067964802915
+               }
+            }
+         },
+         "place_id" : "ChIJkfn6mQU-w4kRlUetCw30Lh4",
+         "types" : [
+            "amusement_park",
+            "establishment",
+            "point_of_interest",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

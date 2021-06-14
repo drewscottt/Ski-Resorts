@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10397",
+               "short_name" : "10397",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Vermont 25",
+               "short_name" : "VT-25",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Corinth",
+               "short_name" : "East Corinth",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Corinth",
+               "short_name" : "Corinth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05040",
+               "short_name" : "05040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10397 VT-25, East Corinth, VT 05040, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0726057,
+               "lng" : -72.25049249999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0739546802915,
+                  "lng" : -72.2491435197085
+               },
+               "southwest" : {
+                  "lat" : 44.0712567197085,
+                  "lng" : -72.2518414802915
+               }
+            }
+         },
+         "place_id" : "ChIJo1T96J_6tEwR9rSwkPU_Ug8",
+         "plus_code" : {
+            "compound_code" : "3PFX+2R East Corinth, Corinth, VT, USA",
+            "global_code" : "87P93PFX+2R"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

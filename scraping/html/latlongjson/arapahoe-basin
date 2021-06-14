@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "28194",
+               "short_name" : "28194",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. 6",
+               "short_name" : "US-6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dillon",
+               "short_name" : "Dillon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit County",
+               "short_name" : "Summit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80435",
+               "short_name" : "80435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28194 US-6, Dillon, CO 80435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.6425118,
+               "lng" : -105.8719397
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6438607802915,
+                  "lng" : -105.8705907197085
+               },
+               "southwest" : {
+                  "lat" : 39.64116281970851,
+                  "lng" : -105.8732886802915
+               }
+            }
+         },
+         "place_id" : "ChIJWd2U7rRQaocRllxVIFIp5Ts",
+         "plus_code" : {
+            "compound_code" : "J4VH+26 Dillon, CO, USA",
+            "global_code" : "85FPJ4VH+26"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

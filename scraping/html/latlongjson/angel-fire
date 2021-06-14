@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Miller Lane",
+               "short_name" : "Miller Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Angel Fire",
+               "short_name" : "Angel Fire",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Colfax County",
+               "short_name" : "Colfax County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87710",
+               "short_name" : "87710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10 Miller Ln, Angel Fire, NM 87710, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.3866879,
+               "lng" : -105.2721983
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.38803688029149,
+                  "lng" : -105.2708493197085
+               },
+               "southwest" : {
+                  "lat" : 36.3853389197085,
+                  "lng" : -105.2735472802915
+               }
+            }
+         },
+         "place_id" : "ChIJC0BrhnFbF4cRQIh6VE1uBTs",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

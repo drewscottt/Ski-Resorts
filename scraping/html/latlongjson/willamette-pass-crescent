@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crescent Lake",
+               "short_name" : "Crescent Lake",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Klamath County",
+               "short_name" : "Klamath County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97733",
+               "short_name" : "97733",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "27501 Hwy 58, Mile Marker 62, Crescent Lake, OR 97733, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.600054,
+               "lng" : -122.03654
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6014029802915,
+                  "lng" : -122.0351910197085
+               },
+               "southwest" : {
+                  "lat" : 43.5987050197085,
+                  "lng" : -122.0378889802915
+               }
+            }
+         },
+         "place_id" : "ChIJidiNWQ4fwVQRbyYLoPrWuy4",
+         "plus_code" : {
+            "compound_code" : "JX27+29 Crescent Lake, Crescent, OR, USA",
+            "global_code" : "84MVJX27+29"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

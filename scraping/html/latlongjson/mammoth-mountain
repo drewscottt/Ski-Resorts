@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mammoth Mountain",
+               "short_name" : "Mammoth Mountain",
+               "types" : [ "establishment", "natural_feature" ]
+            },
+            {
+               "long_name" : "Mammoth Lakes",
+               "short_name" : "Mammoth Lakes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mono County",
+               "short_name" : "Mono County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93546",
+               "short_name" : "93546",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mammoth Mountain, Mammoth Lakes, CA 93546, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.6307692,
+               "lng" : -119.0326342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6396054,
+                  "lng" : -119.0166268
+               },
+               "southwest" : {
+                  "lat" : 37.621932,
+                  "lng" : -119.0486416
+               }
+            }
+         },
+         "place_id" : "ChIJDZ70RiYNloARpK9pFMnaBVg",
+         "plus_code" : {
+            "compound_code" : "JXJ8+8W Mammoth Lakes, CA, USA",
+            "global_code" : "8592JXJ8+8W"
+         },
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

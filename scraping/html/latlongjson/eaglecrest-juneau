@@ -1,0 +1,85 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eaglecrest Ski Area",
+               "short_name" : "Eaglecrest Ski Area",
+               "types" : [
+                  "establishment",
+                  "park",
+                  "point_of_interest",
+                  "store",
+                  "tourist_attraction"
+               ]
+            },
+            {
+               "long_name" : "3000",
+               "short_name" : "3000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fish Creek Road",
+               "short_name" : "Fish Creek Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Juneau",
+               "short_name" : "Juneau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juneau",
+               "short_name" : "Juneau",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99801",
+               "short_name" : "99801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eaglecrest Ski Area, 3000 Fish Creek Rd, Juneau, AK 99801, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.2745312,
+               "lng" : -134.5128165
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.2758801802915,
+                  "lng" : -134.5114675197085
+               },
+               "southwest" : {
+                  "lat" : 58.2731822197085,
+                  "lng" : -134.5141654802915
+               }
+            }
+         },
+         "place_id" : "ChIJh46iQhX7AFQRjrrx4MqXO6g",
+         "plus_code" : {
+            "compound_code" : "7FFP+RV North Douglas, Juneau, AK, USA",
+            "global_code" : "94C77FFP+RV"
+         },
+         "types" : [
+            "establishment",
+            "park",
+            "point_of_interest",
+            "store",
+            "tourist_attraction"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

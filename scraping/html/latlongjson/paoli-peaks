@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2798",
+               "short_name" : "2798",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West County Road 25 South",
+               "short_name" : "W County Rd 25 S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Paoli",
+               "short_name" : "Paoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paoli Township",
+               "short_name" : "Paoli Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47454",
+               "short_name" : "47454",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9517",
+               "short_name" : "9517",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2798 W County Rd 25 S, Paoli, IN 47454, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5555868,
+               "lng" : -86.5122305
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5569357802915,
+                  "lng" : -86.51088151970849
+               },
+               "southwest" : {
+                  "lat" : 38.5542378197085,
+                  "lng" : -86.51357948029151
+               }
+            }
+         },
+         "place_id" : "ChIJrWRDhyahbogRzpm8bG0R1Ew",
+         "plus_code" : {
+            "compound_code" : "HF4Q+64 Paoli, IN, USA",
+            "global_code" : "86CMHF4Q+64"
+         },
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

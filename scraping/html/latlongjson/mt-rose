@@ -1,0 +1,127 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22222",
+               "short_name" : "22222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nevada 431",
+               "short_name" : "NV-431",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89511",
+               "short_name" : "89511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22222 NV-431, Reno, NV 89511, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.328435,
+               "lng" : -119.885375
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3297839802915,
+                  "lng" : -119.8840260197085
+               },
+               "southwest" : {
+                  "lat" : 39.3270860197085,
+                  "lng" : -119.8867239802915
+               }
+            }
+         },
+         "place_id" : "ChIJX2yvUZxumYARnXMY9Q1xFhw",
+         "plus_code" : {
+            "compound_code" : "84H7+9R Reno, NV, USA",
+            "global_code" : "85F284H7+9R"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mt Rose ski Resort view point",
+               "short_name" : "Mt Rose ski Resort view point",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Slide Mount Ski Bowl Highway",
+               "short_name" : "Slide Mt Ski Bowl Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Washoe City",
+               "short_name" : "New Washoe City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "89704",
+               "short_name" : "89704",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mt Rose ski Resort view point, Slide Mt Ski Bowl Hwy, New Washoe City, NV 89704, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3199064,
+               "lng" : -119.8673841
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3212553802915,
+                  "lng" : -119.8660351197085
+               },
+               "southwest" : {
+                  "lat" : 39.3185574197085,
+                  "lng" : -119.8687330802915
+               }
+            }
+         },
+         "place_id" : "ChIJSx6xmERtmYARX_XzRFkBvB8",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

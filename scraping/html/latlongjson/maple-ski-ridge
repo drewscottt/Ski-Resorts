@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2725",
+               "short_name" : "2725",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mariaville Road",
+               "short_name" : "Mariaville Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schenectady",
+               "short_name" : "Schenectady",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schenectady County",
+               "short_name" : "Schenectady County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12306",
+               "short_name" : "12306",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2725 Mariaville Rd, Schenectady, NY 12306, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8177282,
+               "lng" : -74.03164819999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.81907718029149,
+                  "lng" : -74.0302992197085
+               },
+               "southwest" : {
+                  "lat" : 42.81637921970849,
+                  "lng" : -74.0329971802915
+               }
+            }
+         },
+         "place_id" : "ChIJpevRmlVl3okRd2XNk-KW_CQ",
+         "plus_code" : {
+            "compound_code" : "RX99+38 Schenectady, NY, USA",
+            "global_code" : "87J7RX99+38"
+         },
+         "types" : [ "establishment", "point_of_interest", "store", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}
