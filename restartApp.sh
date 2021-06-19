@@ -3,7 +3,7 @@
 # File: restartApp.sh
 # Author: Drew Scott
 # Description: Copies ~/flaskapp_parent/flaskapp directory to /var/www/flaskapp and restarts gunicorn on localhost:8000
-# 		for the flaskapp
+#  for the flaskapp
 
 cur_dir=`pwd`
 
@@ -25,6 +25,9 @@ fi
 # start new state
 cd /var/www/flaskapp
 sudo gunicorn --workers=3 --worker-class=gevent wsgi:app 1>~/flaskapp_parent/logs/log.out 2>~/flaskapp_parent/logs/log.err & 
+
+# run clear_unused_cookies in background
+python3 ~/flaskapp_parent/databases/clear_unused_cookies.py &
 
 # change back to the original directory
 cd $cur_dir
