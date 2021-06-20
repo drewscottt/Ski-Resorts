@@ -74,8 +74,14 @@ def home():
         # on GET, we need to get search results and trips info
         try:
             search_result = do_search(cursor, search, _type)
+
+            # if no result returned, set to empty set to differentiate between invalid search and no search
+            if search_result is None:
+                search_result = ()
+
         except AttributeError:
-            search_result = None
+            # invalid search
+            search_result = None 
 
         trips = get_trips(cursor, cookie_id)
 
@@ -270,7 +276,7 @@ def do_search(cursor, search, _type):
     '''
         Returns the search result for the search and _type params
     '''
-
+    
     if search is None or _type is None:
         search_result = None
     else:

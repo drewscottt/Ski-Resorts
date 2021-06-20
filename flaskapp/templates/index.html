@@ -12,8 +12,13 @@
 			<input type="submit" value="Log Out"></input>
 			<input type="hidden" name="logout" value="{{ user }}"></input>
 
-			<input type="hidden" name="search" value="{{ search or '' }}"></input>
-			<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
+			{% if search is not none %}
+			<input type="hidden" name="search" value="{{ search }}"></input>
+			{% endif %}
+
+			{% if _type is not none%}
+			<input type="hidden" name="_type" value="{{ _type }}"></input>
+			{% endif %}
 		</form>
 		{% else %}
 		<form id="username_form" method="GET">
@@ -21,8 +26,13 @@
 			<input type="text" name="username"></input>
 			<input type="submit" value="Log In"></input>
 
-			<input type="hidden" name="search" value="{{ search or '' }}"></input>
-			<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
+			{% if search is not none %}
+			<input type="hidden" name="search" value="{{ search }}"></input>
+			{% endif %}
+
+			{% if _type is not none%}
+			<input type="hidden" name="_type" value="{{ _type }}"></input>
+			{% endif %}
 		</form>
 		{% endif %}
 	</div>
@@ -42,10 +52,17 @@
 	</form>
 	
 	<div id="body">
-	{% if result is defined and result is not none %}
+	{% if result is defined %}
+
+	{% if result is none %}
+		<p>Invalid search type. Use radio buttons to choose valid type.</p>
+	{% else %}
+	
 	<p><b>Search results ({{ result|length }}):</b></p>
 	{% if result|length == 0 %}
+		{% if search is not none and _type is not none %}
 		<p>No Ski Resort matched your query.</p>
+		{% endif %}
 	{% else %}
 		<div id='results'>
 		{% set count = [0] %}
@@ -88,8 +105,13 @@
 						<input type="submit" value="Add Resort to Trips"></input>
 						<input type="hidden" name="add_trip" value="{{ res[2] }}"></input>
 
-						<input type="hidden" name="search" value="{{ search or '' }}"></input>
-						<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
+						{% if search is not none %}
+						<input type="hidden" name="search" value="{{ search }}"></input>
+						{% endif %}
+
+						{% if _type is not none%}
+						<input type="hidden" name="_type" value="{{ _type }}"></input>
+						{% endif %}
 					</form>
 				</td>
 			</tr>
@@ -98,7 +120,7 @@
 		
 		</div>
 		
-
+	{% endif %}
 	{% endif %}
 	{% endif %}
 		<div id="right">
@@ -154,17 +176,26 @@
 						<div class="trip_buttons">
 						<input type="submit" value="Update Trip">
 					
+						{% if search is not none %}
+						<input type="hidden" name="search" value="{{ search }}"></input>
+						{% endif %}
 
-						<input type="hidden" name="search" value="{{ search or '' }}">
-						<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
+						{% if _type is not none%}
+						<input type="hidden" name="_type" value="{{ _type }}"></input>
+						{% endif %}
 						</form>
 						
 						<form method="POST">
 							<input type="submit" value="Delete Trip"></input>
 							<input type="hidden" name="delete_trip" value="{{ trip[0] }}"></input>
 
-							<input type="hidden" name="search" value="{{ search or '' }}">
-							<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
+							{% if search is not none %}
+							<input type="hidden" name="search" value="{{ search }}"></input>
+							{% endif %}
+
+							{% if _type is not none%}
+							<input type="hidden" name="_type" value="{{ _type }}"></input>
+							{% endif %}
 						</form>
 
 						<button type=button id="cancel_button{{ count[0] }}">Cancel</button>
