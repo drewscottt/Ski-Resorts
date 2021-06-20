@@ -12,8 +12,8 @@
 			<input type="submit" value="Log Out"></input>
 			<input type="hidden" name="logout" value="{{ user }}"></input>
 
-			<input type="hidden" name="search" value="{{ search }}"></input>
-			<input type="hidden" name="_type" value="{{ _type }}"></input>
+			<input type="hidden" name="search" value="{{ search or '' }}"></input>
+			<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
 		</form>
 		{% else %}
 		<form id="username_form" method="GET">
@@ -21,8 +21,8 @@
 			<input type="text" name="username"></input>
 			<input type="submit" value="Log In"></input>
 
-			<input type="hidden" name="search" value="{{ search }}"></input>
-			<input type="hidden" name="_type" value="{{ _type }}"></input>
+			<input type="hidden" name="search" value="{{ search or '' }}"></input>
+			<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
 		</form>
 		{% endif %}
 	</div>
@@ -87,8 +87,9 @@
 					<form method="POST">
 						<input type="submit" value="Add Resort to Trips"></input>
 						<input type="hidden" name="add_trip" value="{{ res[2] }}"></input>
-						<input type="hidden" name="search" value="{{ search }}"></input>
-						<input type="hidden" name="_type" value="{{ _type }}"></input>
+
+						<input type="hidden" name="search" value="{{ search or '' }}"></input>
+						<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
 					</form>
 				</td>
 			</tr>
@@ -154,15 +155,16 @@
 						<input type="submit" value="Update Trip">
 					
 
-						<input type="hidden" name="search" value="{{ search }}">
-						<input type="hidden" name="_type" value="{{ _type }}"></input>
+						<input type="hidden" name="search" value="{{ search or '' }}">
+						<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
 						</form>
 						
 						<form method="POST">
 							<input type="submit" value="Delete Trip"></input>
 							<input type="hidden" name="delete_trip" value="{{ trip[0] }}"></input>
-							<input type="hidden" name="search" value="{{ search }}">
-							<input type="hidden" name="_type" value="{{ _type }}"></input>
+
+							<input type="hidden" name="search" value="{{ search or '' }}">
+							<input type="hidden" name="_type" value="{{ _type or '' }}"></input>
 						</form>
 
 						<button type=button id="cancel_button{{ count[0] }}">Cancel</button>
