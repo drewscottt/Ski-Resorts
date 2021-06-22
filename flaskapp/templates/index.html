@@ -2,14 +2,17 @@
 	<title>Ski Stuff Home</title>
 	<head>
 		<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">	
 	</head>
 
 	<div id="top_line">
-		<h1>Welcome to Ski Stuff Home</h1>
+		<h1 id="welcome">Welcome to Ski Stuff Home</h1>
 		{% if user is defined and user is not none %}
 		<form id="username_form" method="GET">
 			<p>Logged in as {{ user }}<p>
-			<input type="submit" value="Log Out"></input>
+			<input class="button" type="submit" value="Log Out"></input>
 			<input type="hidden" name="logout" value="{{ user }}"></input>
 
 			{% if search is not none %}
@@ -24,7 +27,7 @@
 		<form id="username_form" method="GET">
 			<p>Username:</p>
 			<input type="text" name="username"></input>
-			<input type="submit" value="Log In"></input>
+			<input class="button" type="submit" value="Log In"></input>
 
 			{% if search is not none %}
 			<input type="hidden" name="search" value="{{ search }}"></input>
@@ -37,9 +40,10 @@
 		{% endif %}
 	</div>
 
+	<div id="body">
 	<p><b>Search for ski resorts either by name or state. Then, you can add resorts you plan to ski at to your trips log. Then, you can set the days and the people who are going on each trip.</b></p>
 
-	<form method="GET">
+	<form id="search_line" method="GET">
 		<p>Search for:</p>
 		<input type="radio" name="_type" id="name" value="name" checked>
 		<label for="name">Ski Resort</label>
@@ -48,10 +52,9 @@
 		<label for="state">State</label>
 		
 		<input type="text" name="search"></input>
-		<input type="submit"></input>
+		<input class="button" type="submit"></input>
 	</form>
 	
-	<div id="body">
 	{% if result is defined %}
 
 	{% if result is none %}
@@ -68,7 +71,7 @@
 		{% set count = [0] %}
 		{% for res in result  %}
 		{% if count.append(count.pop() + 1) %}{% endif %}
-		<table id="results_table">
+		<table class="results_table">
 			<tr>
 				<td class="title">Ski Resort</td>
 				<td class="info" id="search_name{{ count[0] }}">{{ res[2] }}</td>
@@ -102,7 +105,7 @@
 			<tr>
 				<td colspan="2">
 					<form method="POST">
-						<input type="submit" value="Add Resort to Trips"></input>
+						<input class="button" type="submit" value="Add Resort to Trips"></input>
 						<input type="hidden" name="add_trip" value="{{ res[2] }}"></input>
 
 						{% if search is not none %}
@@ -174,7 +177,7 @@
 						</div>
 
 						<div class="trip_buttons">
-						<input type="submit" value="Update Trip">
+						<input class="button" type="submit" value="Update Trip">
 					
 						{% if search is not none %}
 						<input type="hidden" name="search" value="{{ search }}"></input>
@@ -186,7 +189,7 @@
 						</form>
 						
 						<form method="POST">
-							<input type="submit" value="Delete Trip"></input>
+							<input class="button" type="submit" value="Delete Trip"></input>
 							<input type="hidden" name="delete_trip" value="{{ trip[0] }}"></input>
 
 							{% if search is not none %}

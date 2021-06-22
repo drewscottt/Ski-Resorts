@@ -26,7 +26,16 @@ fi
 cd /var/www/flaskapp
 sudo gunicorn --workers=3 --worker-class=gevent wsgi:app 1>~/flaskapp_parent/logs/log.out 2>~/flaskapp_parent/logs/log.err & 
 
-# run clear_unused_cookies in background
+# kill current clear_unused_cookies program 
+clear_cookies=(`ps -ef | grep clear_unused_cookies.py`)
+if [ ! -z "$clear_cookies" ]; then
+	# clear_cookies running, so kill
+	pid=${clear_cookies[1]}
+
+	sudo kill $pid
+fi 
+
+# start new one
 python3 ~/flaskapp_parent/databases/clear_unused_cookies.py &
 
 # change back to the original directory

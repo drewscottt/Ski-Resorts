@@ -1,18 +1,66 @@
+html {
+	font-family: 'Baloo 2', cursive;
+	background-color: darkgrey;
+	color: white;
+
+	min-height: 120%;
+}
+
+table, tr, td {
+	border: 1px solid silver;
+}
+
+button, .button {
+	font-family: 'Baloo 2', cursive;
+	background-color: lightgrey;
+	color: grey;
+
+	border: solid 1px grey;
+
+	cursor: pointer;
+}
+
+a {
+	color: inherit;
+}
+
+#top_line {
+	background-color: grey;
+
+	position: absolute;
+	left: 0px;
+	top: 0px;
+
+	width: 100%;
+	height: 10%;
+}
+
+#welcome {
+	padding-left: 20px;
+}
+
+#username_form {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+	padding-right: 20px;
+}
+
+#username_form > * {
+	display: inline-block;
+	margin-right: 5px;
+}
+
 #body {
 	position: relative;
-
+	top: 8%;
 	overflow: hidden;
 
 	min-height: 100% !important;
 }
 
-#username_form {
-	position: absolute;
-	top: 0;
-	right: 10px;
-}
-
-#username_form > * {
+#search_line > * {
 	display: inline-block;
 }
 
@@ -20,11 +68,7 @@
 	width: 50%;
 }
 
-table, tr, td {
-	border: 1px solid black;
-}
-
-#results_table {
+.results_table {
 	margin-bottom: 10px;
 
 	width: 90%;
@@ -44,10 +88,10 @@ table, tr, td {
 	word-wrap: break-word; 
 }
 
-
 #right {
 	position: absolute;
-	top: 0;
+
+	top: 122px;
        	right: 0;
 
 	width: 50%;
@@ -62,17 +106,18 @@ table, tr, td {
 	width: 100%;
 	min-width: 100%;	
 	margin: 0px !important;
+
 	table-layout: fixed;
 }
 
 #trips_div {
 	max-height: 175px;
 	overflow-y: scroll;
-	
+		
 	margin-bottom: 5px;
 
 	width: 100%;
-	min-width:100%;
+	min-width: 100%;
 }
 
 .days > * {
@@ -85,6 +130,7 @@ table, tr, td {
 
 .person > * {
 	display: inline-block;
+	margin-right: 2px;
 }
 
 .trip_buttons > * {
@@ -97,5 +143,7 @@ table, tr, td {
 
 #map {
 	height: 400px;
+
+	min-height: 400px !important;
 	width: 100%;
 }
