@@ -1,0 +1,47 @@
+<head>
+	<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">    
+</head>
+
+<div id="top_line">
+	<h1 id="welcome">Welcome to Ski Stuff Home</h1>
+
+	<div id="page_links">
+		<h3><a href="{{ url_for('home') }}">HOME</a></h3>
+		<h3><a href="{{ url_for('search') }}">SEARCH</a></h3>
+		<h3><a href="{{ url_for('trips') }}">TRIPS</a></h3>
+	</div>
+
+	{% if user is defined and user is not none %}
+	<form id="username_form" method="GET">
+		<p>Logged in as <a href="{{ url_for('user') }}">{{ user }}</a><p>
+		<input class="button" type="submit" value="Log Out"></input>
+		<input type="hidden" name="logout" value="{{ user }}"></input>
+
+		{% if search is not none %}
+		<input type="hidden" name="search" value="{{ search }}"></input>
+		{% endif %}
+
+		{% if _type is not none%}
+		<input type="hidden" name="_type" value="{{ _type }}"></input>
+		{% endif %}
+	</form>
+	{% else %}
+	<form id="username_form" method="GET">
+		<p>Username:</p>
+		<input type="text" name="username"></input>
+		<input class="button" type="submit" value="Log In"></input>
+
+		{% if search is not none %}
+		<input type="hidden" name="search" value="{{ search }}"></input>
+		{% endif %}
+
+		{% if _type is not none%}
+		<input type="hidden" name="_type" value="{{ _type }}"></input>
+		{% endif %}
+	</form>
+	{% endif %}
+</div>
+

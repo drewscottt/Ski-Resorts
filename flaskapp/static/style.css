@@ -26,8 +26,9 @@ a {
 
 #top_line {
 	background-color: grey;
+	z-index: 1;
 
-	position: absolute;
+	position: fixed;
 	left: 0px;
 	top: 0px;
 
@@ -35,8 +36,22 @@ a {
 	height: 10%;
 }
 
+#top_line > * {
+	display: inline-block;
+}
+
 #welcome {
 	padding-left: 20px;
+}
+
+#page_links {
+	padding-left: 15%;
+	width: 50%;
+}
+
+#page_links > * {
+	display: inline-block;
+	padding-right: 5%;
 }
 
 #username_form {
@@ -146,4 +161,29 @@ a {
 
 	min-height: 400px !important;
 	width: 100%;
+}
+
+#bottom_line {
+	background-color: grey;
+	
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+
+	width: 100%;
+}
+
+#bottom_line > * {
+	display: inline-block;
+}
+
+#created {
+	padding-left: 20px;
+}
+
+#github {
+	position: absolute;
+	right: 0px;
+
+	padding-right: 20px;
 }

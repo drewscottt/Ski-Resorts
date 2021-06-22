@@ -25,6 +25,48 @@ def home():
     # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
     cookie_id, cookie_token, user = get_cookie_info(cursor, request)
     conn.commit()
+    
+    response = make_response(render_template("index.html", user=user))
+    response.set_cookie("trips_data", cookie_token)
+
+    return response
+
+@app.route("/trips", methods=['GET'])
+def trips():
+    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    cursor = conn.cursor()
+
+    # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
+    cookie_id, cookie_token, user = get_cookie_info(cursor, request)
+    conn.commit()
+    
+    response = make_response(render_template("trips.html", user=user))
+    response.set_cookie("trips_data", cookie_token)
+
+    return response
+
+@app.route("/user", methods=['GET'])
+def user():
+    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    cursor = conn.cursor()
+
+    # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
+    cookie_id, cookie_token, user = get_cookie_info(cursor, request)
+    conn.commit()
+    
+    response = make_response(render_template("user.html", user=user))
+    response.set_cookie("trips_data", cookie_token)
+
+    return response
+
+@app.route("/search", methods=['GET', 'POST'])
+def search():
+    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    cursor = conn.cursor()
+
+    # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
+    cookie_id, cookie_token, user = get_cookie_info(cursor, request)
+    conn.commit()
 
     # get search and _type (used to get search information; search is the search term, and _type is the search type (resort or state))
     search, _type = get_search_params(request)
@@ -91,9 +133,9 @@ def home():
     
     # send response, with all appropriate parameters and the cookie
     if request.method == 'POST':
-        response = make_response(redirect(url_for('home', search=search, _type=_type, user=user)))
+        response = make_response(redirect(url_for('search', search=search, _type=_type, user=user)))
     elif request.method == 'GET':
-        response = make_response(render_template("index.html", trips=trips, result=search_result, search=search, _type=_type, user=user)) 
+        response = make_response(render_template("search.html", trips=trips, result=search_result, search=search, _type=_type, user=user)) 
     
     response.set_cookie('trips_data', cookie_token)
         
