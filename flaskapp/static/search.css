@@ -1,0 +1,89 @@
+#search_line > * {
+        display: inline-block;
+}
+
+#results {
+        width: 50%;
+        margin-bottom: 100px;
+}
+
+.results_table {
+        margin-bottom: 10px;
+
+        width: 90%;
+
+        table-layout: fixed;
+}
+
+.title {
+        width: 30%;
+
+        word-wrap: break-word;
+}
+
+.info {
+        width: 70%;
+
+        word-wrap: break-word;
+}
+
+#right {
+        position: absolute;
+
+        top: 122px;
+        right: 0;
+
+        width: 50%;
+}
+
+#trips {
+        width: 100%;
+        min-width: 100%;
+}
+
+#trip_table {
+        width: 100%;
+        min-width: 100%;
+        margin: 0px !important;
+
+        table-layout: fixed;
+}
+
+#trips_div {
+        max-height: 175px;
+        overflow-y: scroll;
+
+        margin-bottom: 5px;
+
+        width: 100%;
+        min-width: 100%;
+}
+
+.days > * {
+        display: inline-block;
+}
+
+.people_header > * {
+        display: inline-block;
+}
+
+.person > * {
+        display: inline-block;
+        margin-right: 2px;
+}
+
+.trip_buttons > * {
+        display: inline-block;
+}
+
+#locsOptionDiv > * {
+        display: inline-block;
+}
+
+#map {
+        height: 400px;
+
+        min-height: 400px !important;
+        width: 100%;
+}
+

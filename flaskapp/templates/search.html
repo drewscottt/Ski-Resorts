@@ -1,6 +1,10 @@
 <html>
-	<title>Ski Stuff Home</title>
+	<title>Search for Resorts</title>
 	{% include 'top.html' %}
+
+	<header>
+		<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='search.css') }}">
+	</header>
 
 	<div id="body">
 	<p><b>Search for ski resorts either by name or state. Then, you can add resorts you plan to ski at to your trips log. Then, you can set the days and the people who are going on each trip.</b></p>
