@@ -1,5 +1,5 @@
 from main import app
-import grace
+import grace, search, trips, user
 
 if __name__ == "__main__":
     app.run(debug=True)
