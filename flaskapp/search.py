@@ -1,14 +1,14 @@
 '''
     File: search.py
     Author: Drew Scott
-    Description: Contains routes for '/search' and REST APIs, along with the appropriate helper functions for each.
+    Description: Contains route for '/search' 
 '''
 
 from main import *
 
 @app.route("/search", methods=['GET', 'POST'])
 def search():
-    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    conn = get_db_conn() 
     cursor = conn.cursor()
 
     # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
@@ -118,7 +118,8 @@ def get_trips(cursor, cookie_id):
         trips has: start, end, first_person
         first_person refers to people
 
-        We return tuples of: (skiresorts.name, trips.start, trips.end, [(trips.first_person.name, trip.first_person.age), ...], (skiresorts.latitude, skiresorts.longitude))
+        We return tuples of: (skiresorts.name, trips.start, trips.end, 
+            [(trips.first_person.name, trip.first_person.age), ...], (skiresorts.latitude, skiresorts.longitude))
     '''
 
     # this query should be safe, since we're generating the cookie_id
@@ -377,80 +378,3 @@ def add_resort_to_cookie(cursor, cookie_id, resort):
         query = f"INSERT INTO trips_data_cookie{cookie_id}(resort_id, trip_id) VALUES(%s, NULL)"
 
         cursor.execute(query, (resort_id, ))
-
-'''
-    END '/' ROUTES AND HELPERS;
-    START REST API ROUTES AND HELPERS
-'''
-
-@app.route("/resorts", methods=["GET"])
-def resorts():
-    '''
-        REST API route to show all resorts.
-    '''
-
-    conn = MySQLdb.connect(user=SELECT_USER, password=SELECT_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
-    cursor = conn.cursor()
-
-    query = "SELECT * FROM skiresorts"
-    cursor.execute(query)
-    result = cursor.fetchall()
-    cursor.close()
-    conn.close()
-
-    main_dict = skiresort_query_to_dict(result)
-    
-    return jsonify(main_dict)
-
-@app.route("/<option>/<name>", methods=['GET'])
-def rest(option, name):
-    '''
-        Specifies routes for REST API; valid options are: (state, resorts) and 
-        name can be a state name if state is the option, or resorts substring or id if resorts is the option
-    '''
-    conn = MySQLdb.connect(user=SELECT_USER, password=SELECT_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
-    cursor = conn.cursor()
-    
-    if option == 'state':
-        query = "SELECT * FROM skiresorts WHERE state=%s;"
-    elif option == 'resorts':
-        if name.isdecimal():
-            query = "SELECT * FROM skiresorts WHERE id=%s"
-        else:
-            name = '%%' + name + '%%'
-            query = "SELECT * FROM skiresorts WHERE name LIKE %s"
-    else:
-        return make_response("Bad option", 404)
-
-    cursor.execute(query, (name,))
-    result = cursor.fetchall()
-
-    cursor.close()
-    conn.close()
-    
-    main_dict = skiresort_query_to_dict(result)
-
-    return jsonify(main_dict)
-
-def skiresort_query_to_dict(result):
-    '''
-        Converts a result of a query of the form "SELECT * FROM skiresorts ..." to a dictionary
-    '''
-
-    main_dict = {}
-    for res in result:
-        sub_dict = {}
-        sub_dict.update({"id": res[0]})
-        sub_dict.update({"name": res[2]})
-        sub_dict.update({"skiresort_info_page": res[1]})
-        sub_dict.update({"state": res[4]})
-        sub_dict.update({"website": res[3]})
-        sub_dict.update({"latitude": res[5]})
-        sub_dict.update({"longitude": res[6]})
-
-        if "resorts" in main_dict:
-            main_dict.update({"resorts": main_dict["resorts"] + [sub_dict]})
-        else:
-            main_dict.update({"resorts" : [sub_dict]})
-
-    return main_dict

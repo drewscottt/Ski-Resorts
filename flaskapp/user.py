@@ -8,7 +8,7 @@ from main import *
 
 @app.route("/user", methods=['GET'])
 def user():
-    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    conn = get_db_conn() 
     cursor = conn.cursor()
 
     # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
