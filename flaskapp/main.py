@@ -27,7 +27,17 @@ def home():
 
     return response
 
+
+
+'''
+    BEGIN HELPER FUNCTIONS USED FOR ALL ROUTES
+'''
+
 def get_db_conn():
+    '''
+        Returns a connection to the database.
+    '''
+
     conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
 
     return conn

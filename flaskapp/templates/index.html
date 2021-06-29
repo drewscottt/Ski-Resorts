@@ -1,6 +1,27 @@
 <html>
-	<title>Ski Resorts Optimizer</title>
+	<title>Ski Trip Optimizer</title>
 	{% include "top.html" %}
+
+	<div id="body">
+		<h3>Welcome to my Ski Trip Optimizer site!</h3>
+
+		<p>With the creation of many multi-mountain passes like <a href="https://www.epicpass.com/" target="blank">Epic</a>, <a href="https://www.ikonpass.com/" target="blank">Ikon</a>, <a href="https://mountaincollective.com/" target="blank">Mountain Collective</a>, and many more, buying the cheapest combination of ski tickets for a season is more difficult than it used to be.</p>
+
+		<p>Here, we try to automate that process for you!</p>
+
+		<p>On this site, you can: </p>
+		<ol>
+			<li>Search through all of the ski resorts in the U.S.</li>
+			<li>Select the ski resorts you plan to ski at in a season</li>
+			<ul>
+				<li>Set the days and the people who are going on each trip</li>
+			</ul>
+			<li>Save your trips by logging in with a new username</li>
+			<li>Run the optimizer to find how to buy your tickets/passes to determine the cheapest option {UNIMPLEMENTED}</li>
+		</ol>
+
+		<p>To get started, <a href="{{ url_for('search') }}">search</a> for your resorts!</p>
+	</div>
 
 	{% include "bottom.html" %}
 </html>
