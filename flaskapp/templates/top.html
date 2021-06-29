@@ -23,11 +23,9 @@
 		<input class="button" type="submit" value="Log Out"></input>
 		<input type="hidden" name="logout" value="{{ user }}"></input>
 
-		{% if search is not none %}
+		{% if _type is defined and _type is not none and _type|length > 0 %}
 		<input type="hidden" name="search" value="{{ search }}"></input>
-		{% endif %}
 
-		{% if _type is not none%}
 		<input type="hidden" name="_type" value="{{ _type }}"></input>
 		{% endif %}
 	</form>
@@ -35,13 +33,15 @@
 	<form id="username_form" method="GET">
 		<p>Username:</p>
 		<input type="text" name="username"></input>
+
+		<p>Password:</p>
+		<input type="password" name="password"></input>
+
 		<input class="button" type="submit" value="Log In"></input>
 
-		{% if search is not none %}
+		{% if _type is defined and _type is not none and _type|length > 0 %}
 		<input type="hidden" name="search" value="{{ search }}"></input>
-		{% endif %}
 
-		{% if _type is not none%}
 		<input type="hidden" name="_type" value="{{ _type }}"></input>
 		{% endif %}
 	</form>

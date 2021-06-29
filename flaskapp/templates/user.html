@@ -1,7 +1,15 @@
 <html>
 	<title>User Profile</title>
 	{% include 'top.html' %}
-
+	
+	<div id="body">
+		{% if user is not none %}
+		<p>Username: {{ user }}</p>
+		<p>User since: {{ time_created }} GMT</p>
+		{% else %}
+		<p>You're not currently logged in!</p>
+		{% endif %}
+	</div>
 	
 	{% include 'bottom.html' %}
 

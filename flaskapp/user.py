@@ -15,7 +15,14 @@ def user():
     cookie_id, cookie_token, user = get_cookie_info(cursor, request)
     conn.commit()
 
-    response = make_response(render_template("user.html", user=user))
+    time_created = None
+    if user is not None:
+        query = "SELECT time FROM trips_data_cookies WHERE id=%s"
+        cursor.execute(query, (cookie_id, ))
+
+        time_created = cursor.fetchall()[0][0]
+
+    response = make_response(render_template("user.html", user=user, time_created=time_created))
     response.set_cookie("trips_data", cookie_token)
 
     return response

@@ -1,7 +1,8 @@
 '''
     File: main.py
     Author: Drew Scott
-    Description: Contains route for '/' and methods required for all pages (i.e. cookies)
+    Description: Contains imports and helper functions used on all pages.
+                 Use 'from main import *' in all other pages
 '''
 
 from flask import Flask, render_template, request, redirect, url_for, jsonify, make_response
@@ -12,26 +13,6 @@ import random, string
 from passwords import DB, ALL_USER, ALL_PASSWORD, SELECT_USER, SELECT_PASSWORD
 
 app = Flask(__name__)
-
-@app.route("/", methods=['GET', 'POST'])
-def home():
-    conn = get_db_conn()
-    cursor = conn.cursor()
-
-    # get/create cookie (used to track trips data), if user is specified, override the cookie sent in the request
-    cookie_id, cookie_token, user = get_cookie_info(cursor, request)
-    conn.commit()
-
-    response = make_response(render_template("index.html", user=user))
-    response.set_cookie("trips_data", cookie_token)
-
-    return response
-
-
-
-'''
-    BEGIN HELPER FUNCTIONS USED FOR ALL ROUTES
-'''
 
 def get_db_conn():
     '''
@@ -123,4 +104,4 @@ def create_cookie(cursor):
     cursor.execute(query)
 
     return token
-
+ 
