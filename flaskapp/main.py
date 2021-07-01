@@ -65,6 +65,14 @@ def get_cookie_info(cursor, request):
     query = "SELECT id FROM trips_data_cookies WHERE cookie=%s"
     cursor.execute(query, (cookie_token, ))
     cookie_id = cursor.fetchall()
+
+    # check that this cookie exists in the table (it could've gotten deleted or just be invalid)
+    # if it doesn't, make a new cookie
+    if len(cookie_id) == 0:
+        cookie_token = create_cookie(cursor)
+        cursor.execute(query, (cookie_token, ))
+        cookie_id = cursor.fetchall()
+
     cookie_id = str(cookie_id[0][0])
 
     # handle username stuff

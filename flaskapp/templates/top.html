@@ -30,21 +30,63 @@
 		{% endif %}
 	</form>
 	{% else %}
-	<form id="username_form" method="GET">
-		<p>Username:</p>
-		<input type="text" name="username"></input>
+	<div id="user_buttons">
+		<button type="button" name="signup_button" onclick="signUp();">Sign Up</button>
+		<p>or</p>
+		<button type="button" name="login_button" onclick="login();">Login</button>
+	</div>
 
-		<p>Password:</p>
-		<input type="password" name="password"></input>
-
-		<input class="button" type="submit" value="Log In"></input>
-
-		{% if _type is defined and _type is not none and _type|length > 0 %}
-		<input type="hidden" name="search" value="{{ search }}"></input>
-
-		<input type="hidden" name="_type" value="{{ _type }}"></input>
-		{% endif %}
-	</form>
 	{% endif %}
 </div>
 
+<div id="user_boxes">
+	<div id="signup_box" style="display: none;">
+		<p>Sign up</p>
+	
+		<form id="signup_form" method="POST">
+			<p>DISCLAIMER: This site doesn't currently support HTTPS encryption! Do NOT enter passwords you deem important. You will not need to secure any sensitive data on this site.</p>
+
+			<p>Email:</p>
+			<input type="text" name="email"></input>
+
+			<p>Username:</p>
+			<input type="text" name="username"></input>
+
+			<p>Password:</p>
+			<input type="text" name="password"></input>
+
+			<input class="button" type="submit" value="Create Account"></input>
+			
+			{% if _type is defined and _type is not none and _type|length > 0 %}
+			<input type="hidden" name="search" value="{{ search }}"></input>
+
+			<input type="hidden" name="_type" value="{{ _type }}"></input>
+			{% endif %}
+		</form>
+
+		<button type="button" name="cancel_user" onclick="cancelUser();">Cancel</button>
+	</div>
+	
+
+	<div id="login_box" style="display: none;">
+		<p>Login</p>
+
+		<form id="username_form" method="GET">
+			<p>Username or Email:</p>
+			<input type="text" name="username"></input>
+
+			<p>Password:</p>
+			<input type="password" name="password"></input>
+
+			<input class="button" type="submit" value="Log In"></input>
+
+			{% if _type is defined and _type is not none and _type|length > 0 %}
+			<input type="hidden" name="search" value="{{ search }}"></input>
+
+			<input type="hidden" name="_type" value="{{ _type }}"></input>
+			{% endif %}
+		</form>
+
+		<button type="button" name="cancel_user" onclick="cancelUser();">Cancel</button>
+	</div>
+</div>
