@@ -18,7 +18,7 @@
 	</div>
 
 	{% if user is defined and user is not none %}
-	<form id="username_form" method="GET">
+	<form id="user_buttons" method="GET">
 		<p>Logged in as <a href="{{ url_for('user') }}">{{ user }}</a><p>
 		<input class="button" type="submit" value="Log Out"></input>
 		<input type="hidden" name="logout" value="{{ user }}"></input>
@@ -71,7 +71,7 @@
 	<div id="login_box" style="display: none;">
 		<p>Login</p>
 
-		<form id="username_form" method="GET">
+		<form id="username_form" method="POST">
 			<p>Username or Email:</p>
 			<input type="text" name="username"></input>
 

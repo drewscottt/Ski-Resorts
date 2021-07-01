@@ -5,53 +5,157 @@
                  Use 'from main import *' in all other pages
 '''
 
+import sys
+
 from flask import Flask, render_template, request, redirect, url_for, jsonify, make_response
 import MySQLdb
 from datetime import datetime
 import random, string
+from passlib.hash import sha256_crypt
 
 from passwords import DB, ALL_USER, ALL_PASSWORD, SELECT_USER, SELECT_PASSWORD
 
 app = Flask(__name__)
+import logging
+logging.basicConfig(level=logging.DEBUG)
 
 def get_db_conn():
     '''
         Returns a connection to the database.
     '''
 
-    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    return MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
 
-    return conn
+'''
+    START user stuff
+'''
+
+def handle_user(cursor, request, cookie_id):
+    '''
+        Returns the username of the user in the request. Handles create account and login requests
+    '''
+
+    user = None
+    # check if a sign up or login was requested
+    if 'username' in request.form and 'password' in request.form:
+        if 'email' in request.form:
+            # sign up requested
+            create_user(cursor, request, cookie_id)
+
+        else:
+            # login requested
+            return login_user(cursor, request)
+
+    query = "SELECT username FROM users WHERE cookie_id=%s"
+    cursor.execute(query, (cookie_id, ))
+    result = cursor.fetchall()
+    if len(result) > 0:
+        user = result[0][0]
+
+    return user
+
+
+def login_user(cursor, request):
+    '''
+        Returns the username associated with the request if the login is valid, returns None if username exists, but login was invalid
+        
+        Errors raised when: username or password aren't defined in request.form
+        And when there isn't a user in the users table that has the username/email specified in request.form
+    '''
+
+    # make sure username and password are defined
+    if 'username' not in request.form or 'password' not in request.form:
+        raise AttributeError
+
+    # extract values from request
+    user = request.form['username']
+    password = request.form['password']
+
+    # user can be either a username or an email
+
+    # check the username
+    query = "SELECT password FROM users WHERE username=%s"
+    cursor.execute(query, (user, ))
+    stored_hash = cursor.fetchall()
+    if len(stored_hash) > 0:
+        if check_pass(password, stored_hash[0][0]):
+            return user
+        return None
+        
+    # check the password
+    query = "SELECT password FROM users WHERE email=%s"
+    cursor.execute(query, (user, ))
+    stored_hash = cursor.fetchall()
+    if len(stored_hash) > 0:
+        if check_pass(password, stored_hash[0][0]):
+            query = "SELECT username FROM users WHERE email=%s"
+            cursor.execute(query, (user, ))
+            return cursor.fetchall()[0][0]
+
+        return None
+
+    # a user with the username/email specified doesn't exist
+    raise RuntimeError("User with the input username/email doesn't exist")
+
+def create_user(cursor, request, cookie_id):
+    '''
+        Adds a new user to the users table using the request.form
+
+        Errors raised when: not all of email, username, password are defined in request
+        And when a user with the specified username or email already exists
+    '''
+
+    # make sure all values are defined in the request.form (email, username, password)
+    if 'email' not in request.form or 'username' not in request.form or 'password' not in request.form:
+        raise AttributeError
+    
+    # extract values from request
+    email = request.form['email']
+    username = request.form['username']
+    password = request.form['password']
+
+    # check that a user with this name doesn't already exist
+    query = "SELECT * FROM users WHERE username=%s"
+    cursor.execute(query, (username, ))
+    if len(cursor.fetchall()) > 0:
+        raise RuntimeError("User with this username already exists")
+
+    # check that a user with this email doesn't already exist
+    query = "SELECT * FROM users WHERE email=%s"
+    cursor.execute(query, (email, ))
+    if len(cursor.fetchall()) > 0:
+        raise RuntimeError("User with this email already exists")
+
+    pass_hash = get_hash(password)
+
+    query = "INSERT INTO users (email, username, password, cookie_id) VALUES(%s, %s, %s, %s)"
+    cursor.execute(query, (email, username, pass_hash, cookie_id))
+
+def check_pass(input_pass, stored_hash):
+    '''
+        Returns True if input_pass and stored_hash correspond 
+        Returns False otherwise
+    '''
+    
+    return sha256_crypt.verify(input_pass, stored_hash)
+
+def get_hash(raw_pass):
+    '''
+        Returns hash of raw_pass (77 length)
+    '''
+
+    return sha256_crypt.encrypt(raw_pass)
+
+'''
+    START cookie stuff
+'''
 
 def get_cookie_info(cursor, request):
     '''
-        Returns the id of the trips_data cookie from the trips_data_cookies table, and the cookie token, and the username, if given.
+        Returns id and token associated with the trips_data cookie from the request
 
         If the trips_data cookie isn't included in the request, this creates the cookie, then returns its id.
-
-        If a username is specified in the request, return the cookie associated with that user (if the user
-        doesn't already exist, create a new user)
     '''
-
-    username = None
-    if 'username' in request.args:
-        username = request.args['username']
-
-        query = "SELECT cookie_id FROM users WHERE username=%s"
-        cursor.execute(query, (username, ))
-        result = cursor.fetchall()
-        if len(result) > 0:
-            # user already exists
-            cookie_id = result[0][0]
-
-            # get the cookie
-            query = "SELECT cookie FROM trips_data_cookies WHERE id=%s"
-            cursor.execute(query, (cookie_id, ))
-            cookie_token = cursor.fetchall()[0][0]
-
-            return cookie_id, cookie_token, username
-
-    # if here, either no username given, or the username given doesn't exist yet
 
     # get/create the cookie
     if 'trips_data' in request.cookies and 'logout' not in request.args:
@@ -75,21 +179,7 @@ def get_cookie_info(cursor, request):
 
     cookie_id = str(cookie_id[0][0])
 
-    # handle username stuff
-    if username is None:
-        # if username not in the request, see if one already exists with this cookie
-        query = "SELECT username FROM users WHERE cookie_id=%s"
-        cursor.execute(query, (cookie_id, ))
-        result = cursor.fetchall()
-        if len(result) > 0:
-            username = result[0][0]
-
-    else:
-        # if username in request, create new user and give it this cookie
-        query = "INSERT INTO users (username, cookie_id) VALUES(%s, %s)"
-        cursor.execute(query, (username, cookie_id))
-
-    return cookie_id, cookie_token, username
+    return cookie_id, cookie_token
 
 def create_cookie(cursor):
     '''
