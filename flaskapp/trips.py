@@ -11,14 +11,21 @@ def trips():
     conn = get_db_conn()
     cursor = conn.cursor()
 
-    cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
-    conn.commit()
-  
+    try:
+        cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
+        conn.commit()
+    except Exception as e:
+        return str(e)
+
     cursor.close()
     conn.commit()
     conn.close()
-    
-    response = make_response(render_template("trips.html", user=user))
+   
+    if request.method == 'POST':
+        response = make_response(redirect(url_for("trips", user=user)))
+    else:
+        response = make_response(render_template("trips.html", user=user))
+
     response.set_cookie("trips_data", cookie_token)
 
     return response

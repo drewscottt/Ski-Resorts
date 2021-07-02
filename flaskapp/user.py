@@ -10,9 +10,12 @@ from main import *
 def user():
     conn = get_db_conn() 
     cursor = conn.cursor()
-  
-    cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
-    conn.commit()
+ 
+    try:
+        cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
+        conn.commit()
+    except Exception as e:
+        return str(e)
 
     email = None
     time_created = None
@@ -29,7 +32,11 @@ def user():
     conn.commit()
     conn.close()
 
-    response = make_response(render_template("user.html", user=user, time_created=time_created, email=email))
+    if request.method == 'POST':
+        response = make_response(redirect(url_for("user", user=user)))
+    else:
+        response = make_response(render_template("user.html", user=user, time_created=time_created, email=email))
+    
     response.set_cookie("trips_data", cookie_token)
 
     return response
