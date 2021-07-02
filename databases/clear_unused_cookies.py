@@ -1,7 +1,7 @@
 '''
     File: clear_unused_cookies.py
     Author: Drew Scott
-    Description: Checks all cookies created more than 1 hour ago. Deletes them if there are no trips data associated with them.
+    Description: Checks all cookies created more than 1 hour ago. Deletes them if there are no trips data and no user associated with them.
 '''
 
 import MySQLdb
@@ -23,18 +23,24 @@ def main():
 
     candidates = cursor.fetchall()
 
-    # check candidates for trips data (if they have a separate trips_data_cookie<id> table or if that table is empty)
+    # check candidates for trips and user data (if they have a separate trips_data_cookie<id> table or if that table is empty)
     for c in candidates:
-        # check if c has a trips_data_cookie<c_id> table
         c_id = c[0]
+
+        # check if cookie has user associated with it
+        if has_user(cursor, c_id):
+            # this cookie has a user, so don't delete it
+            continue
+
+        # check if c has a trips_data_cookie<c_id> table
         table_name = f"trips_data_cookie{c_id}"
         query = "SHOW TABLES LIKE %s"
         cursor.execute(query, (table_name, ))
         table_exists = len(cursor.fetchall()) == 1
 
         if not table_exists:
-            # c doesn't have a table, so delete the row
-            query = f"DELETE FROM trips_data_cookies WHERE id=%s"
+            # c doesn't have trips or user associated with it, so delete it
+            query = "DELETE FROM trips_data_cookies WHERE id=%s"
             cursor.execute(query, (c_id, ))
         else:
             # c has a table, so check if it's empty
@@ -76,6 +82,11 @@ def main():
     cursor.close()
     conn.commit()
     conn.close()
+
+def has_user(cursor, cookie_id):
+    query = "SELECT * FROM users WHERE cookie_id=%s"
+    cursor.execute(query, (cookie_id, ))
+    return len(cursor.fetchall()) != 0
 
 if __name__ == "__main__":
     while True:

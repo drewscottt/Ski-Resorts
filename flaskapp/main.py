@@ -15,9 +15,10 @@ from passlib.hash import sha256_crypt
 
 from passwords import DB, ALL_USER, ALL_PASSWORD, SELECT_USER, SELECT_PASSWORD
 
-app = Flask(__name__)
 import logging
 logging.basicConfig(level=logging.DEBUG)
+
+app = Flask(__name__)
 
 def get_db_conn():
     '''
@@ -30,30 +31,56 @@ def get_db_conn():
     START user stuff
 '''
 
+def get_user_session_info(conn, cursor, request):
+    # get cookie info from request.cookies
+    # if a cookie wasn't sent, we will create one
+    cookie_id, cookie_token = get_cookie_info(cursor, request)
+    conn.commit()
+
+    # get cookie/user info from login request
+    # if a login was successful, we will change the cookie_id and cookie_token to the ones associated with the user
+    user, new_cookie_id, new_cookie_token = handle_user(cursor, request, cookie_id)
+    if new_cookie_id is not None and new_cookie_token is not None:
+        # swap cookie_id and cookie_token
+        cookie_id = new_cookie_id
+        cookie_token = new_cookie_token
+
+    return cookie_id, cookie_token, user
+
 def handle_user(cursor, request, cookie_id):
     '''
         Returns the username of the user in the request. Handles create account and login requests
     '''
-
+    
     user = None
+    new_cookie_id = None
+    new_cookie_token = None
+
     # check if a sign up or login was requested
     if 'username' in request.form and 'password' in request.form:
         if 'email' in request.form:
             # sign up requested
-            create_user(cursor, request, cookie_id)
-
+            user = create_user(cursor, request, cookie_id)
         else:
             # login requested
-            return login_user(cursor, request)
+            user = login_user(cursor, request)
+           
+            query = "SELECT cookie_id FROM users WHERE username=%s"
+            cursor.execute(query, (user, ))
+            new_cookie_id = cursor.fetchall()[0][0]
+        
+            query = "SELECT cookie FROM trips_data_cookies WHERE id=%s"
+            cursor.execute(query, (new_cookie_id, ))
+            new_cookie_token = cursor.fetchall()[0][0]
 
-    query = "SELECT username FROM users WHERE cookie_id=%s"
-    cursor.execute(query, (cookie_id, ))
-    result = cursor.fetchall()
-    if len(result) > 0:
-        user = result[0][0]
+    elif 'trips_data' in request.cookies:
+        query = "SELECT username FROM users WHERE cookie_id=%s"
+        cursor.execute(query, (cookie_id, ))
+        result = cursor.fetchall()
+        if len(result) > 0:
+            user = result[0][0]
 
-    return user
-
+    return user, new_cookie_id, new_cookie_token
 
 def login_user(cursor, request):
     '''
@@ -91,7 +118,6 @@ def login_user(cursor, request):
             query = "SELECT username FROM users WHERE email=%s"
             cursor.execute(query, (user, ))
             return cursor.fetchall()[0][0]
-
         return None
 
     # a user with the username/email specified doesn't exist
@@ -130,6 +156,8 @@ def create_user(cursor, request, cookie_id):
 
     query = "INSERT INTO users (email, username, password, cookie_id) VALUES(%s, %s, %s, %s)"
     cursor.execute(query, (email, username, pass_hash, cookie_id))
+
+    return username
 
 def check_pass(input_pass, stored_hash):
     '''

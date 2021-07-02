@@ -10,20 +10,14 @@ from main import *
 def search():
     conn = get_db_conn() 
     cursor = conn.cursor()
-    
-    # get/create cookie (used to track trips data)
-    cookie_id, cookie_token = get_cookie_info(cursor, request)
+   
+    app.logger.info("REQUEST: ")
+    app.logger.info(request.form)
+    app.logger.info(request.args)
+    app.logger.info(request.cookies)
+
+    cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
     conn.commit()
-    
-    user = None
-    # get the username, and handle sign ups and logins
-    try:
-        user = handle_user(cursor, request, cookie_id)
-        conn.commit()
-    except AttributeError:
-        return "Must fill all inputs"
-    except RuntimeError as e:
-        return str(e)
 
     # get search and _type (used to get search information; search is the search term, and _type is the search type (resort or state))
     search, _type = get_search_params(request)
@@ -131,6 +125,12 @@ def get_trips(cursor, cookie_id):
         We return tuples of: (skiresorts.name, trips.start, trips.end, 
             [(trips.first_person.name, trip.first_person.age), ...], (skiresorts.latitude, skiresorts.longitude))
     '''
+
+    # check that a table for this cookie_id exists
+    query = f"SHOW TABLES LIKE 'trips_data_cookie{cookie_id}'"
+    cursor.execute(query)
+    if len(cursor.fetchall()) == 0:
+        return ()
 
     # this query should be safe, since we're generating the cookie_id
     query = f"SELECT * FROM trips_data_cookie{cookie_id}"
