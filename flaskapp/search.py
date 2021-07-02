@@ -11,13 +11,11 @@ def search():
     conn = get_db_conn() 
     cursor = conn.cursor()
    
-    app.logger.info("REQUEST: ")
-    app.logger.info(request.form)
-    app.logger.info(request.args)
-    app.logger.info(request.cookies)
-
-    cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
-    conn.commit()
+    try:
+        cookie_id, cookie_token, user = get_user_session_info(conn, cursor, request)
+        conn.commit()
+    except Exception as e:
+        return str(e)
 
     # get search and _type (used to get search information; search is the search term, and _type is the search type (resort or state))
     search, _type = get_search_params(request)

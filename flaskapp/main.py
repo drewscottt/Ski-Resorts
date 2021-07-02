@@ -64,14 +64,14 @@ def handle_user(cursor, request, cookie_id):
         else:
             # login requested
             user = login_user(cursor, request)
-           
-            query = "SELECT cookie_id FROM users WHERE username=%s"
-            cursor.execute(query, (user, ))
-            new_cookie_id = cursor.fetchall()[0][0]
-        
-            query = "SELECT cookie FROM trips_data_cookies WHERE id=%s"
-            cursor.execute(query, (new_cookie_id, ))
-            new_cookie_token = cursor.fetchall()[0][0]
+            if user is not None:
+                query = "SELECT cookie_id FROM users WHERE username=%s"
+                cursor.execute(query, (user, ))
+                new_cookie_id = cursor.fetchall()[0][0]
+            
+                query = "SELECT cookie FROM trips_data_cookies WHERE id=%s"
+                cursor.execute(query, (new_cookie_id, ))
+                new_cookie_token = cursor.fetchall()[0][0]
 
     elif 'trips_data' in request.cookies:
         query = "SELECT username FROM users WHERE cookie_id=%s"
@@ -90,13 +90,13 @@ def login_user(cursor, request):
         And when there isn't a user in the users table that has the username/email specified in request.form
     '''
 
-    # make sure username and password are defined
-    if 'username' not in request.form or 'password' not in request.form:
-        raise AttributeError
-
     # extract values from request
     user = request.form['username']
     password = request.form['password']
+    
+    # make sure username and password are defined
+    if len(user) == 0 or len(password) == 0: 
+        raise AttributeError("All fields must be defined")
 
     # user can be either a username or an email
 
@@ -131,14 +131,14 @@ def create_user(cursor, request, cookie_id):
         And when a user with the specified username or email already exists
     '''
 
-    # make sure all values are defined in the request.form (email, username, password)
-    if 'email' not in request.form or 'username' not in request.form or 'password' not in request.form:
-        raise AttributeError
-    
     # extract values from request
     email = request.form['email']
     username = request.form['username']
     password = request.form['password']
+    
+    # make sure all values are defined in the request.form (email, username, password)
+    if len(email) == 0 or len(username) == 0 or len(password) == 0: 
+        raise AttributeError("All fields must be filled")
 
     # check that a user with this name doesn't already exist
     query = "SELECT * FROM users WHERE username=%s"

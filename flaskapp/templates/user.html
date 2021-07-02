@@ -5,6 +5,7 @@
 	<div id="body">
 		{% if user is not none %}
 		<p>Username: {{ user }}</p>
+		<p>Email: {{ email }}</p>
 		<p>User since: {{ time_created }} GMT</p>
 		{% else %}
 		<p>You're not currently logged in!</p>
