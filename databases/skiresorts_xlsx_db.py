@@ -7,7 +7,7 @@
 import openpyxl
 import mysql.connector
 
-from passwords import DB, ALL_USER, ALL_PASSWORD
+from passwords import DB, USER, PASSWORD
 
 FIRST_COL = 'skiresort_info_page'
 SECOND_COL = 'name'
@@ -18,7 +18,7 @@ SIXTH_COL = 'longitude'
 
 def main():
     # connect to db
-    conn = mysql.connector.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    conn = mysql.connector.connect(user=USER, password=PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
 
     cursor = conn.cursor()
 

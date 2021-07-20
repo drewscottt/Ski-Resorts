@@ -5,12 +5,12 @@
 '''
 
 import MySQLdb
-from passwords import ALL_USER, ALL_PASSWORD, DB
+from passwords import DB, USER, PASSWORD 
 from datetime import datetime, timedelta
 import time
 
 def main():
-    conn = MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    conn = MySQLdb.connect(user=USER, password=PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
     cursor = conn.cursor()
 
     # cookie can be unused if it was created more than an hour ago

@@ -24,7 +24,7 @@ fi
 
 # start new state
 cd /var/www/flaskapp
-sudo gunicorn --workers=3 --worker-class=gevent wsgi:app 1>~/flaskapp_parent/logs/log.out 2>~/flaskapp_parent/logs/log.err & 
+sudo systemctl start flaskapp
 
 # kill current clear_unused_cookies program 
 clear_cookies=(`ps -ef | grep clear_unused_cookies.py`)

@@ -1,3 +1,4 @@
+'''
 from flask import Flask, render_template, request, redirect, url_for, jsonify, make_response
 import MySQLdb
 from datetime import datetime
@@ -42,3 +43,4 @@ def grace():
         return redirect(url_for("grace"))
 
     return render_template("grace.html", comments=comments)
+'''

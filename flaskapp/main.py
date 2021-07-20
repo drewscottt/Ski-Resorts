@@ -13,7 +13,7 @@ from datetime import datetime
 import random, string
 from passlib.hash import sha256_crypt
 
-from passwords import DB, ALL_USER, ALL_PASSWORD, SELECT_USER, SELECT_PASSWORD
+from passwords import DB, USER, PASSWORD 
 
 import logging
 logging.basicConfig(level=logging.DEBUG)
@@ -25,7 +25,7 @@ def get_db_conn():
         Returns a connection to the database.
     '''
 
-    return MySQLdb.connect(user=ALL_USER, password=ALL_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    return MySQLdb.connect(user=USER, password=PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
 
 '''
     START user stuff

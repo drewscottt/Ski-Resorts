@@ -35,6 +35,26 @@ Using this configuration file, we are re-routing stuff from localhost:8000 to th
 So, you need to be running the flaskapp on localhost:8000
 To do this, use gunicorn
 
+Create a flaskapp service to run gunicorn on localhost:
+In `/etc/systemd/system/flaskapp.service` put:
+
+`
+[Unit]
+Description=Gunicorn instance to serve flaskapp
+After=network.target
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/var/www/flaskapp
+Environment="PATH=/var/www/flaskapp"
+ExecStart=/home/ubuntu/.local/bin/gunicorn --preload --workers=3 --worker-class=gevent wsgi:app 1>~/flaskapp_parent/logs/log.out 2>~/flaskapp_parent/logs/log.err
+
+[Install]
+WantedBy=multi-user.target
+`
+Then start and enable the service.
+
 Go to /var/www/flaskapp and run `sudo gunicorn --workers=5 wsgi:app`
 Where `wsgi.py` runs the flask app
 

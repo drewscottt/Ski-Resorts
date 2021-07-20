@@ -1,6 +1,4 @@
-[2021-07-02 01:47:26 +0000] [187660] [INFO] Starting gunicorn 20.0.4
-[2021-07-02 01:47:26 +0000] [187660] [INFO] Listening at: http://127.0.0.1:8000 (187660)
-[2021-07-02 01:47:26 +0000] [187660] [INFO] Using worker: gevent
-[2021-07-02 01:47:26 +0000] [187665] [INFO] Booting worker with pid: 187665
-[2021-07-02 01:47:26 +0000] [187666] [INFO] Booting worker with pid: 187666
-[2021-07-02 01:47:26 +0000] [187667] [INFO] Booting worker with pid: 187667
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/bin/gunicorn", line 5, in <module>
+    from gunicorn.app.wsgiapp import run
+ModuleNotFoundError: No module named 'gunicorn'
