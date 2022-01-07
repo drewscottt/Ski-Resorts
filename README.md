@@ -1,4 +1,4 @@
-View at: `http://ec2-54-188-2-63.us-west-2.compute.amazonaws.com/`
+View at: `http://ec2-54-184-86-6.us-west-2.compute.amazonaws.com/` 
 
 This project is created by using Flask, and served on an Amazon EC2 instance, using nginx and gunicorn to create a reverse proxy to forward the locally served app to the public (explained in `HOWTO_NGINX.md`).
 
