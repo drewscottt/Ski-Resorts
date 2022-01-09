@@ -1,0 +1,57 @@
+html {
+	background-color: #3e6990;
+	color: #e8eaed;
+	font-family: 'Roboto Mono', monospace;
+}
+
+body > div > div {
+	position: relative;
+	left: 2%;
+	width: 98%;
+}
+
+body > div > label {
+	position: relative;
+	left: 2%;
+	width: 98%;
+}
+
+#projects-content > div {
+	position: relative;
+	left: 2%;
+	width: 98%;
+}
+
+a {
+	color: #e8eaed;
+}
+
+a:visited {
+	color: #e8eaed;
+}
+
+input[type=checkbox] {
+   position: absolute;
+   top: -9999px;
+   left: -9999px;
+}
+
+input[type=checkbox]:checked ~ #coursework {
+	display: inline-block;
+}
+
+#coursework {
+	display: none;
+}
+
+#coursework-sections {
+	display: flex;
+}
+
+#coursework-sections > * {
+	width: 25%;
+}
+
+#bottom {
+	height: 4%;
+}

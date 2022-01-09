@@ -1,0 +1,161 @@
+<html>
+	<title>Drew Scott - Portfolio</title>
+
+	<head>
+		<link rel="stylesheet" href="{{ url_for('static',filename='portfolio.css') }}">
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap" rel="stylesheet">
+
+		<link rel="icon" href="{{ url_for('static', filename='portfolio_logo.png') }}">
+	</head>
+
+	<h1>Hello, my name is Drew Scott. I'm an aspiring Software Engineer.</h1>
+
+	<div id="overview">
+		<h2>Overview</h2>
+
+		<div id="technical-skills">
+			<h3>Technical Skills</h3>
+			<ul>
+				<li>Languages: Python, Java, C, JavaScript</li>
+				<li>Stack: AWS EC2, nginx, MySQL, Python (Flask), HTML/CSS/JS</li>
+				<li>Python Libraries: pandas, numpy, Flask, Keras, bs4, PySpark</li>
+				<li>OS: Linux and macOS</li>
+				<li>Other: git, vim, Docker, Kubernetes</li>
+			</ul>
+		</div>
+
+		<div id="links">
+			<h3>Links</h3>
+			<ul>
+				<li><a href="https://github.com/drewscottt">GitHub</a></li>
+				<li><a href="https://www.linkedin.com/in/drewscottt/">LinkedIn</a></li>
+			<ul>
+		</div>
+	</div>
+
+	<div id="education">
+		<h2>Education</h2>
+		<ul>
+			<li>Computer Science and Mathematics, B.S. at the University of Arizona (Aug 2019 - May 2022)</li>
+			<li>Computer Science Accelerated Master's Program at the University of Arizona (Jan 2022 - May 2023)</li>
+		</ul>
+
+		<label for="show-coursework-toggle">Show coursework &#10552;</label>
+		<input type="checkbox" id="show-coursework-toggle">
+
+		<div id="coursework">
+			<div id="coursework-sections">
+				<div id="cs-undergrad">
+					<h3>Undergrad CS Courses:</h3>
+					<ul>
+						<li>CSC 452: Operating Systems</li>
+						<li>CSC 460: Database Design</li>
+						<li>CSC 473: Automata, Grammars, and Languages</li>
+						<li>CSC 445: Algorithms</li>
+						<li>CSC 425: Computer Networking</li>
+						<li>CSC 346: Cloud Computing</li>
+					</ul>
+				</div>
+
+				<div id="cs-grad">
+					<h3>Graduate CS Courses:</h3>
+					<ul>
+						<li>CSC 552: Operating Systems II</li>
+						<li>CSC 566: Computer Security</li>
+					</ul>
+				</div>
+
+				<div id="math-undergrad">
+					<h3>Mathematics Courses:</h3>
+					<ul>
+						<li>MATH 445: Cryptography</li>
+						<li>MATH 443: Graph Theory</li>
+						<li>MATH 464: Theory of Probability</li>
+						<li>MATH 466: Theory of Statistics</li>
+						<li>MATH 313: Linear Algebra</li>
+					</ul>
+				</div>
+
+				<div id="other-undergrad">
+					<h3>Other Courses:</h3>
+					<ul>
+						<li>ISTA 457: Neural Networks</li>
+						<li>ISTA 322: Data Engineering</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="work-experience">
+		<h2>Work Experience</h2>
+		<div id="internships">
+			<h3>Internships</h3>
+			<ul>
+				<li>Software Engineering Intern at CrowdStrike (May 2022 - Aug 2022)</li>
+				<ul>
+					<li>Future</li>
+				</ul>
+
+				<li>Backend Development Intern at IBM (May 2020 - Aug 2020)</li>
+				<ul>
+					<li>Contributed to an open source project (AWX, upstream of Ansible Tower) to allow users to configure an SSO using OpenID Connect</li>
+					<li>Developed an ability to understand a developed code base in order to make contributions</li>
+					<li>Worked on a remote team of interns and full time employees in an Agile environment</li>
+					<li>Presented project outcome to ~150 IBM employees</li>
+				</ul>
+			</ul>
+		</div>
+
+		<div id="other-work">
+			<h3>Other</h3>
+			<ul>
+				<li>Undergraduate TA for CSC 252 (Computer Organization) at the University of Arizona (Jan 2022 - May 2022)</li>
+				<ul>
+					<li>Future</li>
+				</ul>
+
+				<li>Technical Lead and Instructor at iCode Boise (May 2021 - Aug 2021)</li>
+				<ul>
+					<li>Led and instructed week long summer camps for kids and teens about different technologies, including using a Python library to interact with Tello drones, modding Minecraft, using RasberryPis, and cybersecurity concepts.</li>
+					<li>Contributed to a growing nationwide company by lending advice relating to attention to detail when writing code</li>
+					<li>Learned to effectively communicate problems and situations to bosses</li>
+				</ul>
+			</ul>
+		</div>
+	</div>
+
+	<div id="projects">
+		<h2>Projects</h2>
+		<div id="projects-content">
+
+			<h3>Ski Resort Website</h3>
+			<div id="ski-project">
+				<p>Topic: Full Stack Web Development</p>
+				<p>Developed a website hosted on an AWS EC2 server that provides an interface for searching for and viewing ski resorts in the US. Users are able to create an account so that they can create a saved itinerary of ski resort trips they plan to take. Data was collected from web scraping and Google APIs and is stored in a MySQL database. The webserver runs using an nginx reverse proxy and uses Flask as a backend.</p>
+				<a href="http://ec2-54-184-86-6.us-west-2.compute.amazonaws.com/">Go to project homepage</a><br>
+				<a href="https://github.com/drewscottt/Ski-Resorts">View on GitHub</a>
+			</div>
+
+			<h3>Batting Order Simulation</h3>
+			<div id="batting-project">
+				<p>Topic: Open Source Data Analysis</p>
+				<p>Created a Python program to determine the best batting order for a given lineup of MLB players. The user may specify the lineup, how many games each order will be simulated for, and what plate appearance outcomes each player had during a game. The program is object oriented in nature, which supplies users an easy API to run their own simulations. The project was published in PyPI, so that it can be pip-installable.</p>
+				<a href="https://github.com/drewscottt/batting_order_analysis">View on GitHub</a><br>
+				<a href="https://pypi.org/project/batting-order-analysis/">View on PyPI</a>
+			</div>
+
+			<h3>UArizona Professor, Department, and Course Database</h3>
+			<div id="arizona-project">
+				<p>Topic: Data Engineering</p>
+				<p>Merged and cleaned two datasets (University of Arizona Employee salaries and RateMyProfessor API information) using Python's pandas library into a MySQL database to allow for queries to be made about professors, departments, and courses at the University of Arizona. Demographic information about professors was inferred using third party libraries, which allows for diversity and equity to be measured across different departments and job titles. Used the ETL process to solve a data engineering problem.</p>
+				<a href="https://github.com/drewscottt/UArizona-RMP">View on GitHub</a>
+			</div>
+		</div>
+	</div>
+
+	<div id="bottom"></div>
+</html>
