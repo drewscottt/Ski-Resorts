@@ -35,6 +35,7 @@ Then, start nginx: `sudo systemctl start nginx`
 Using this configuration file, we are re-routing stuff from localhost:8000 to the server names (this is the reverse proxy part)
 
 So, you need to be running the flaskapp on localhost:8000
+
 To do this, use gunicorn
 
 Create a flaskapp service to run gunicorn on localhost:
