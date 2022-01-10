@@ -57,8 +57,7 @@ In `/etc/systemd/system/flaskapp.service` put:
 
 Then start and enable the service: ```sudo systemctl start flaskapp```
 
-Go to /var/www/flaskapp and run `sudo gunicorn --workers=5 wsgi:app`
-Where `wsgi.py` runs the flask app
+Go to /var/www/flaskapp and run `sudo gunicorn --workers=5 wsgi:app`, where `wsgi.py` runs the flask app
 
-Look at the `restartApp.sh` file to see how to automate updating the gunicorn workers each time you make a change
+Further reference: Look at the `restartApp.sh` file to see how to automate updating the gunicorn workers each time you make a change
 
