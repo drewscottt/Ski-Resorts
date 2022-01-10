@@ -30,6 +30,8 @@ and make a new file called `flaskapp.conf` to set up the site configuration:
 
 then, create a symbolic link with this file and `/etc/nginx/sites-enabled/flaskapp.conf`
 
+Then, start nginx: `sudo systemctl start nginx`
+
 Using this configuration file, we are re-routing stuff from localhost:8000 to the server names (this is the reverse proxy part)
 
 So, you need to be running the flaskapp on localhost:8000

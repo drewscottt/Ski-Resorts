@@ -1,15 +1,14 @@
-'''
 from flask import Flask, render_template, request, redirect, url_for, jsonify, make_response
 import MySQLdb
 from datetime import datetime
 
-from passwords import DB, GRACE_USER, GRACE_PASSWORD
+from passwords import GRACE_DB, GRACE_USER, GRACE_PASSWORD
 
 from main import app
 
 @app.route("/grace", methods=['GET', 'POST'])
 def grace():
-    conn = MySQLdb.connect(user=GRACE_USER, password=GRACE_PASSWORD, host='localhost', database=DB, auth_plugin='mysql_native_password')
+    conn = MySQLdb.connect(user=GRACE_USER, password=GRACE_PASSWORD, host='localhost', database=GRACE_DB, auth_plugin='mysql_native_password')
 
     if request.method == 'POST':
         if len(request.form) == 2:
@@ -43,4 +42,3 @@ def grace():
         return redirect(url_for("grace"))
 
     return render_template("grace.html", comments=comments)
-'''
